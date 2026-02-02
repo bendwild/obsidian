@@ -14,7 +14,7 @@ rating:
   - ⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-02T13:59
+modified: 2026-02-02T14:27
 ---
 # Reflections
  bashingantahe
@@ -35,3 +35,8 @@ not to worry if you did not kill many people; the secret was to keep killing
 Having live through thirteen years of civil war, I know that violence can become almost a culture in itself, and that it twists not all but many of the people who are trapped in it. 
 
 Similar identity politics between MAGA and hutu/tutsis, you shouldn’t feel comfortable among them
+
+Lord, make burundi a country of milk and honey again
+
+The power of storytelling, I experienced art before i knew the word
+when war finally ended, the whole tradition of storytelling was gone
