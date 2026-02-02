@@ -6,20 +6,20 @@ tags:
   - global-health
 publish: true
 created: 2026-02-01T16:16
-modified: 2026-02-01T16:54
+modified: 2026-02-02T11:39
+title: "COVID-19 reveals weak health systems by design: Why we must remake global health in this historic moment"
 ---
 # Reflections
 > [!PDF|187, 97, 229] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=3&annotation=374R|Harvey, M et al. (2020). Structural competency and global health education., p.3]]
-> > peciﬁcally, the pandemic demonstrates the hollowness of the global health rhetoric of equity, the weaknesses of a health security-driven global health agenda, and the negative health impacts of power diﬀerentials not only globally, but also regionally and locally.
+> > Speciﬁcally, the pandemic demonstrates the hollowness of the global health rhetoric of equity, the weaknesses of a health security-driven global health agenda, and the negative health impacts of power diﬀerentials not only globally, but also regionally and locally.
 > > - Despite decades of work by many in multilateral organisations, NGOs and national governments, the COVID 19 pandemic reveals the weaknesses of our public health systems globally
 
 ## Hollowness of the rhetoric of equity in global health
 > [!PDF|234, 82, 82] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=4&annotation=380R|Harvey, M et al. (2020). Structural competency and global health education., p.4]]
-> > Historically, transnational global health eﬀorts have focused on narrow, disease speciﬁc interventions often conducted by private organisations or public- private partnerships while promises to strengthen health care systems themselves have gone largely unfulﬁlled (
+> > Historically, transnational global health eﬀorts have focused on narrow, disease speciﬁc interventions often conducted by private organisations or public- private partnerships while promises to strengthen health care systems themselves have gone largely unfulﬁlled 
 
 > [!PDF|255, 208, 0] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=4&annotation=377R|Harvey, M et al. (2020). Structural competency and global health education., p.4]]
 > > During Smallpox eﬀorts in the late 1970s, despite a successful worldwide eradication eﬀort, very little was invested in health systems, leaving countries without systems capable of delivering care for other diseases
-> 
 > 
 
 > [!PDF|234, 82, 82] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=4&annotation=383R|Harvey, M et al. (2020). Structural competency and global health education., p.4]]
