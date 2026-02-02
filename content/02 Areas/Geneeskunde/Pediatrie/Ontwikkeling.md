@@ -1,0 +1,44 @@
+---
+tags:
+  - level-3🌴
+  - Pediatrie
+publish: true
+created: 2025-01-16T22:12
+modified: 2025-06-12T22:56
+---
+# Normaalwaarden leeftijdsklassen
+
+|                          | **  Ademhalingsfrequentie** | **Hartfrequentie** | **Systolische bloeddruk** | **Mijlpalen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------ | --------------------------- | ------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Neonaat (<1m)**        | 30-40                       | 110-160            | 70 - 85                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **[[Zuigeling]] (1m-1j)**    | 25-35                       | 100-150            | 70 - 105                  | Volgen, met draaien hoofd / 6w med, 3m max  <br>Glimlachen / 6w med, 8w max  <br>Geluidjes / 3m med  <br>Hoofdcontrole, spiertonus / 3m med, 4m max  <br>Voorwerpen grijpen, palmgreep / 4m med, 6m max  <br>Transfer / 6m med, 9m max  <br>Zitten zonder steun / 6m-8m med, 9m max  <br>Meerlettergrepig / 7m max  <br>Medeklinkers / 10m max  <br>Vreemdenangst / 10m max  <br>Pincetgreep / 10m med, 12m max  <br>Rechtstaan met vasthouden / 10m med, 12m max  <br>Zelfstandig lopen (met breed steunvlak) / 12m med, 18m max |
+| **Peuter (1j-2j)**       | 25-35                       | 100- 150           | 85 - 105                  | 6 woorden met betekenis / 18m max  <br>Eet zelfstanding / 18m max  <br>Combineert woorden / 2j max                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Jongere kind (2j-5j)** | 25-30                       | 95-140             | 90 -110                   | Symbolisch spel / 2-2,5j max  <br>3-woord zinnen / 2,5j max  <br>Interactief spel / 3-3,5j max                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Oudere kind (5j-12j)** | 20-25                       | 80-120             | 100 - 120                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Adolescent (>12j)**    | 15-20                       | 60-100             | 110 - 130                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+# Mijlpalen
+
+| **Grove motoriek**                                           | **Fijne motoriek & visus**                     | **Taal, spraak & gehoor**         | **Sociale & emotionele ontwikkeling** |
+| ------------------------------------------------------------ | ---------------------------------------------- | --------------------------------- | ------------------------------------- |
+|                                                              | Volgen, met draaien hoofd / 6w med, 3m max     |                                   | Glimlachen / 6w med, 8w max           |
+| Hoofdcontrole, spiertonus / 3m med, 4m max                   |                                                | Geluidjes / 3m med                |                                       |
+|                                                              | Voorwerpen grijpen, palmgreep / 4m med, 6m max |                                   |                                       |
+| Zitten zonder steun / 6m-8m med, 9m max                      | Transfer / 6m med, 9m max                      |                                   |                                       |
+|                                                              |                                                | Meerlettergrepig / 7m max         |                                       |
+| Rechtstaan met vasthouden / 10m med, 12m max                 | Pincetgreep / 10m med, 12m max                 | Medeklinkers / 10m max            | Vreemdenangst / 10m max               |
+| Zelfstandig stappen (met breed steunvlak) / 12m med, 18m max |                                                |                                   |                                       |
+|                                                              |                                                | 6 woorden met betekenis / 18m max | Eet zelfstanding / 18m max            |
+|                                                              |                                                | Combineert woorden / 2j max       |                                       |
+|                                                              |                                                | 3-woord zinnen / 2,5j max         | Symbolisch spel / 2-2,5j max          |
+|                                                              |                                                |                                   | Interactief spel / 3-3,5j max         |
+
+| Leeftijd | Voeding                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <4m      | Startvoeding<br>- eerste leeftijdsmelk (benadert sterk samenstelling moedermelk) = enkel moeder/kunstmelk<br><br>                             |
+| 4-6m     | Introductie bijvoeding mogelijk                                                                                                               |
+| >6m      | Opvolgvoeding<br>- = 2de leeftijdsmelk (aangepast aan behoeften)<br>- gevarieerde bijvoeding nutritioneel noodzakelijk (fruit- en groentepap) |
+| 8-9m     | Boterham, koek...                                                                                                                             |
+| 12-18m   | Groeimelk <br>- verrijkt of volle koemelk bij zeer evenwichtige voeding<br>Met de keuken mee eten                                             |
+| >18m     | Geen volle melk(producten), halfvol/mager kan                                                                                                 |
+-> tot 12-18m aangepaste melkvoeding

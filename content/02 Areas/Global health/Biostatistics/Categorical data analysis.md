@@ -1,0 +1,14 @@
+---
+tags:
+  - Biostatistics
+publish: true
+created: 2025-10-28T14:03
+modified: 2025-10-28T15:24
+---
+
+|                         | What?                                                      | Assumptions                                                                                                                                                                                                                                                               | Formula                                                                                                                                                                                                        |
+| ----------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chi-squared test**    | A test of independence between **2 categorical variables** | - data should be frequencies<br>- comparison groups must be independent<br>- not a repeated measure (otherwise McNemar’s test)<br>- expected counts should not be less than 2 or no more than 20% of expected values should be less than 5 (othewise Fisher’s exact test) | ![[Pasted image 20251028140656.png]]<br><br>- O = observed counts<br>- E = expected counts                                                                                                                     |
+| **McNemar’s test**      | A test when you have **paired categorical data**           |                                                                                                                                                                                                                                                                           | ![[Pasted image 20251028140708.png]]<br><br>- b = number of discordant pairs in favorite of **rejecting** your hypothesis<br>- c = number of discordant pairs in favorite of **not rejecting** your hypothesis |
+| **Fisher’s exact test** |                                                            |                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                |
+

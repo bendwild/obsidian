@@ -1,0 +1,411 @@
+{
+  "nodes": [
+    {
+      "id": "b9a9092cc7ea035e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -840,
+      "y": -260,
+      "width": 1340,
+      "height": 1040,
+      "color": "4",
+      "label": "my digital swamp"
+    },
+    {
+      "id": "07d60e7e875b83d8",
+      "type": "group",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -520,
+      "y": -80,
+      "width": 993,
+      "height": 820,
+      "color": "1",
+      "label": "para"
+    },
+    {
+      "id": "b8a291681eb7ec70",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -820,
+      "y": -80,
+      "width": 266,
+      "height": 820,
+      "color": "3",
+      "label": "zettelkasten"
+    },
+    {
+      "id": "4ff5192bb9d4108d",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Music\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Music]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 152,
+      "y": 200,
+      "width": 126,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "aa4518d0a70ab883",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Cities Skylines\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[F I L O S O F I E]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "x": -758,
+      "y": -260,
+      "width": 128,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "704d6fba5a6479b5",
+      "type": "file",
+      "file": "content/06 Toolkit/Templates/Current date template.md",
+      "subpath": "#^b663bf",
+      "styleAttributes": {},
+      "x": -814,
+      "y": -235,
+      "width": 644,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "d1362cad32da645c",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Website\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: https://my-digital-nexus.pages.dev\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 308,
+      "y": -235,
+      "width": 158,
+      "height": 90
+    },
+    {
+      "id": "b9a8dec60dbec9f4",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Books\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Books]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 323,
+      "y": 80,
+      "width": 123,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "a5d7ae49c732c807",
+      "type": "text",
+      "text": " **C A R D S **",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 152,
+      "y": -60,
+      "width": 295,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "e6891a2fadf40bf1",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Articles\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Articles]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 152,
+      "y": 80,
+      "width": 126,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "906c7bb1e17403d7",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Personal growth\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Personal growth]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -336,
+      "y": 200,
+      "width": 124,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "379039bc3b234242",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Papers\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Papers]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 152,
+      "y": 320,
+      "width": 126,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "12277d298333ba7b",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Filosofie\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Filosofie]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -336,
+      "y": 80,
+      "width": 128,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "dfb434b3a3882342",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Quotes\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Quotes]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 323,
+      "y": 440,
+      "width": 124,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "4ccafc50e17e2977",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Cities skylines\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[F I L O S O F I E]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -170,
+      "y": 80,
+      "width": 128,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "87f9538e014fdb6b",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Fitness\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Fitness]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -8,
+      "y": 80,
+      "width": 128,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "f160fdd0367ccbaa",
+      "type": "text",
+      "text": " **A R E A S**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -503,
+      "y": -60,
+      "width": 295,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "7ea68669039f7f4c",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Videos\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Videos]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 155,
+      "y": 440,
+      "width": 123,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "274ce9483f508c43",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Poetry\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Poetry]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 323,
+      "y": 200,
+      "width": 123,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "5995c3ab5ec84a96",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Podcasts\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Podcasts]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 323,
+      "y": 320,
+      "width": 123,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "10074dd6a45cf1c0",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: DEI\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[Diversity & Inclusion]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -503,
+      "y": 200,
+      "width": 124,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "5a5201fe5795bb7d",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Geneeskunde\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[02 Areas/Geneeskunde/Geneeskunde|Geneeskunde]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -503,
+      "y": 80,
+      "width": 128,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "2a41f729801a5ce8",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Dashboard\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: dashboard-navigator:dashboard\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 105,
+      "y": -235,
+      "width": 158,
+      "height": 90
+    },
+    {
+      "id": "24b80fcaf9458f95",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Navigator\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: dashboard-navigator:navigator\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -102,
+      "y": -235,
+      "width": 158,
+      "height": 90
+    },
+    {
+      "id": "cff881b4e1d89eec",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: People\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: open\n    link: \"[[People]]\"\n    newTab: true\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": 155,
+      "y": 560,
+      "width": 123,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "7b861df67313a13d",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Daily note\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: file-explorer:new-file-in-new-pane\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -800,
+      "y": -40,
+      "width": 226,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "8dfd6d6784d233ad",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Daily note\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: file-explorer:new-file-in-new-pane\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -800,
+      "y": -40,
+      "width": 226,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "73fd1f2043da7db4",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Weekly note\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: calendar:open-weekly-note\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -800,
+      "y": 60,
+      "width": 226,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "8b9e819faea84e58",
+      "type": "text",
+      "text": "```meta-bind-button\nlabel: Daily drawing\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: plain\nactions:\n  - type: command\n    command: obsidian-excalidraw-plugin:excalidraw-autocreate-newtab\n\n```",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -800,
+      "y": 160,
+      "width": 226,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1b59df7c64b8d561",
+      "type": "text",
+      "text": " **P R O J E C T S**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -175,
+      "y": -60,
+      "width": 295,
+      "height": 100,
+      "color": "5"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

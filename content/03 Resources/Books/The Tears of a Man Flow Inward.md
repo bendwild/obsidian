@@ -1,0 +1,33 @@
+---
+tags:
+  - Books
+title: The Tears of a Man Flow Inward
+author: Pacifique Irankunda
+category: Biography & Autobiography
+cover_url: http://books.google.com/books/content?id=mb0vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+status:
+rating:
+  - ⭐⭐⭐⭐⭐
+  - ⭐⭐⭐⭐
+  - ⭐⭐⭐
+  - ⭐⭐
+  - ⭐
+publish: true
+created: 2025-01-16T22:12
+modified: 2026-01-30T14:25
+---
+# Reflections
+ bashingantahe
+ I have not lived well by you, but you becamae a mushingantahe
+ Institutional destruction
+
+Why did I give birth to you my dear children, forgiveme, i didn’t know burundi was going to turn into this
+
+[[We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light]]
+- restoration of umuco - the light - and the Bashingantahe who embodied it
+
+[[@ Ketty Nivyabandi]] - men whose pettiness pierces the deep slumber of the ancients
+
+one after another, gently on  a razor
+and other slogans like it
+not to worry if you did not kill many people; the secret was to keep killing

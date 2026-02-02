@@ -1,0 +1,51 @@
+---
+tags:
+  - level-3🌴
+  - Gastrologie
+  - Oncologie
+publish: true
+created: 2025-01-16T22:12
+modified: 2025-05-24T11:07
+---
+# Gastritis
+- infiltratie van ontstekingscellen
+- foveolaire hyperplasie
+- schade aan muscosa kan leiden tot atrofie
+    - chronische atrofische gastritis kan leiden tot intestinale metaplasie
+
+## H. Pylori gastritis
+- typisch mucosale neutrofielen
+    - **eerder oppervlakkig en subepitheliaal**
+- belangrijke oorzaak van maagulcera
+- onbehandeld kan leiden tot:
+    - atrofische gastritis
+    - verhoogd risico op adenocarcinoom en MALT-[[lymfoom]]
+
+## Acute hemorragische erosieve gastritis
+- trauma/[[sepsis]] met microcirculatoire stoornis
+- [[NSAID]]
+- alcoholexcess
+
+## Auto-immuun-gastritis = chronische gastritis
+- auto-antilichamen tegen pariëtale cellen en hun product intrinsic factor
+    → pernicieuze [[anemie]] en hypochlorhydrie
+- inflammatoir infiltraat
+    - lymfocyten, plasmacellen, macrofagen
+    - **itt h. pylori gastritis, eerder diep rond de klieren**
+- **intestinale metaplasie (pre-cancereus)** en endocriene cel-hyperplasie
+- risicofactor voor ontstaan
+    - dysplasie
+    - adenocarcinoom
+    - neuro-endocriene tumoren
+
+# Maligniteit
+
+|                     | Slokdarmkanker                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Adenocarcinoom & MALT-[[lymfoom]] maag                                                                                                                                         | GIST                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Epidemiologie       | 6de doodsoorzaak door kanker                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Slechte prognose                                                                                                                                                               | Zeldzaam                                                                                                                                                                                                                                                                                                                               |
+| Pathologie          | **Plaveiselcelcarcinoom** (progressieve afname)  <br>- alcohol  <br>- roken  <br><br>**Adenocarcinoom** (snelle toename, zien we laatste 20-30j its meer dan plaveiselcelca)  <br>- [[GERD]]  <br>- Barett metaplasie<br><br>Makkelijke doorgroei in omliggende organen  <br>- al in vroeg stadium lymfogene metastasering<br>- jump-[[Metastasen]]                                                                                                                                             | Sterke relatie met H. pylori<br>                                                                                                                                               | Mutatie in C-KIT gen **(CAVE erfelijkheid speelt geen rol)**  <br>< stromale weefsel tractus digestivus  <br>Meestal in maagwand, soms in wand dunne darm  <br>Kan ook op andere delen tractus                                                                                                                                         |
+| Kliniek             | **[[Dysfagie]]** (pseudo-achalasie)<br>[[Anemie]]  <br>Vermagering<br>Toevallige vondst                                                                                                                                                                                                                                                                                                                                                                                                         | Onverklaard gewichtsverlies  <br>Nausea, braken  <br>Epigastrische pijn  <br>Brandend maagzuur en oprispingen  <br>[[Dysfagie]]  <br>Vermoeidheid  <br>Hematemesis  <br>Melena | Toevallige vondst  <br>Digestieve bloeding  <br>Obstructie door massa-effect                                                                                                                                                                                                                                                           |
+| Diagnose en staging | Diagnose:<br>Endoscopie en biopsie  <br>- histologische bevestiging  <br><br>Staging: <br>CT thorax-abdomen  <br>- [[Metastasen]] uitsluiten<br><br>Echo-endoscopie  <br>- T-stadium bepalen  <br>- ev N-stadium bij kleinere tumoren<br><br>Bronchoscopie  <br>- bronchiale invasie uitsluiten  <br><br>Laparoscopie  <br>- vermoeden van peritoneale letsels                                                                                                                                  |                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                        |
+| Behandeling         | Vroege tumorstadia (intramucosaal)  <br>- endoscopische aanpak  <br><br>Invasie submucosa (N+ en/of gevorderd T-stadium)  <br>- preoperatief chemoradiatie  <br>- oesofagusresectie en direct aangrenzende lymfeklieren <br>- oesofagus reconstructie dmv Mackeown-techniek (cervicale naald) of Ivor-Lewis techniek (intrathoracale naald)<br><br>[[Metastasen]]  <br>- palliatief met chemo of endoprothese  <br><br>**! slechts minderheid slokdarmkankers kan curatief behandeld worden !** |                                                                                                                                                                                | Behandeling obv risico (tumorruptuur, lokalisatie, grootte, mitotische index)<br>- resectie met tumorvrije snijranden  <br>- totale gastrectomie met resectie omringende lymfeklieren<br>- nabehandeling met **imatinib** (tyrosine-kinase remmer)  <br>(Billroth 1, Billroth 2 & Roux en Y maagconstructie)<br><br>![[image-358.png]] |
+| Complicaties        | Naadlekkage (10%)  <br>- vooral bij naad hoog in de hals (Mackeown techniek)<br>Stenosering halsanastomose (45%)  <br>Pulmonaire complicaties (30%)  <br>Nervus laryngeus recurrens aantasting<br>Operatiemortaliteit <5%                                                                                                                                                                                                                                                                       |                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                        |
+| Prognose            | Hoge morbiditeit<br>- 30% pulmonaire complicaties (atlectase, [[pneumonie]])<br>- 10% naadlekkage<br>- sectie n. laryngeus superior                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                        |

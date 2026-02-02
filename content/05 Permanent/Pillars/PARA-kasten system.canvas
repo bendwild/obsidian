@@ -1,0 +1,285 @@
+{
+  "nodes": [
+    {
+      "id": "6f38c4fe8a2fa6eb",
+      "type": "group",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -420,
+      "y": -200,
+      "width": 820,
+      "height": 840,
+      "color": "4",
+      "label": "my digital swamp"
+    },
+    {
+      "id": "95693f1dcc882b6b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -140,
+      "width": 320,
+      "height": 740,
+      "color": "5",
+      "label": "PARA"
+    },
+    {
+      "id": "8cc1940384cf3145",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -140,
+      "width": 300,
+      "height": 740,
+      "color": "3",
+      "label": "zettelkasten"
+    },
+    {
+      "id": "70da2ce8d2caf66c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 240,
+      "width": 600,
+      "height": 340,
+      "color": "6",
+      "label": "shared"
+    },
+    {
+      "id": "850c4f2609983543",
+      "type": "text",
+      "text": "# RESOURCES",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": -260,
+      "y": 280,
+      "width": 525,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "9916ba1f93ff113e",
+      "type": "text",
+      "text": "# PROJECTS",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": -260,
+      "y": -90,
+      "width": 185,
+      "height": 90,
+      "color": "5"
+    },
+    {
+      "id": "5bca1303bf17a0ea",
+      "type": "text",
+      "text": "# AREAS",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": -260,
+      "y": 70,
+      "width": 185,
+      "height": 90,
+      "color": "5"
+    },
+    {
+      "id": "dd7bb0db7caffdcf",
+      "type": "text",
+      "text": "# ARCHIVES",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": -260,
+      "y": 440,
+      "width": 185,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "9cd827d2f08b1026",
+      "type": "text",
+      "text": "# FLEETING",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": 80,
+      "y": -90,
+      "width": 185,
+      "height": 90,
+      "color": "2"
+    },
+    {
+      "id": "672d5157d9ea55b2",
+      "type": "text",
+      "text": "# JOURNAL",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": 80,
+      "y": 70,
+      "width": 185,
+      "height": 90,
+      "color": "2"
+    },
+    {
+      "id": "0902578082cbe280",
+      "type": "text",
+      "text": "# PERMANENT",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "database"
+      },
+      "x": 80,
+      "y": 440,
+      "width": 185,
+      "height": 90,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "803c54011c5dec99",
+      "styleAttributes": {},
+      "fromNode": "9916ba1f93ff113e",
+      "fromSide": "bottom",
+      "toNode": "5bca1303bf17a0ea",
+      "toSide": "top"
+    },
+    {
+      "id": "855ed832128b874f",
+      "styleAttributes": {},
+      "fromNode": "5bca1303bf17a0ea",
+      "fromSide": "bottom",
+      "toNode": "850c4f2609983543",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "ee70a34bb5bc1218",
+      "styleAttributes": {},
+      "fromNode": "9cd827d2f08b1026",
+      "fromSide": "bottom",
+      "toNode": "672d5157d9ea55b2",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "c7ffc113ebaeb700",
+      "styleAttributes": {},
+      "fromNode": "dd7bb0db7caffdcf",
+      "fromSide": "right",
+      "toNode": "0902578082cbe280",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "ed9c1e64086710aa",
+      "styleAttributes": {},
+      "fromNode": "9cd827d2f08b1026",
+      "fromSide": "left",
+      "toNode": "9916ba1f93ff113e",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "f70b1e0def8cf6e4",
+      "styleAttributes": {},
+      "fromNode": "9cd827d2f08b1026",
+      "fromSide": "left",
+      "toNode": "5bca1303bf17a0ea",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "27c58d530eb00355",
+      "styleAttributes": {},
+      "fromNode": "672d5157d9ea55b2",
+      "fromSide": "right",
+      "toNode": "0902578082cbe280",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "08468d616330158a",
+      "styleAttributes": {},
+      "fromNode": "0902578082cbe280",
+      "fromSide": "left",
+      "toNode": "dd7bb0db7caffdcf",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "2c19dc3e7e85a591",
+      "styleAttributes": {},
+      "fromNode": "850c4f2609983543",
+      "fromSide": "bottom",
+      "toNode": "0902578082cbe280",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "776fa57b819f04e9",
+      "styleAttributes": {},
+      "fromNode": "850c4f2609983543",
+      "fromSide": "bottom",
+      "toNode": "dd7bb0db7caffdcf",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "b3321350020f22e9",
+      "styleAttributes": {},
+      "fromNode": "9916ba1f93ff113e",
+      "fromSide": "bottom",
+      "toNode": "5bca1303bf17a0ea",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "2e10f187964b84b1",
+      "styleAttributes": {},
+      "fromNode": "850c4f2609983543",
+      "fromSide": "left",
+      "toNode": "5bca1303bf17a0ea",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "9919e5c9a44f2567",
+      "styleAttributes": {},
+      "fromNode": "850c4f2609983543",
+      "fromSide": "left",
+      "toNode": "9916ba1f93ff113e",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "4778d1f4a3df3f02",
+      "styleAttributes": {},
+      "fromNode": "5bca1303bf17a0ea",
+      "fromSide": "bottom",
+      "toNode": "dd7bb0db7caffdcf",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "cb5c669fdf19c2ed",
+      "styleAttributes": {},
+      "fromNode": "9916ba1f93ff113e",
+      "fromSide": "bottom",
+      "toNode": "0902578082cbe280",
+      "toSide": "top",
+      "color": "4"
+    }
+  ],
+  "metadata": {}
+}

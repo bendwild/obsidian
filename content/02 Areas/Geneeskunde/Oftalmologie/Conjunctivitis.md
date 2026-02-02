@@ -1,0 +1,77 @@
+---
+tags:
+  - level-3🌴
+  - Oftalmologie
+publish: true
+created: 2025-01-16T22:12
+modified: 2025-06-12T23:03
+---
+# Etiologie
+
+| **Infectieus**                                                                                                                                                                        | **Allergisch**                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **BANAAL** <br>- 2/3 viraal  <br>- 1/3 Bacterieel  <br>-> geneest spontaan na 1-2w<br><br>**SPECIFIEK**<br>- [[Chlamydia spp]]<br>- Gonokok<br>- Herpes simplex<br>- Varicella zoster | IgE inflammatie door allergenen |
+
+# Symptomen
+**Moeilijk onderscheid te maken tussen viraal en bacterieel**
+
+| Etiologie                          | Symptomen                                                                                                                                                                                                                                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viraal = ‘pink eye’**            | - Diffuse roodheid conjunctiva, tranen  <br>- Gevoel v zand en [[jeuk]]  <br>- Verkoudheid, keelpijn, pre-aur klieren -> adenovirus                                                                                                                           |
+| **Bacterieel**                     | - Diffuse roodheid conjunctiva, tranen  <br>- Geen [[jeuk]]  <br>- ’s morgens dichtgeplakte ogen                                                                                                                                                              |
+| Herpes simplex                     | - vesiculaire huidlaesies  <br>- opgezette oogleden  <br>- tranen en irritatie  <br>- vaak blefaroconjunctivitis<br>- herpes keratitis met dendriet fluoresceine                                                                                              |
+| [[Herpes zoster]]                  | - Conjunctivitis bij ‘gordelroos’ huidafwijking in gelaat (CAVE [[herpes zoster]] ophtalmicus)                                                                                                                                                                |
+| Gonokokken of Chlamydia            | - Bij pasgeboren baby’s of bij seksueel actieve pt  <br>- Snel ontstaan  <br>- Hevige pus en rood                                                                                                                                                             |
+| Molluscum contagiosum  <br>        | - Langdurig recidiverend beloop  <br>- Waterwrat op ooglid                                                                                                                                                                                                    |
+| **dd. Allergische conjunctivitis** | - [[Jeuk]]  <br>- Branderig oog, conjunctivale roodheid en zwelling  <br>- Ooglid [[oedeem]], tranen  <br>- Samen met allergische rhinitis: neusloop, [[jeuk]], congestie, niezen, hoesten, wheezen, jeukende keel, dyspnoe, moe, evt koorts, jeukende huid.. |
+| _DD. Contact [[Allergie]]_         | - Periorbitaal [[eczeem]] en [[jeuk]]<br>- Uitgelokt door cosmetica, genees- of conservatiemiddelen in oogdruppels etc                                                                                                                                        |
+| _DD. Mech irritatie_               | - Stof, wind, wrijven, lenzen                                                                                                                                                                                                                                 |
+| _DD. Droge ogen_                   | - Branderig, vermoeid, stekend gevoel  <br>- Fotofobie, dichtgeplakte oogleden, visusafname                                                                                                                                                                   |
+
+# Diagnostiek
+- inspectie (oogleden, conjunctive, sclera, cornea, contactlenzen, pupillen…)
+- visusbepaling
+- beoordeling cornea-epitheel en -stroma na fluoresceïnekleuring
+- beoordeling voorste oogkamer op aanwezigheid pus, bloed of lensluxatie
+
+# Behandeling
+
+## Niet-medicamenteus
+- ==Doe contactlenzen uit bij klachten en tijdens de behandeling!==  -> **vraag hier actief naar!**
+- afscheiding regelmatig verwijderen met wattenstaafje met water
+- zonnebril dragen om oogknijpen te beperken
+
+## Medicamenteus
+### Niet-traumatish [[rood oog]] **zonder alarmsymptomen**
+
+| **Diagnose**                                     | **Niet-medicamenteus beleid**                                    | **Medicamenteuze behandeling**                                                                                                                                                                                                                                                               | **Controle, verwijzing oogarts**                                                                                                                                                                                                     |
+| ------------------------------------------------ | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Infectieuze conjunctivitis: banale verwekker** | Afwachtend beleid. Hygiënische maat-regelen -> zeer besmettelijk | **Indifferent middel = kunsttranen**  <br>  <br>Bij recente oogoperatie, chronisch infectieuze oogziekte of immuun-gecompromitteerde patiënt: chlooramfenicol-oogdruppels (0,5%, 6 dd 1-2 druppels) of -zalf (1%, 2-4 dd), tot 2 dagen na herstel (max. 14 dagen).                           | Wekelijks controle, of bij:  <br>- toename klachten/alarmsymptomen <br>- [[antibiotica]] én geen verbetering na 72u.Verwijs zonder [[antibiotica]] bij duur > 3 weken<br>- verwijzing bij persisterende [[visusdaling]] >14d<br><br> |
+| **SOA-conjunctivitis**                           | Hygiënische maat-regelen.                                        | **Systemisch [[antibiotica]]:**<br>  <br>bij vermoeden gonorroe directe start na afname kweken, anders op geleide uitslag                                                                                                                                                                    | Verwijs direct bij cornea-aantasting of conjunctivitis bij pasgeborene.Controle na de kuur.                                                                                                                                          |
+| **HSV-conjunctivitis**                           | Bespreek recidiverend karakter.                                  | Aciclovir-oogzalf 3% 5 dd tot 3 dagen na herstel, max. 2 weken.                                                                                                                                                                                                                              | Controle elke 3 dagen met fluoresceïne.                                                                                                                                                                                              |
+| **VZV-conjunctivitis**                           |                                                                  | Start direct een oraal anti-viraal middel                                                                                                                                                                                                                                                    | Verwijs of overleg dezelfde dag bij alarmsymptomen.    Verwijs anders binnen een week.                                                                                                                                               |
+| **Allergische conjunctivitis, IgE-gemedieerd**   | Zo nodig koud kompres.                                           | Lokaal antihistaminicum: azelastine 0,05% (2-4 dd 1 dr.), ketotifen 0,025% of olopatadine 0,1% (2 dd 1 dr.)  <br>  <br>Zo nodig ook oraal antihistaminicum.Bij heftige klachten max. 3 dagen prednisolon 0,5% 3-4 dd 1 druppel.Bij heftige [[jeuk]] ooglid: max. 3 dagen HCA-crème 1%, 2 dd. | Corneacontrole (fluoresceïne) voor en na prednisolon.  <br>  <br>Verwijs bij therapieresistente klachten.                                                                                                                            |
+| **Conjunctivitis door contact-[[allergie]]**     | Staak gebruik cosmetica, oogdruppels en contactlensvloeistof.    | Bij heftige klachten max. 3 dagen prednisolon 0,5% 3-4 dd 1 druppel.  <br>  <br>Bij heftige [[jeuk]] ooglid: max. 3 dagen HCA-crème 1%, 2 dd.                                                                                                                                                | Corneacontrole (fluoresceïne) voor en na prednisolon.  <br>  <br>Verwijs bij vermoeden contactlensvloeistof-[[allergie]]: oogarts; andere [[allergie]]: dermatoloog.                                                                 |
+| **Conjunctivitis door irritatie**                | Vermijd mechanische prikkels.                                    | Zo nodig indifferent middel.                                                                                                                                                                                                                                                                 | Controle lenzen door contactlensspecialist.                                                                                                                                                                                          |
+| **Subconjuncti-vale bloeding**                   | Verdwijnt spontaan binnen 2-3 weken. Recidief kan optreden.      | Zo nodig indifferent middel.                                                                                                                                                                                                                                                                 | Zo nodig controle instelling orale antistollings-medicatie.                                                                                                                                                                          |
+| **Episcleritis**                                 | Geneest spontaan.Evt. koud kompres.                              | Zo nodig indifferent middel.                                                                                                                                                                                                                                                                 | Verwijs bij pijn of duur > 3 weken.                                                                                                                                                                                                  |
+
+### Niet-traumatisch [[rood oog]] **met alarmsymptomen**
+
+| **Diagnose**                   | **Medicamenteuze behandeling**                                                                                             | **Controle, verwijzing oogarts**                                                                                                                                              |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acuut [[glaucoom]]**         |                                                                                                                            | Verwijs direct met spoed.                                                                                                                                                     |
+| **Keratitis dendritica (HSV)** | Aciclovir-oogzalf 3% 5 dd tot 1 week na herstel; niet langer dan 2 weken geven.<br><br>-> dendritisch patroon fluoresceine | Controle na 1 dag, daarna elke 2 dagen.  <br>  <br>Verwijs bij recidief, stroma-aantasting, contactlensdrager, visusprobleem, uitbreiding klachten tijdens aciclovir-oogzalf. |
+| **VZV-keratitis**              | Start direct een oraal antiviraal middel (virgan gel)<br><br>**GEEN STEROIDEN**                                            | Verwijs of overleg dezelfde dag bij alarmsymptomen. Verwijs anders binnen een week.                                                                                           |
+| **Andere keratitiden**         |                                                                                                                            | Verwijs dezelfde dag.                                                                                                                                                         |
+| **Scleritis**                  |                                                                                                                            | Verwijs dezelfde dag.                                                                                                                                                         |
+| **Uveïtis**                    |                                                                                                                            | Verwijs dezelfde dag.                                                                                                                                                         |
+# Controle
+- bij alarmsymptomen of toename van de klachten
+    - pijn
+    - visusverandering
+    - lichtschuwheid/fotofobie
+    - misselijkheid
+    - [[Braken]]
+- indien de klachten 1 week na het consult niet verbeteren
+- met daarbij de uitleg dat het terugkomen vooral bedoeld is om eventuele complicaties te ontdekken (zoals keratitis of [[ulcus]]) en andere aandoeningen uit te sluiten (zoals [[allergie]] of HSV). Als zich geen complicaties voordoen, is ook bij patiënten die langer dan 1 week klachten hebben (1/4) een lokaal antibioticum niet nodig, omdat spontane genezing te verwachten is

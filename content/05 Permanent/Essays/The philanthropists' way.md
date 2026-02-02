@@ -1,0 +1,28 @@
+---
+tags:
+  - global-health
+  - Essay
+publish: true
+created: 2026-01-27T23:48
+modified: 2026-01-27T23:49
+---
+_The new, as always, is rooted in the old_. That is the opener of the chapter “Colonial medicine and its legacies”, and in truth, a perfect summary of its main message.1 Jeremy Green and colleagues open the history books and take a critical look at the origins of global health and the continuity between modern-day global health practices and former colonial rule. They describe the many coats global health has worn over history, from colonial medicine, born to protect imperial militaries and European-born administrators and civilians, to tropical medicine, missionary medicine, and international health. While all are distinct, the authors warn that they share colonial legacies that still shape the knowledge frameworks and practices of the field we call global health today. A good example of this is _socialization for scarcity_, the assumption that resources for global health initiatives will be in perpetually short supply. This silent dogma, born of British colonial rule, still lives to this day, as literature specific to “_resource-poor_” settings assumes resource scarcity as its starting point.
+
+Yates-Doerr et al. build on the previously introduced notion of colonial legacies in global health by analyzing global health interventions through a social-anthropological lens.2 They explore various topics, some new, and some discussed in previous weeks, such as the over-reliance on quantitative reasoning, the simplification of the complex realities of health and sickness, the rejection of contextual diversity for white-cis-heteronormative values, the tyranny of the global, and the dominance of the Global North in knowledge production and funding. These realities create systems that reproduce the current Western hegemony and mold global health interventions through normative assumptions of capitalism, imperialist militarism, and technochauvinism. These assumptions and ideas are so ingrained that they often go unnoticed, as illustrated by the fact that I had never thought twice about the militaristic language we use in public global health to “_fight outbreaks”_ or “_target risk populations_”. If not addressed, the authors argue we risk leaving people behind and may even perpetuate the very inequalities we aim to alleviate. Through these critiques, they examine the colonial roots of global health and offer a comprehensive review with implications for the emerging movement to decolonize global health.
+
+I would like to link the readings to a recent development. During the World Economic Forum in Davos, Switzerland, the Gates Foundation and OpenAI announced a $50 million partnership to help several African countries use artificial intelligence (AI) to improve their health systems.3 Framing it as “_AI equity_” or a “_healthcare revolution_”, they promise to fix Africa’s health problems through innovation and counteract USAID cuts. For me, this is the epitome of the colonial legacy in global health and perfectly illustrates what the previously described chapters have tried to explain.  
+
+Let us dissect this announcement. First of all, the idea that innovation and technology can fix everything surfaces. Ignoring the threat of big data being used as an instrument of colonial control, these actors have forgotten that the successful adoption of health technologies in general requires tedious negotiation and translation between these technologies and the local contexts.2 The hubris that _“Science discovers, industry applies, and man follows”_ is palpable.
+
+Secondly, the simplicity of this intervention, coupled with its immense ambition, risks undermining local avenues of care, perpetuating chronic inequalities, and ultimately, leaving the very people behind they claim to help.
+
+Third, socialization of scarcity comes into play. Bill Gates states, _“Horizon1000 aims to reach 1,000 primary health clinics by 2028_”, arguing that some countries have only one doctor per 50,000 people. “_It would take 180 years for that gap to close at the current pace of progress.”_ This assumption that scarcity is simply a feature of many African healthcare systems, in perpetuity, is outdated and (neo-)colonial.
+
+Fourth, this announcement reduces health problems to simply an issue of numbers. The idea that improved efficiency will lead to health is rooted in the quantitative origins of medicine.1 "_A typical visit, we think, can be about twice as fast and much better quality_”, the multi-billionaire proudly announced on stage. This statement completely ignores local contexts and the fact that health is inherently human and a relational practice (the immeasurable).
+
+Lastly, as the authors (and Vincanne Adams in her book _Metrics: What counts in global health_) point out, many global health interventions aim to expand markets for corporate products and capital. It would be naïve to assume, this is not a blatant way to create new avenues to profit from AI in healthcare under the guise of philanthropy. Additionally, if, against all odds, this intervention works out, it would create a Western monopoly of the healthcare management and optimization in Africa and reinforce hierarchies.
+
+As the debate rages on in global health over how to decolonize the field, I see these developments and wonder what is a bug of the system, and what is a feature.
+
+_Still pretty sure you can’t decolonize global health and still have global health at the end._
+[[@ Adia Benton]]
