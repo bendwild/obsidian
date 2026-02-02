@@ -5,7 +5,7 @@ tags:
   - Ethics
 publish: true
 created: 2025-04-14T12:28
-modified: 2025-06-15T21:43
+modified: 2026-02-02T13:31
 ---
 # Pro
 - building up a habit of accountability

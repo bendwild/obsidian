@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-04T23:50
-modified: 2026-01-24T22:59
+modified: 2026-02-02T13:31
 ---
 *A brief look at the path ahead, to infinity and beyond*
 

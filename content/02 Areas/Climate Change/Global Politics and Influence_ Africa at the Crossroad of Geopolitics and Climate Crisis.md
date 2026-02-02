@@ -4,7 +4,7 @@ tags:
   - Geopolitics
 publish: true
 created: 2025-08-20T09:39
-modified: 2025-08-30T13:17
+modified: 2026-02-02T13:31
 ---
 [[@Belachew Gebrewold]]
 

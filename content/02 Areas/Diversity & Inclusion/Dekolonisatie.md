@@ -3,7 +3,7 @@ tags:
   - Decolonization
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-01-24T22:44
+modified: 2026-02-02T13:34
 ---
 Meer dan formele dekolonisatie **>** 1950-1999 -**>** eerder dekolonisatie van een neo-koloniale wereld, geen sprake van globale macht en materiële welvaart
 

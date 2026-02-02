@@ -5,7 +5,7 @@ tags:
   - Essay
 publish: true
 created: 2026-01-27T23:46
-modified: 2026-01-27T23:51
+modified: 2026-02-02T13:31
 ---
 Over the past decades, the dominant paradigm shaping healthcare improvements in hospitals and healthcare organizations has been quality improvement (QI).1,2 Governments, administrators, and managers increasingly demand evidence of safe practices, efficient resource use, and improved patient care. QI provides a practical, reproducible approach to assess safety or value gaps in care and enhance service delivery and outcomes.3,4 It is a coordinated, iterative, and data-driven approach grounded in quantitative methods, aimed at providing high-quality patient care and improving population health.5 QI translates this broad goal into defined, measurable, and actionable aims that, together, have the potential to improve quality of care at the system level.1,3
 

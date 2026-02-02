@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-02T11:20
-modified: 2025-10-11T21:28
+modified: 2026-02-02T13:31
 ---
 Belang van context
 - culturele factoren en opvattingen patiënt/hulpverlener in rekening brengen

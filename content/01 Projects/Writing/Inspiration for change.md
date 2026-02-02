@@ -3,7 +3,7 @@ tags:
   - Writing
 publish: true
 created: 2025-10-08T12:12
-modified: 2025-10-28T13:31
+modified: 2026-02-02T13:31
 title: "Inspiration for change: finding your voice"
 ---
 [[@Mamphela Ramphele]]

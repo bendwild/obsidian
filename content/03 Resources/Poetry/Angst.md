@@ -4,7 +4,7 @@ tags:
   - Relationships
 publish: true
 created: 2025-04-13T12:12
-modified: 2025-10-11T21:15
+modified: 2026-02-02T13:31
 ---
 Du sagst du liebst den Regen, 
 aber du öffnest deinen Regenschirm,

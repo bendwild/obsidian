@@ -6,7 +6,7 @@ tags:
   - Ethics
 publish: true
 created: 2025-04-14T12:29
-modified: 2025-06-15T21:43
+modified: 2026-02-02T13:31
 ---
 = an ongoing project to find the best ways to do good, and put them into practice
 # How I will try to do the most good

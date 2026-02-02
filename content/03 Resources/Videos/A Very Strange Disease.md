@@ -9,7 +9,7 @@ tags:
   - clippings
   - Videos
   - Psychologie
-modified: 2025-10-11T21:26
+modified: 2026-02-02T13:31
 publish: true
 ---
 ![](https://www.youtube.com/watch?v=nOsL-1RN0lQ)

@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-01-17T22:55
+modified: 2026-02-02T13:34
 ---
 > Dynamic **interplay** between disability and context - it’s no measure of health to be well adjusted to a sick society
 

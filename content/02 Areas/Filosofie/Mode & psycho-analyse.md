@@ -4,7 +4,7 @@ tags:
   - Psychologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-13T16:17
+modified: 2026-02-02T13:31
 ---
 Kledij is de slechtste schuilplaats, gekleed zijn we nog naakter dan ontkleed: we tonen zeer veel van onszelf in onze kleren, terwijl kledij in eerste instantie een functioneel “bedekken” is, het bedekken van een “eerste huid” met een “tweede huid” < De geknipte stof van Dirk Lauwaert
 

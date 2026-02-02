@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-03-22T00:30
-modified: 2025-06-13T16:16
+modified: 2026-02-02T13:31
 ---
 *Investigating infectious diseases, health disparities, and policy impact — read my published work and ongoing research projects.*
 

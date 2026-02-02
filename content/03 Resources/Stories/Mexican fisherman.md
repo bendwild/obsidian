@@ -4,7 +4,7 @@ tags:
   - Economics
 publish: true
 created: 2025-05-29T23:03
-modified: 2026-01-06T20:40
+modified: 2026-02-02T13:31
 ---
 An American investment banker was at the pier of a small coastal Mexican village when a small boat with just one fisherman docked. Inside the small boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish and asked how long it took to catch them.
 

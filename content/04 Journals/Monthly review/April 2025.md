@@ -1,6 +1,6 @@
 ---
 created: 2025-04-02T21:03
-modified: 2025-10-11T21:17
+modified: 2026-02-02T13:31
 tags:
   - monthly-review
 description: "- suddenly got the news that I might still be eligible for a BAEF scholarship fucking crazy, quickly scrambled to get my remaining applications in order for american universities\r

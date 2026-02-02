@@ -14,7 +14,7 @@ rating:
   - ⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-01-30T14:25
+modified: 2026-02-02T13:59
 ---
 # Reflections
  bashingantahe
@@ -31,3 +31,7 @@ Why did I give birth to you my dear children, forgiveme, i didn’t know burundi
 one after another, gently on  a razor
 and other slogans like it
 not to worry if you did not kill many people; the secret was to keep killing
+
+Having live through thirteen years of civil war, I know that violence can become almost a culture in itself, and that it twists not all but many of the people who are trapped in it. 
+
+Similar identity politics between MAGA and hutu/tutsis, you shouldn’t feel comfortable among them

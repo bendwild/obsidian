@@ -5,7 +5,7 @@ tags:
   - global-health
 publish: true
 created: 2025-06-02T10:06
-modified: 2025-10-11T21:54
+modified: 2026-02-02T13:31
 ---
 Fraudulent papers in the age of mass-publication (career-advancement vs truth). Notable examples include: 
 - J. Cruz

@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-03-14T15:30
-modified: 2025-06-13T16:16
+modified: 2026-02-02T13:31
 ---
 Welcome to my interactive portfolio! Here, you'll find my work in **medicine, global health advocacy, research, and leadership**. Click through to explore different aspects of my journey. 
 

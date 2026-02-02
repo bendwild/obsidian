@@ -3,7 +3,7 @@ tags:
   - Writing
 publish: true
 created: 2025-12-09T12:15
-modified: 2025-12-09T12:34
+modified: 2026-02-02T13:31
 title: "Personal narrative: How to tell your story?"
 ---
 # Rule 1: Write about what you’re seeing, feeling & experiencing

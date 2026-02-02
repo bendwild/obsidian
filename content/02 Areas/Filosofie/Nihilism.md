@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-21T22:37
-modified: 2025-06-13T16:17
+modified: 2026-02-02T13:31
 ---
  
 Active vs Passive Nihilism

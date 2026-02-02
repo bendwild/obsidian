@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-15T11:13
-modified: 2025-06-15T21:43
+modified: 2026-02-02T13:31
 media_link: https://youtu.be/g9Aik4y8vRg
 ---
 -> primarily analysis for Belgium

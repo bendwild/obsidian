@@ -3,7 +3,7 @@ tags:
   - Poetry
 publish: true
 created: 2025-04-13T12:52
-modified: 2025-10-11T21:15
+modified: 2026-02-02T13:31
 ---
 I am in love with you
 and I'm not in the business of denying myself the simple pleasure of saying true things
