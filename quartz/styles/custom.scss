@@ -1,3 +1,260 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* --------------------------------------------------------------------------
+   ✏️ Benji’s Handwritten Notebook Theme — Pastel Green Edition 🌿
+   -------------------------------------------------------------------------- */
+
+/* Load Kalam + Permanent Marker via @font-face (build-safe) */
+@font-face {
+  font-family: "Kalam";
+  src: url("https://fonts.gstatic.com/s/kalam/v17/YA9dr0Wd4kDdMtD6WnZB.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Kalam";
+  src: url("https://fonts.gstatic.com/s/kalam/v17/YA9Yr0Wd4kDdMtD6WnJmUg.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Permanent Marker";
+  src: url("https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2M.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* --------------------------------------------------------------------------
+   BASE PAPER + TYPOGRAPHY
+   -------------------------------------------------------------------------- */
+
+html, body {
+  min-height: 100%;
+  margin: 0;
+  color: #2b2b2b;
+  background-color: #f6fbf3;
+  font-family: "Kalam", cursive;
+  line-height: 1.7;
+  font-size: 1.05rem;
+
+  /* Grid paper */
+  background-image:
+    linear-gradient(to right, rgba(102, 153, 102, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(102, 153, 102, 0.08) 1px, transparent 1px);
+  background-size: 38px 38px;
+  background-attachment: fixed;
+}
+
+body.dark {
+  background-color: #1b1d1b;
+  background-image:
+    linear-gradient(to right, rgba(179, 226, 182, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(179, 226, 182, 0.08) 1px, transparent 1px);
+  color: #e8fbe4;
+}
+
+/* Notebook margin line */
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 60px;
+  width: 1.5px;
+  background: rgba(102, 153, 102, 0.25);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* --------------------------------------------------------------------------
+   HEADINGS
+   -------------------------------------------------------------------------- */
+
+h1, h2, h3, h4, h5 {
+  font-family: "Permanent Marker", cursive;
+  color: #274d32;
+  letter-spacing: 0.5px;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.05);
+}
+body.dark h1, body.dark h2, body.dark h3 {
+  color: #b8e8b2;
+}
+
+h1::after {
+  content: "";
+  display: block;
+  height: 6px;
+  background: repeating-linear-gradient(
+    to right,
+    rgba(137, 199, 127, 0.4) 0 6px,
+    transparent 6px,
+    transparent 12px
+  );
+  margin-top: 6px;
+}
+
+/* --------------------------------------------------------------------------
+   LINKS + INTERACTIVITY
+   -------------------------------------------------------------------------- */
+
+a {
+  color: #3b7a4a;
+  text-decoration: underline wavy 1.5px #3b7a4a;
+  transition: color 0.25s ease, text-decoration-color 0.25s ease, transform 0.2s ease;
+}
+a:hover {
+  color: #89c77f;
+  text-decoration-color: #89c77f;
+  transform: rotate(-1deg) scale(1.02);
+  filter: drop-shadow(0 0 4px rgba(137,199,127,0.3)); /* ink smudge hover */
+}
+
+/* Page fade animation */
+main {
+  animation: pageFade 0.6s ease;
+}
+@keyframes pageFade {
+  from { transform: rotateY(3deg); opacity: 0; }
+  to { transform: rotateY(0); opacity: 1; }
+}
+
+/* --------------------------------------------------------------------------
+   NOTEBOOK CARDS
+   -------------------------------------------------------------------------- */
+
+.card {
+  background: #fdfef9;
+  border: 2px solid #3b7a4a;
+  border-radius: 14px;
+  box-shadow: 4px 4px 0 #9dd69d;
+  padding: 1.2rem;
+  transition: all 0.25s ease;
+}
+.card:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 6px 6px 0 #7acb7a;
+}
+
+/* --------------------------------------------------------------------------
+   TAGS + NOTES
+   -------------------------------------------------------------------------- */
+
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  background: #d7f5d2;
+  color: #1f3b26;
+  margin-right: 0.3rem;
+  font-family: "Kalam", cursive;
+}
+body.dark .tag {
+  background: #324734;
+  color: #b8e8b2;
+}
+
+/* Sticky Note blocks */
+.note {
+  background: #fffde1;
+  border: 1.5px solid #d4c964;
+  box-shadow: 3px 3px 0 #e5dc7f;
+  padding: 1rem;
+  margin: 1rem 0;
+  transform: rotate(-1deg);
+  font-family: "Kalam", cursive;
+  max-width: 80%;
+  transition: transform 0.2s ease;
+}
+.note:hover {
+  transform: rotate(0deg) scale(1.02);
+}
+.note::before {
+  content: "📎 ";
+  font-size: 1.2rem;
+  margin-right: 0.3rem;
+}
+
+/* --------------------------------------------------------------------------
+   NAVBAR + FOOTER
+   -------------------------------------------------------------------------- */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 2rem;
+  background-color: rgba(247, 252, 243, 0.9);
+  border-bottom: 3px dashed rgba(59, 122, 74, 0.4);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+body.dark .navbar {
+  background-color: rgba(27, 29, 27, 0.9);
+  border-bottom: 3px dashed rgba(137, 199, 127, 0.5);
+}
+.navbar a {
+  font-family: "Kalam", cursive;
+  color: #3b7a4a;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 1rem;
+  transition: all 0.2s ease;
+}
+.navbar a:hover {
+  color: #89c77f;
+  text-decoration: underline wavy 1.5px #89c77f;
+  transform: rotate(-1deg);
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 1.5rem;
+  border-top: 3px dashed rgba(59, 122, 74, 0.4);
+  background-color: rgba(247, 252, 243, 0.85);
+  color: #2b2b2b;
+  font-size: 0.9rem;
+  font-family: "Kalam", cursive;
+  margin-top: 3rem;
+}
+.footer::before { content: "✏️ "; }
+.footer::after { content: " 🌿"; }
+body.dark .footer {
+  background-color: rgba(27, 29, 27, 0.85);
+  border-top: 3px dashed rgba(137, 199, 127, 0.5);
+  color: #e8fbe4;
+}
+
+/* --------------------------------------------------------------------------
+   DECORATIVE ELEMENTS
+   -------------------------------------------------------------------------- */
+
+/* Hand-drawn divider */
+hr {
+  border: 0;
+  border-top: 2px dashed rgba(59, 122, 74, 0.4);
+  margin: 2rem 0;
+}
+
+/* Paper glow */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(800px 400px at 10% 20%, rgba(137, 199, 127, 0.15), transparent 70%),
+    radial-gradient(600px 300px at 90% 80%, rgba(179, 226, 182, 0.12), transparent 70%);
+  z-index: -1;
+}
+
+/* Fun pencil cursor */
+body {
+  cursor: url("/static/pencil-cursor.png"), auto;
+}
