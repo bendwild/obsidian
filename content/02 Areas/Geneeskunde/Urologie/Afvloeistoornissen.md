@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-06T15:01
-modified: 2025-05-23T17:19
+modified: 2026-02-03T13:30
 ---
 # Hogere urinewegen
 -> nier -> pyelo-ureterale junctie -> ureter -> vesico-ureterale junctie
@@ -13,7 +13,7 @@ modified: 2025-05-23T17:19
 | ------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Nier                     | - niersteen<br>- urotheelcelcarcinoom                                                               | - niercyste<br>- hypernefroom                                                                     |
 | Pyelo-ureterale junctie  | - aangeboren PUJ-stenose                                                                            | - overkruisend vat                                                                                |
-| Ureter                   | - uretersteen<br>- bloedklonter<br>- urotheelcelcarcinoom<br>- ureterstrictuur<br>- [[Tuberculose]] | - retroperitoneale tumoren<br>- ureterligatie<br>- [[Zwangerschap]]<br>- retroperitoneale fibrose |
+| Ureter                   | - uretersteen<br>- bloedklonter<br>- urotheelcelcarcinoom<br>- ureterstrictuur<br>- [[Tuberculosis]] | - retroperitoneale tumoren<br>- ureterligatie<br>- [[Zwangerschap]]<br>- retroperitoneale fibrose |
 | Vesico-ureterale junctie | - prevesicale steen<br>- urotheelcelcarcinoom                                                       | - [[blaaskanker]]                                                                                     |
 
 > [!attention] Alarmsymptomen

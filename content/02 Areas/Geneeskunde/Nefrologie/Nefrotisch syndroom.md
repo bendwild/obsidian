@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-18T18:34
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:10
 ---
 ![[image-19.png]]
 # Pathofysiologie
@@ -64,7 +64,7 @@ Verder:
 - behandelen met immuunonderdrukking
 ### Secundaire FSGS
 - [[proteïnurie]], echter vaak geen nefrotisch syndroom
-- < [[Obesitas]], HIV
+- < [[Obesitas]], [[HIV]]
 - behandelen met immuunonderdrukking + onderliggende oorzaak aanpakken
 ### Genetische FSGS
 - [[content/02 Areas/Geneeskunde/Nefrologie/RAAS|RAAS]]-blokkers

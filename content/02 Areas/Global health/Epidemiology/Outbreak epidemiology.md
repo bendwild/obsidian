@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-11-29T18:50
-modified: 2025-12-01T18:38
+modified: 2026-02-03T13:30
 ---
 > [!INFO] Outbreak = occurrence of more cases of a disease than expected (for a particular place and time)
 > - OPEN outbreak setting = **ALL** members of a community in which disease transmission is occurring are also involved in outside groups
@@ -52,7 +52,7 @@ modified: 2025-12-01T18:38
 	- epidemic curve (time)
 	
 > [!info] Case investigation/contact tracing is useful for: 
-> - [[tuberculose]]
+> - [[Tuberculosis]]
 > - measles
 > - [[SOI]]
 > - ebola

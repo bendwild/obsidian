@@ -4,7 +4,7 @@ tags:
   - Huisarts
 publish: true
 created: 2025-01-28T19:36
-modified: 2026-02-02T13:31
+modified: 2026-02-03T14:30
 ---
 # Digital health in primary care
 ## Why digital health?
@@ -50,7 +50,7 @@ How to implement AI so it can
 - also a lot of potential -> key take-away -> *AI has the power to transform healthcare in low resource systems ONLY if it is implemented responsibly*
 
 ### Concrete examples
-- DeepMalaria -> AI for malaria drug discovery -> recognize most promising compounds
+- DeepMalaria -> AI for [[malaria]] drug discovery -> recognize most promising compounds
 - SkinVision -> AI for skin cancer detection
 
 ## Risks of AI in health equity
@@ -78,7 +78,7 @@ AI
 MSF sees use primarily in diagnostic tools and event detection
 
 Examples: 
-- mobile phone devices and handheld microscopes as diagnostic platforms for malaria and NTD's -> CAVE often these new technologies don't make it to low resource settings
+- mobile phone devices and handheld microscopes as diagnostic platforms for [[malaria]] and NTD's -> CAVE often these new technologies don't make it to low resource settings
 - MinION -> Whole-Genome Sequencing in resource-limited settings (just usb in laptop)
 - antibiogo -> identify resistance mechanism smartphone based (resistant, sensitive, intermediate)
 - Community bases surveillance -> outbreak prevention/early intervention

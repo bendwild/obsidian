@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-20T00:08
-modified: 2026-01-13T12:22
+modified: 2026-02-03T13:30
 ---
 = essentieel erythematosquameuze huidziekte
 
@@ -107,7 +107,7 @@ Bij twijfel:
 	2. minstens 17j oud
 	3. >10% lichaamsoppervlak
 	4. onvoldoende effectiviteit/tolerantie/CI vorige trappen
-	5. afwezigheid van evolutieve [[Tuberculose]]
+	5. afwezigheid van evolutieve [[Tuberculosis]]
 
 > [!ATTENTION] GEEN orale cortisone bij psoriasis
 > -> bij stoppen massief rebound effect

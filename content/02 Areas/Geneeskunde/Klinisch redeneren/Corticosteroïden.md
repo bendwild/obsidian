@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-09T11:38
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 ---
 # Indicaties
 - auto-immune of inflammatoire aandoeningen
@@ -16,7 +16,7 @@ modified: 2025-06-12T22:56
 - hydrocortison: substitutie bij primaire of secundaire bijnierschorsinsufficiëntie
 
 # Contra-indicaties
-- Niet gebruiken bij onbehandelde systemische infecties ([[Tuberculose]] en andere bacteriële infecties; virale (bv. herpes), parasitaire of mycotische infecties), tenzij adjuverend bij levensbedreigende infecties en bij patiënten met bijnierschorsinsufficiëntie
+- Niet gebruiken bij onbehandelde systemische infecties ([[Tuberculosis]] en andere bacteriële infecties; virale (bv. herpes), parasitaire of mycotische infecties), tenzij adjuverend bij levensbedreigende infecties en bij patiënten met bijnierschorsinsufficiëntie
 
 > [!ATTENTION] [[Zwangerschap]]
 > - enkel te gebruiken indien strikte indicatie, en beperken in dosis en duur (IUGR bij langdurig gebruik aan hoge dosissen)

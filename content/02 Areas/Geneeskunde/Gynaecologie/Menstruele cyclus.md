@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-11T14:46
-modified: 2025-05-26T20:24
+modified: 2026-02-03T13:30
 ---
 # Fysiologie
 
@@ -58,7 +58,7 @@ modified: 2025-05-26T20:24
 ### Uteriene & vaginale oorzaken
 - [[congenitale aandoeningen]]
 - [[Asherman syndrome]] (intra-uteriene adhesies <chronische inflammatie)
-- genitale [[Tuberculose]]
+- genitale [[Tuberculosis]]
 
 ## Kliniek
 ### Anamnese

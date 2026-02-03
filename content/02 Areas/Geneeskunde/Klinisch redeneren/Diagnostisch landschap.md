@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-07T21:00
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 ---
 Ask yourself the question: 
 - What is the **most common** diagnosis?
@@ -700,7 +700,7 @@ Ask yourself the question:
         - Longmetastase
         - Bronchiëctasie
         - Aspiratie (corpus alienum)
-        - [[Tuberculose]] (koorts, vermagering, zweten)
+        - [[Tuberculosis]] (koorts, vermagering, zweten)
         - [[Astma]] (nachtelijk, [[Bronchiale hyperreactiviteit]], uitlokkende factor?)
         - [[COPD]] (roken)
         - Chronische bronchitis

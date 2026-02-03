@@ -4,7 +4,7 @@ tags:
   - Neurologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T23:03
+modified: 2026-02-03T14:10
 ---
 # Differentiaal diagnose
 
@@ -54,7 +54,7 @@ modified: 2025-06-12T23:03
 - Ouderen met pijn temporaal (en/of visus stoornissen)
 - Na ongeval: toename van hoofdpijn
 - **Zeer hoge bloeddruk en hevige hoofdpijn**
-- Voorgeschiedenis van Ca, HIV, immuundeficiëntie
+- Voorgeschiedenis van Ca, [[HIV]], immuundeficiëntie
 
 ### Ruimte-innemend proces (door verhoogde intracraniële druk)
 - **Ochtendbraken**, niet gerelateerd aan hoofdpijn

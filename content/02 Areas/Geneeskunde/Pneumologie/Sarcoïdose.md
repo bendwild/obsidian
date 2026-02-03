@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-31T21:19
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 ---
 = systeemaandoening gekenmerkt door aanwezigheid van **niet-verkazende granulomen** in verschillende organen
 ![[Sarcoïdose-3.png]]
@@ -52,7 +52,7 @@ modified: 2025-06-12T22:56
 
 > [!important] CAVE 30% asymptomatisch / toevalsdiagnoses
 
-> [!FAQ] Waarom geven granulomateuze aandoeningen zoals sarcoïdose en [[Tuberculose]] hypercalcemie?
+> [!FAQ] Waarom geven granulomateuze aandoeningen zoals sarcoïdose en [[Tuberculosis]] hypercalcemie?
 > -> uncontrolled overproductie van calcitriol -> granulomen bevatten geactiveerde macrofagen die het enzym 1-α-hydroxylase (CYP27B1) tot expressie brengen
 
 ## Diagnose
@@ -64,10 +64,10 @@ modified: 2025-06-12T22:56
 	3. Stadium III: longinfiltraten
 	4. Stadium IV: longfibrose
 3. Histologisch niet-verkazende granulomen
-4. Uitsluiten van andere granulomateuze aandoeningen (bv [[Tuberculose]])
+4. Uitsluiten van andere granulomateuze aandoeningen (bv [[Tuberculosis]])
 
 ### Differentiaal diagnose
-- [[Tuberculose]]
+- [[Tuberculosis]]
 - schimmelinfecties
 - inhalatie van anorganisch materiaal (beryllium, talk)
 - overgevoeligheidspneumonitis (bv duivenmelkerslong)

@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-15T20:55
-modified: 2025-06-12T23:03
+modified: 2026-02-03T13:30
 ---
 = ontsteking van de hersenvliezen (dura mater, arachnoïdea & pia mater) en arachnoïdale ruimte
 ![[Meningitis.png]]
@@ -20,7 +20,7 @@ modified: 2025-06-12T23:03
 	- listeria
 - schimmels & gisten
 	- vooral bij immuungecompromitteerde patiënten
-- [[Tuberculose]]
+- [[Tuberculosis]]
 - lues
 - ...
 

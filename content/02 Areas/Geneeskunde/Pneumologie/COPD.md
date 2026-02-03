@@ -4,7 +4,7 @@ tags:
   - Pneumologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:10
 ---
 # Pathologie
 *= chronic obstructive pulmonary disease*
@@ -50,7 +50,7 @@ Prevalentie:
 
 | **Type 1**                                     | **Type 2**                                                                                                 | **Type 3**                                                                                 | **Type 4**                                                        | **Type 5**                                                       |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Genetisch:<br>- alfa1-antitrypsine deficiëntie | Early-life events:<br>- [[Prematuriteit]]<br>- slecht behandelde [[astma]] op kinderleeftijd (longgroei ↓) | Infecties:<br>- [[respiratoire infecties]] op kinderleeftijd<br>- [[Tuberculose]]<br>- HIV | Blootstelling rook:<br>- sigarettenrook<br>- vaping<br>- cannabis | Blootstelling pollutie: <br>- binnens- en buitenhuis<br>- beroep |
+| Genetisch:<br>- alfa1-antitrypsine deficiëntie | Early-life events:<br>- [[Prematuriteit]]<br>- slecht behandelde [[astma]] op kinderleeftijd (longgroei ↓) | Infecties:<br>- [[respiratoire infecties]] op kinderleeftijd<br>- [[Tuberculosis]]<br>- [[HIV]] | Blootstelling rook:<br>- sigarettenrook<br>- vaping<br>- cannabis | Blootstelling pollutie: <br>- binnens- en buitenhuis<br>- beroep |
 
 # Kliniek
 

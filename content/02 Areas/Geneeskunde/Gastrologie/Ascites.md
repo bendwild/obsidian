@@ -4,13 +4,13 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-01T14:22
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 ---
 # Etiologie
 - chronisch leverlijden met [[Portale hypertensie]] (80%)
 - maligniteit (10%)
 - [[hartfalen]] (3%)
-- [[Tuberculose]]
+- [[Tuberculosis]]
 
 # Pathofysiologie
 1. Leverlijden
@@ -40,7 +40,7 @@ modified: 2025-06-12T22:56
 - meet verschil tussen serum albumine & ascites albumine
 - maatstaf voor oncotische druk en weerspiegelt bijgevolg de hydrostatische druk en [[Portale hypertensie]]
 	- **SAAG >1.1 g/dl** = [[Portale hypertensie]] / congestief [[hartfalen]]
-	- **SAAG <1.1 g/dl** = maligniteit / inflammatie ([[Tuberculose]], [[pancreatitis]])
+	- **SAAG <1.1 g/dl** = maligniteit / inflammatie ([[Tuberculosis]], [[pancreatitis]])
 
 -> [[labo]] ascites
 - albumine voor SAAG

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T22:02
-modified: 2025-06-02T18:25
+modified: 2026-02-03T13:30
 ---
 = ontsteking van het hartzakje
 ![[Pericarditis.png]]
@@ -59,7 +59,7 @@ NMR
 
 Diagnostische punctie als: 
 - neoplasie
-- [[Tuberculose]]
+- [[Tuberculosis]]
 - purulente pericarditis
 
 > [!INFO] Standaard onderzoeken bij vermoeden pericarditis

@@ -1,6 +1,6 @@
 ---
 created: 2025-04-16T23:25
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 tags:
   - Oncologie
   - Hematologie
@@ -66,7 +66,7 @@ publish: true
 > - ALL (vooral prolymfocytenleukemie gekenmerkt door snelle lymfocytose)
 > - lymfoom met circulerende lymfoomcellen
 > - ziekte van Waldenström (IgM monoclonale gammopathie)
-> - granulomateuze aandoeningen ([[Sarcoïdose]], [[Tuberculose]])
+> - granulomateuze aandoeningen ([[Sarcoïdose]], [[Tuberculosis]])
 > - auto-immune aandoeningen ([[Rheumatoïde arthritis]], SLE, [[Ziekte van Sjögren]]...)
 > - ...
 

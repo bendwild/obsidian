@@ -6,7 +6,7 @@ tags:
   - global-health
 publish: true
 created: 2026-02-01T16:16
-modified: 2026-02-02T11:39
+modified: 2026-02-03T14:01
 title: "COVID-19 reveals weak health systems by design: Why we must remake global health in this historic moment"
 ---
 # Reflections
@@ -29,7 +29,7 @@ title: "COVID-19 reveals weak health systems by design: Why we must remake globa
 > [!PDF|234, 82, 82] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=5&annotation=386R|Harvey, M et al. (2020). Structural competency and global health education., p.5]]
 > > Current practice—renamed ‘Global Health Security’- frames particular epidemics that threaten Global North populations as critical health emergencies, while diseases of poverty—that may be far broader in scope, morbidity and mortality—remain unaddressed.
 > 
-> - did covid really cause that much more damage than [[malaria]] or tuberculosis, or just hit global north populations harder?
+> - did covid really cause that much more damage than [[malaria]] or [[tuberculosis]], or just hit global north populations harder?
 
 > [!PDF|234, 82, 82] [[Harvey, M et al. (2020). Structural competency and global health education..pdf#page=6&annotation=389R|Harvey, M et al. (2020). Structural competency and global health education., p.6]]
 > > A double standard of care  – one for centres of power and another for the rest of the world  –  has been perpetuated and continues until today in the programmes funded by countries in the Global North, bi- and multilateral agencies, and NGOs

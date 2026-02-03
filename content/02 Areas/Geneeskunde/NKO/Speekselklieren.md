@@ -5,7 +5,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-05-07T14:48
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:30
 ---
 # Anatomie
 ![[image-369.png]]
@@ -23,8 +23,8 @@ Submandibulaire klierontsteking
 
 Parotitis
 - zeldzaam, meestal secundair 
-	- < virale infecties zoals bof, CMV, HIV...
-	- < bacteriële infecties zoals [[Tuberculose]], kattekrabziekte...
+	- < virale infecties zoals bof, CMV, [[HIV]]...
+	- < bacteriële infecties zoals [[Tuberculosis]], kattekrabziekte...
 
 # Auto-immuunziekten
 [[Ziekte van Sjögren]]

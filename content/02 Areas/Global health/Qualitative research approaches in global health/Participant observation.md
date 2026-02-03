@@ -3,7 +3,7 @@ tags:
   - Qualitative-research
 publish: true
 created: 2025-09-10T17:26
-modified: 2025-10-19T14:56
+modified: 2026-02-03T14:11
 ---
 # Notes
 ## What is it?
@@ -44,7 +44,7 @@ Largest Column: standard
 --- end-multi-column
 
 > [!INFO] Example
-> Why do high rates of HIV persist after clean needle campaign?
+> Why do high rates of [[HIV]] persist after clean needle campaign?
 > - participant observation showed “indirect sharing”
 
 # Field guide

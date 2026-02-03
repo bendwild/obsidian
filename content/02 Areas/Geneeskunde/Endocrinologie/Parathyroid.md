@@ -4,7 +4,7 @@ tags:
   - Endocrinologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-02-03T13:30
 ---
 # Pathogenese
 ![[image-101.png]]
@@ -36,7 +36,7 @@ FGF-23
 > - **I** mmobilisatie & **I** atrogeen (overdosage Ca, vitD, thiaziden)
 > - **N** eoplasms ([[Metastasen]], paraneoplastische syndromen, beenmerginvasie)
 > - **O** ther endocrinopathies (thyreotoxicose, ziekte van [[Addison]])
-> - **S** arcoïdose / [[Tuberculose]]
+> - **S** arcoïdose / [[Tuberculosis]]
 
 ## Primair
 ### Etiologie
@@ -131,7 +131,7 @@ Bijkomend:
 
 | Hypercalcemie + HyperPTH                                                                                                                                                                                                                                                                                          | Hypercalcemie + HypoPTH                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Primaire/tertiaire hyperparathyroïdie<br><br>Secundaire hyperparathyroïdie (meest frequent <nierinsufficiëntie)<br><br>Familiale **hypocalciurische** hypercalciemie<br>- autosomaal dominant<br>- calcium sensing receptor mutatie<br>- milde hypercalcemie, minimaal hyperPTH, **zeer laag 24u calciurie (dd)** | -> **RHINOS**<br>Maligniteit<br>- paraneoplastische secretie van PTHrP (PTH-like)<br>- uitgebreide lytische botletsels (meta’s bv)<br>- tumorlysis syndroom<br>- productie/verhoogde activiteit calcitriol ([[lymfoom]])<br>        <br>Granulomateuze aandoening<br>- [[Sarcoïdose]]<br>- [[Tuberculose]]<br>    <br>- Thyreotoxicose<br>- Bijnierschorsinsufficiëntie<br>- Immobilisatie<br>- Iatrogeen |
+| Primaire/tertiaire hyperparathyroïdie<br><br>Secundaire hyperparathyroïdie (meest frequent <nierinsufficiëntie)<br><br>Familiale **hypocalciurische** hypercalciemie<br>- autosomaal dominant<br>- calcium sensing receptor mutatie<br>- milde hypercalcemie, minimaal hyperPTH, **zeer laag 24u calciurie (dd)** | -> **RHINOS**<br>Maligniteit<br>- paraneoplastische secretie van PTHrP (PTH-like)<br>- uitgebreide lytische botletsels (meta’s bv)<br>- tumorlysis syndroom<br>- productie/verhoogde activiteit calcitriol ([[lymfoom]])<br>        <br>Granulomateuze aandoening<br>- [[Sarcoïdose]]<br>- [[Tuberculosis]]<br>    <br>- Thyreotoxicose<br>- Bijnierschorsinsufficiëntie<br>- Immobilisatie<br>- Iatrogeen |
  ![[Untitled 74.png|Untitled 74.png]]
 ## Secundair
 -> **Compensatoire hyperPTH** wegens hypocalcemie

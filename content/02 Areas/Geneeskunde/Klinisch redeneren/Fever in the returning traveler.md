@@ -5,7 +5,7 @@ tags:
   - Huisarts
 publish: true
 created: 2025-04-30T11:26
-modified: 2026-01-13T12:22
+modified: 2026-02-03T14:10
 ---
 ![[fever_diff_v38_web.pdf 1.pdf]]
 
@@ -30,7 +30,7 @@ What risk factors where you exposed to?
 Evaluatie van kop tot teen
 - rash (dengue, typhus, syfilis, gonorrhea, ebola...)
 - [[icterus]] ([[hepatitis]], [[content/02 Areas/Geneeskunde/Klinisch redeneren/Malaria]], gele koorts, leptospirose)
-- lymphadenopathy (rickettsial infection, brucellosis, HIV, lassa fever, leishmaniasis)
+- lymphadenopathy (rickettsial infection, brucellosis, [[HIV]], lassa fever, leishmaniasis)
 - hepatomegalie (amoebiasis, [[content/02 Areas/Geneeskunde/Klinisch redeneren/Malaria]], typhoid, [[hepatitis]], leptospirose)
 - splenomegalie ([[content/02 Areas/Geneeskunde/Klinisch redeneren/Malaria]], trypanosomiasis, typhoid, brucellosis, typhus)
 - eschar (typhus, borreliosis, crimean congo hemorrhagic fever, anthrax)

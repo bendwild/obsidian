@@ -4,7 +4,7 @@ tags:
   - Dermatologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:10
 ---
 # Bacteriële infecties
 
@@ -39,7 +39,7 @@ modified: 2025-06-12T22:56
 | --------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Verrucae vulgares<br>(= wratten)**              |                    | 7-10% <br>-> vrl op voetzolen (verruca plantaris) | - verrucae plantaris (voetzolen)<br>- verrucae filiformis (gelaat, hals)                                                                                                                                                                            | - 30% verdwijnt spontaan binnen 6m, 65% binnen 2j<br>- cryotherapie<br>- keratolytische of destructieve behandeling |           |
 | **Verrucae planae**                               | - Koebner fenomeen |                                                   | - talrijke platte wratjes in gelaat, handruggen, voorarmen, knieën bij kinderen                                                                                                                                                                     | - verdwijnen spontaan binnen 2j<br>- tretinoin of adapalene creme<br>- cryotherapie                                 |           |
-| **Condylomata acuminata<br>(= genitale wratten)** |                    |                                                   | - "hanekam" woekeringen op slijmvliezen en soms omliggende huid genitaliea, mond en anus<br>- steeds proctologisch onderzoek naar reservoir rectaal-anaal<br>- vaak associatie met [[SOI's]] -> test syphillis, gonorroe, [[hepatitis]] B&C, HIV... |                                                                                                                     |           |
+| **Condylomata acuminata<br>(= genitale wratten)** |                    |                                                   | - "hanekam" woekeringen op slijmvliezen en soms omliggende huid genitaliea, mond en anus<br>- steeds proctologisch onderzoek naar reservoir rectaal-anaal<br>- vaak associatie met [[SOI's]] -> test syphillis, gonorroe, [[hepatitis]] B&C, [[HIV]]... |                                                                                                                     |           |
 
 
 

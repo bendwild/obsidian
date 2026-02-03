@@ -4,7 +4,7 @@ tags:
   - Neurologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:10
 ---
 # Epidemiologie
 - 15%
@@ -124,7 +124,7 @@ Migraine is een neurovasculaire [[hoofdpijn]] of een neurale prikkeling die leid
     2. ouderen: temporale pijn, (en/of visusstoornissen)
     3. Na trauma = toenemende pijn           
     4. zeer hoge RR & hevige pijn
-    5. VG van kanker, HIV, Immuundeficientie
+    5. VG van kanker, [[HIV]], Immuundeficientie
 4. Ruimte innemend proces?
     1. Progressieve verergering, ochtendbraken, houdingsafh, drukverhoging
     2. Focale neuro afwijkingen, persoonlijkheidsveranderingen

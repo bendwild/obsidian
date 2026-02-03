@@ -51,7 +51,7 @@ Write notes here!
 
 ### In-text annotations
 
-<mark class="hltr-green">"We showed that among children with comparable anthropometry and HIV status upon hospital admission, those who subsequently died in hospital had increased baseline levels of TCA cycle metabolites, acetylcarnitine, and acute-phase and proinflammatory proteins and cytokines, and decreased levels of specific amino acids, lysophospholipids, and sphingolipids."</mark> [Page 6](zotero://open-pdf/library/items/HR3RRCGE?page=6&annotation=SCTE5KNG) 
+<mark class="hltr-green">"We showed that among children with comparable anthropometry and [[HIV]] status upon hospital admission, those who subsequently died in hospital had increased baseline levels of TCA cycle metabolites, acetylcarnitine, and acute-phase and proinflammatory proteins and cytokines, and decreased levels of specific amino acids, lysophospholipids, and sphingolipids."</mark> [Page 6](zotero://open-pdf/library/items/HR3RRCGE?page=6&annotation=SCTE5KNG) 
  
  
 

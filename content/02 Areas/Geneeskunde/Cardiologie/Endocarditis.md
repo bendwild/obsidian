@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-26T20:01
-modified: 2025-05-27T12:21
+modified: 2026-02-03T14:10
 ---
 = infectie van klepweefsel/cardiovasculair endotheel
 
@@ -91,7 +91,7 @@ Klinische diagnose -> **[Modified Duke Criteria](https://www.mdcalc.com/calc/105
 
 | Kunstklep endocarditis                                                                                                                                                                                        | Endocarditis bij IV-druggebruik                                                                                          | Cultuur-negatieve endocarditis |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
-| - vroegtijdige endocarditis (<1j)<br>	- >> [[S. Epidermidis]]<br>	- hoge mortaliteit<br>	<br>- laattijdige endocarditis (>1j)<br>	- zelfde [[kiemen]] als natieve endocarditis<br>-> vaak nood aan heringreep | - > 50% [[S. Aureus (MSSA-MRSA)]]<br>- meestal thv T-klep<br>- vaak in associatie met HIV<br>- hoge graad an recurrentie |                                |
+| - vroegtijdige endocarditis (<1j)<br>	- >> [[S. Epidermidis]]<br>	- hoge mortaliteit<br>	<br>- laattijdige endocarditis (>1j)<br>	- zelfde [[kiemen]] als natieve endocarditis<br>-> vaak nood aan heringreep | - > 50% [[S. Aureus (MSSA-MRSA)]]<br>- meestal thv T-klep<br>- vaak in associatie met [[HIV]]<br>- hoge graad an recurrentie |                                |
 
 ## Differentiaal diagnose
 - endocarditis lenta (non-bacteriële endocarditis)

@@ -6,7 +6,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-04-29T09:14
-modified: 2025-06-12T23:03
+modified: 2026-02-03T14:10
 ---
 -> acute buikpijn <1w
 -> 5-10% spoedconsultaties
@@ -41,7 +41,7 @@ Systemische factoren
 - medicatie
 - usus
 - [[allergie]]
-- immuundeficiëntie, HIV
+- immuundeficiëntie, [[HIV]]
 - laatste menses
 
 > [!INFO] Enkele belangrijke vragen

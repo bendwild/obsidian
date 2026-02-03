@@ -5,7 +5,7 @@ tags:
   - Bewegingsstelsel
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-26T20:44
+modified: 2026-02-03T13:30
 ---
 # Wat?
 
@@ -137,7 +137,7 @@ Klassieke basistherapie
 
 Biofarmaca
 - Anti-TNF
-    - Etanarcept vermindert risico op heractivatie **[[Tuberculose]]**
+    - Etanarcept vermindert risico op heractivatie **[[Tuberculosis]]**
     - Certolizumab kan tijdens gehele **[[zwangerschap]]**
 - Anti-CD20 (Rituximab -> werkt op B-cel activatie)
 - CTLA4/B7 (Abatacept -> werkt op T-cel activatie)

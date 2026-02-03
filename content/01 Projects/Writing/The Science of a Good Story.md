@@ -3,7 +3,7 @@ tags:
   - Writing
 publish: true
 created: 2026-01-16T09:11
-modified: 2026-02-02T13:31
+modified: 2026-02-03T14:01
 ---
 [[@ Maria Smilios]]
 
@@ -49,4 +49,4 @@ How did the narrative help you understand the broader public health issue in a n
 
 Exercise: 
 
-Over the static of the radio, familiar tunes enter Amina’s ear. Not so long ago, she would have stood up and moved to the music. Now the beats are but an empty solace, as her grandfather’s  rocking chair continues to embrace her. Tuberculosis has robbed her from many such pleasures. Her thin arms and hands, now unable to pick up her 2 year old child, are only used to cover her mouth, as chronic coughs become more and more frequent. “It feels as if your own lungs have rejected you.”, she tells me. After 4 months of treatment, Amina struggles to balance childcare, daily work and attending clinic visits, 
+Over the static of the radio, familiar tunes enter Amina’s ear. Not so long ago, she would have stood up and moved to the music. Now the beats are but an empty solace, as her grandfather’s  rocking chair continues to embrace her. [[Tuberculosis]] has robbed her from many such pleasures. Her thin arms and hands, now unable to pick up her 2 year old child, are only used to cover her mouth, as chronic coughs become more and more frequent. “It feels as if your own lungs have rejected you.”, she tells me. After 4 months of treatment, Amina struggles to balance childcare, daily work and attending clinic visits, 

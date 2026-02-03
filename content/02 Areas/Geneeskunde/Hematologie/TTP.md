@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T22:31
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:30
 ---
 = thrombotische thrombocytopenische purpura
 ![[TTP.png]]
@@ -23,7 +23,7 @@ modified: 2025-06-12T22:56
 Onderliggende triggers:
 - [[Zwangerschap]]
 - infecties
-- HIV
+- [[HIV]]
 - medicatie (quinine, ticlodipine, clopidogrel)
 - [[Pancreatitis]]
 - maligniteit

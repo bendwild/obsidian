@@ -5,7 +5,7 @@ tags:
   - Gynaecologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T23:03
+modified: 2026-02-03T13:30
 ---
 # Wat is een UWI?
 
@@ -262,7 +262,7 @@ DD prostatose of prostatodynie (chronic pelvic pain syndrome)
 *< onoordeelkundig gebruik van AB en stijgende resistentie*
 *< ziekenhuiskiemen*
 *< wegvallen barrières (verblijfssonde bv)*
-### 2. Urogenitale [[Tuberculose]]
+### 2. Urogenitale [[Tuberculosis]]
 
 Zeldzaam maar is terug aan het toenemen
 Gaat meestal over sequelen van een vroegere TBC

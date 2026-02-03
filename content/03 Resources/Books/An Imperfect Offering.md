@@ -12,7 +12,7 @@ rating:
   - ⭐⭐⭐⭐⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-10-11T21:55
+modified: 2026-02-03T14:30
 banner: An imperfect offering.png
 ---
 ![[An Imperfect Offering.png]]
@@ -64,7 +64,7 @@ There was no work for him, and so he had no food. “For one such as me, how is 
 "Language matters, I said: it determines how a problem is framed and defines the range of possible solutions."
 
 ---
-"Only 0.2 percent of the $60 billion spent globally every year on drug R&D went towards tuberculosis, malaria and acute respiratory infections, diseases that account for 18 percent of global mortality from all diseases. We found too that of 1,393 newly patented medicines marketed between 1975 and 1999, only 13 were for tropical diseases. Of these, 6 resulted from veterinary research and 4 from military research." 
+"Only 0.2 percent of the $60 billion spent globally every year on drug R&D went towards [[tuberculosis]], [[malaria]] and acute respiratory infections, diseases that account for 18 percent of global mortality from all diseases. We found too that of 1,393 newly patented medicines marketed between 1975 and 1999, only 13 were for tropical diseases. Of these, 6 resulted from veterinary research and 4 from military research." 
 
 ---
 "In the United States, between 1981 and 2000, less than 5 percent of the drugs introduced by the top twenty-five pharmaceutical companies represented therapeutic advances, and of these, some 70 percent were developed with government funding. Indeed, many government policy initiatives compounded the inequities of the market."

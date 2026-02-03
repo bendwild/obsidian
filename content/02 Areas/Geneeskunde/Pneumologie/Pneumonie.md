@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-24T21:29
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:11
 ---
 # Epidemiologie
 - 5/1000 tussen leeftijd 15-79 jaar
@@ -13,7 +13,7 @@ modified: 2025-06-12T22:56
 
 ## Risico-factoren
 - leeftijd (<16j, >65j)
-- co-morbiditeiten ([[Diabetes mellitus]], [[Chronische nierinsufficiëntie]], [[malnutritie]], recente virale infectie, HIV)
+- co-morbiditeiten ([[Diabetes mellitus]], [[Chronische nierinsufficiëntie]], [[malnutritie]], recente virale infectie, [[HIV]])
 - andere respiratoire aandoeningen ([[COPD]], bronchiëctasieën)
 - levensstijl (roken, alcohol, drugsgebruik)
 - immuunsupressieve therapie

@@ -4,7 +4,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-06T23:29
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:10
 ---
 # 💊 Pharmacotherapy
 
@@ -36,7 +36,7 @@ modified: 2025-06-12T22:56
 | ---------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sexual health    | [Zanzu](https://www.zanzu.nl)                    | Seksuele gezondheid, eenvoudig uitgelegd in 14 talen.                                                                                                                                                                                                                                                                                                                              |
 | [[Autisme]]      | [Participate](https://nl.participate-autisme.be) | Ondersteuning, info en tools voor personen met autisme en zorgverleners.                                                                                                                                                                                                                                                                                                           |
-| Sexual health    | [Alles over seks](https://www.allesoverseks.be)  | Informatie over seksualiteitsbeleving, lichaam, [[SOI's]] en hiv, [[Anticonceptie]], relaties, gender, ...                                                                                                                                                                                                                                                                         |
+| Sexual health    | [Alles over seks](https://www.allesoverseks.be)  | Informatie over seksualiteitsbeleving, lichaam, [[SOI's]] en [[hiv]], [[Anticonceptie]], relaties, gender, ...                                                                                                                                                                                                                                                                         |
 | [[Zwangerschap]] | [BornInBelgium](https://borninbelgiumpro.be)     | Born in Belgium Professionals is een RIZIV-project dat een digitale tool aanbiedt, ontwikkeld door én voor professionals die werken met of voor zwangeren in een kwetsbare situatie. Tijdens de zwangerschap wordt gescreend naar psychosociale kwetsbaarheden, zodat de hulp- en zorgverleners vervolgens proactief en efficiënt een gepersonaliseerde zorg aan te kunnen bieden. |
 | [[Zwangerschap]] | [BUMP](https://www.medicinesinpregnancy.org)     | Best Use of Medicines during Pregnancy.                                                                                                                                                                                                                                                                                                                                            |
 

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-12T21:48
-modified: 2025-06-12T22:56
+modified: 2026-02-03T14:30
 ---
 # Preconceptionele zorg
 ## Anamnese
@@ -60,7 +60,7 @@ Overweeg (serum) hCG enkel bij twijfelachtig of onverwacht negatief urine hCG-re
 		- toxoplasmose
 		- CMV
 		- Rubella 
-		- HIV (toestemming!)
+		- [[HIV]] (toestemming!)
 		- HBV, HCV
 		- syfilis
 		- varicella

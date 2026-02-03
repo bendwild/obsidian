@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-07T14:23
-modified: 2025-05-22T18:17
+modified: 2026-02-03T13:30
 ---
 # Embryologische gezwellen
 ## Mediaan
@@ -34,7 +34,7 @@ modified: 2025-05-22T18:17
 -> meestal door BLWI (viraal of bacterieel)
 
 ## Specifiek
-- [[Tuberculose]]-lymfadenitis: 
+- [[Tuberculosis]]-lymfadenitis: 
 	- grote rode verhevenheid
 	- na enige tijd begint onderliggende huid ook te schilferen
 	- vaak bij kinderen

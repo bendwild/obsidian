@@ -4,7 +4,7 @@ tags:
   - Policy
 publish: true
 created: 2026-01-27T23:45
-modified: 2026-01-28T12:31
+modified: 2026-02-03T14:30
 ---
 # Reflections
 > [!PDF|234, 82, 82] [[Two Regimes of Global Health (Lakoff).pdf#page=2&annotation=265R|Two Regimes of Global Health (Lakoff), p.59]]
@@ -14,7 +14,7 @@ modified: 2026-01-28T12:31
 > > Global health security focuses on ‘‘emerging infectious diseases’’—whether natu- rally occurring or man-made—which are seen to threaten wealthy countries, and which typically (though not always) emanate from Asia, sub-Saharan Africa, or Latin America.
 
 > [!PDF|255, 208, 0] [[Two Regimes of Global Health (Lakoff).pdf#page=3&annotation=276R|Two Regimes of Global Health (Lakoff), p.60]]
-> > Humanitarian biomedicine, in contrast, targets diseases that currently afﬂict the poorer nations of the world, such as [[malaria]], tuberculosis, and HIV/AIDS.
+> > Humanitarian biomedicine, in contrast, targets diseases that currently afﬂict the poorer nations of the world, such as [[malaria]], [[tuberculosis]], and [[HIV]]/AIDS.
 
 > [!PDF|234, 82, 82] [[Two Regimes of Global Health (Lakoff).pdf#page=4&annotation=282R|Two Regimes of Global Health (Lakoff), p.61]]
 > > . In other words, while Indonesia had been delivering virus samples to WHO as part of a collective early warning mechanism (i.e., GISN), its population would not be the beneﬁciary of the biomedical response apparatus that had been constructed to prepare for a deadly global outbreak. For the Indonesian health minister, this situation indicated a dark ‘‘conspiracy between superpower nations and global organizations.’

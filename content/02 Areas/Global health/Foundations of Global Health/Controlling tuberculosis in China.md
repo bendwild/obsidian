@@ -6,13 +6,13 @@ tags:
   - tropical-medicine
 publish: true
 created: 2025-10-01T17:41
-modified: 2025-10-06T14:04
+modified: 2026-02-03T13:30
 ---
 # Reflections
 
 DOTS
 = directly-observed therapy short course ([[@Karel Styblo]])
-= a public health approach focused on early detection of [[Tuberculose]] via smear microscopy with a standardized directly observed 6-month treatment in dispensaries or in the community until cure
+= a public health approach focused on early detection of [[Tuberculosis]] via smear microscopy with a standardized directly observed 6-month treatment in dispensaries or in the community until cure
 
 The essential elements of DOTS include: 
 - government commitment to sustain TB control activities
