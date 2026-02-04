@@ -258,3 +258,27 @@ body::before {
 body {
   cursor: url("/static/pencil-cursor.png"), auto;
 }
+
+/* --- PDF Embed Full-Width Fix --- */
+iframe[src*=".pdf"],
+embed[src*=".pdf"] {
+    width: 100% !important;
+    height: 90vh !important;
+    max-width: 100% !important;
+    border: none;
+    display: block;
+    margin: 1rem 0;
+}
+
+.quartz-embed,
+.quartz-embed iframe,
+.quartz-embed embed {
+    width: 100% !important;
+}
+
+@media (max-width: 768px) {
+    iframe[src*=".pdf"], embed[src*=".pdf"] {
+        height: 70vh;
+    }
+}
+/* --- End PDF Embed Full-Width Fix --- */
