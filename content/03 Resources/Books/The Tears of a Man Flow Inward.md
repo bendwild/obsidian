@@ -14,7 +14,7 @@ rating:
   - ⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-02T14:27
+modified: 2026-02-04T20:18
 ---
 # Reflections
  bashingantahe
@@ -40,3 +40,7 @@ Lord, make burundi a country of milk and honey again
 
 The power of storytelling, I experienced art before i knew the word
 when war finally ended, the whole tradition of storytelling was gone
+
+It’s clear he is not trying to dramatize, sensationalize, out of respect and humility for his family, friends, and classmates
+Is it to look to the future?
+Should he have shit more on belgium?
