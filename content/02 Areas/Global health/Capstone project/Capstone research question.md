@@ -2,7 +2,7 @@
 tags:
 publish: true
 created: 2025-09-19T10:01
-modified: 2025-10-28T00:06
+modified: 2026-02-07T22:54
 ---
 # RQ
 
@@ -40,7 +40,7 @@ Largest Column: standard
 - [ ] Relevant?
 
 --- end-multi-column
-> **In Tanzanian children with sepsis, is malnutrition associated with hospital mortality (1), and do inflammatory biomarker profiles (2) and infectious etiology (3) vary by malnutrition status?**
+> **In Tanzanian children with [[sepsis]], is malnutrition associated with hospital mortality (1), and do inflammatory biomarker profiles (2) and infectious etiology (3) vary by malnutrition status?**
 
 # Aims
 Last aim will always be to inform/educate/guide policy etc (3-5 aims needed)

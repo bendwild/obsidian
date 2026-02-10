@@ -3,7 +3,7 @@ tags:
   - Economics
 publish: true
 created: 2026-01-22T11:30
-modified: 2026-01-22T11:57
+modified: 2026-02-09T16:16
 ---
 # Price measurement indices
 ## Consumer Price Index (CPI)
@@ -44,7 +44,7 @@ Example:
 
 ## Gross National Income (GNI)
 = GDP plus income received from overseas sources minus income earned by non-residents
-= calculates income instead of outcome
+**= calculates income instead of outcome**
 
 ## Human Development Index (HDI)
 = long and health life (life expectancy at birth) + knowledge (expected years of schooling & mean years of schooling) + decent standard of living (GNI)
