@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-24T22:56
-modified: 2026-02-02T13:31
+modified: 2026-02-11T14:52
 ---
 # 1. Installation 
 
@@ -34,38 +34,38 @@ I have zero experience in coding or website design so have abused chatGPT extens
 
 - Custom `Font`
 ```
-fontOrigin: "googleFonts",
-  cdnCaching: true,
-  typography: {            
-  header: "Poppins",        
-  body: "Inter",           
-  code: "IBM Plex Mono", 
+ fontOrigin: "googleFonts",
+      cdnCaching: true,
+      typography: {
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
 ```
 
 - Custom `Theme`
 ```
-colors: {                
-  lightMode: {
-    light: "#f3efe7",      
-    lightgray: "#e8e4da",  
-    gray: "#ccc7b8",       
-    darkgray: "#7b7b6e",   
-    dark: "#2f2f29",       
-    secondary: "hsl(80, 22%, 58%)",  
-    tertiary: "hsl(60, 18%, 45%)",  
-    highlight: "rgba(155, 175, 165, 0.15)", 
-    textHighlight: "#fff28f88",  
-  },
-  darkMode: {
-    light: "#181712",      
-    lightgray: "#2d291f",  
-    gray: "#3f3a2f",       
-    darkgray: "#918a77",   
-    dark: "#e3e0d4",       
-    secondary: "hsl(80, 20%, 40%)",  
-    tertiary: "hsl(60, 15%, 35%)",   
-    highlight: "rgba(100, 120, 100, 0.15)",
-    textHighlight: "#bfb36a88",  
+colors: {
+    lightMode: {
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
+    darkMode: {
+        light: "#1e1c1f",        // warm charcoal (not blue-black)
+        lightgray: "#2a272b",    // warm gray surface
+        gray: "#6e6a70",         // muted neutral gray
+        darkgray: "#d6d1d6",     // soft off-white text
+        dark: "#f2eef2",         // main text (slightly warm white)
+        secondary: "#5f7f94",    // softened version of #284b63
+        tertiary: "#7fa8a0",     // slightly muted sage
+        highlight: "rgba(132, 165, 157, 0.18)", // subtle sage glow
+        textHighlight: "#fff23666", // softer yellow highlight
         },
       },
     },

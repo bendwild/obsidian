@@ -2,11 +2,11 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2026-02-03T13:18
+modified: 2026-02-11T14:48
 ---
-Welcome to my own private messy little [[Personal knowledge management]] system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
+Welcome to my own private messy little personal knowledge management system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 
-What began as a structured repository for the ever-increasing number of medicine notes and summaries has transformed into a free-from, work-in progress wiki of my life. I write for myself, to exercise my mind and nurture ideas, but this swamp is open to all who wander in. I write in Dutch and English depending on the content. 
+What began as a structured repository for the ever-increasing number of medicine notes and summaries has transformed into a free-from, work-in progress wiki of my life. I write for myself, to exercise my mind and nurture ideas, but this corner of the internet is open to all who wander in. I write in Dutch and English depending on the content. 
 
 Whether you’re here for curiosity, inspiration, or just to wade around, I hope you find something useful, thought-provoking, or at least entertaining. If you want to learn more [[About me]], what I do, or why I be, you can visit my [[Personal portfolio]] or send me a [message](https://www.linkedin.com/in/benjamin-de-wilde-he-him-71b793211/). 
 
@@ -14,7 +14,7 @@ Whether you’re here for curiosity, inspiration, or just to wade around, I hope
 
 ## **How to Navigate** 
 
-I use a system based on the [[Zettelkasten]]- and [[PARA]]-system, utilizing what works for me in both systems respectively. The diagram below outlines the basic folder structure.
+I use a system based on the Zettelkasten- and PARA-system, utilizing what works for me in both systems respectively. The diagram below outlines the basic folder structure.
 
 ![[Pasted image 20250103000618.png]]
 
