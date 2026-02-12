@@ -12,7 +12,7 @@ rating:
   - ⭐⭐⭐⭐⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-03T14:30
+modified: 2026-02-11T15:01
 banner: An imperfect offering.png
 ---
 ![[An Imperfect Offering.png]]
