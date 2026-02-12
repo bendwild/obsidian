@@ -4,10 +4,10 @@ tags:
   - Quartz
   - level-5🪱
 created: 2025-06-12T15:07
-modified: 2026-02-02T13:31
+modified: 2026-02-12T10:25
 publish: true
 ---
-Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing the [[Configuration]] in `quartz.config.ts` or changing the layout in `quartz.layout.ts`.
+Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the [[content/01 Projects/Quartz/Configuration|configuration]] you should need can be done by just editing the [[Configuration]] in `quartz.config.ts` or changing the layout in `quartz.layout.ts`.
 
 ```
 import { PageLayout, SharedLayout } from "./quartz/cfg"
@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Linkedin: "https://www.linkedin.com/in/benjamindewilde/",
+      LinkedIn: "https://www.linkedin.com/in/benjamindewilde/",
       Github: "https://github.com/bendwild",
     },
   }),
@@ -46,7 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
     }),
@@ -65,8 +64,6 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-  ],
-  afterBody: [
     Component.Backlinks(),
   ],
 }

@@ -5,8 +5,8 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-24T12:51
-modified: 2025-06-12T22:56
-media_link: 
+modified: 2026-02-12T10:27
+media_link:
 ---
 # [[content/02 Areas/Geneeskunde/Pediatrie/Groei|Groei]]
 CAVE **>10% gewichtsverlies** in de eerste levensweek gecombineerd met: 

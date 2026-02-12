@@ -5,14 +5,14 @@ title: "{{title}}"
 author: "{{author}}"
 category: "{{category}}"
 cover_url: "{{coverUrl}}"
-status: 
+status:
 rating:
   - ⭐⭐⭐⭐⭐
   - ⭐⭐⭐⭐
   - ⭐⭐⭐
   - ⭐⭐
   - ⭐
-publish: 
+publish:
 created: 2025-01-16T22:12
 ---
 

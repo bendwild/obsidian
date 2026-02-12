@@ -2,7 +2,7 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2026-02-11T14:48
+modified: 2026-02-12T09:33
 ---
 Welcome to my own private messy little personal knowledge management system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 

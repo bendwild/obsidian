@@ -1,5 +1,5 @@
 ---
-tags: 
-publish: 
+tags:
+publish:
 ---
  

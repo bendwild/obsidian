@@ -6,7 +6,7 @@ tags:
   - Decolonization
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-02T13:31
+modified: 2026-02-12T09:34
 ---
 I also aim to utilize the Ubuntu philosophy as a guide throughout my life and work. Ubuntu, originating from the Bantu and Xhosa peoples in South Africa and deeply woven into the social fabric of many African nations, is a model for a universal sense of humanity. Somewhat analogous to Descartes' famous quote "cogito ergo sum", Ubuntu frames our humanity through our connection to others: "I am because we are." This profound sense of human interconnectedness, championed by some of history's most influential leaders such as [[@Desmond Tutu ]]and  [[@Nelson Mandela]], forms the foundation of my vision. The utility of this type of framework for global health justice has become exceedingly clear with the COVID19 pandemic, as the global vaccine-buying race revealed the flaws of a fragmented global health policy where equitable access to lifesaving vaccines became a voluntary act rather than a universal human right. Though geographically distant, global north and south are neighbours in terms of their shared vulnerability.
 

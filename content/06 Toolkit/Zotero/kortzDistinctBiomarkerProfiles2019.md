@@ -1,7 +1,7 @@
 ---
 title: '"Distinct Biomarker Profiles Distinguish Malawian Children with Malarial and Non-malarial Sepsis"'
-Year: '2019'
-Authors: "Teresa B. Kortz, James Nyirenda, Dumizulu Tembo, Kristina Elfving, Kimberly Baltzell, Gama Bandawe, Philip J. Rosenthal, Sarah B. Macfarlane, Wilson Mandala, Tonney S. Nyirenda"
+Year: "2019"
+Authors: Teresa B. Kortz, James Nyirenda, Dumizulu Tembo, Kristina Elfving, Kimberly Baltzell, Gama Bandawe, Philip J. Rosenthal, Sarah B. Macfarlane, Wilson Mandala, Tonney S. Nyirenda
 tags:
   - Papers
 ---

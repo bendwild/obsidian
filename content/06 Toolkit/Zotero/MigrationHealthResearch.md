@@ -1,6 +1,6 @@
 ---
 title: '"Migration health research in the European region: Sustainable synergies to bridge the research, policy and practice gap"'
-Year: 'Error: `format` can only be applied to dates. Tried for format object'
+Year: "Error: `format` can only be applied to dates. Tried for format object"
 Authors: ""
 tags:
   - Papers

@@ -1,8 +1,8 @@
 ---
-tags: 
+tags:
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-02-18T22:15
+modified: 2026-02-12T10:27
 ---
 **Theory of Mind (ToM)** is the ability to understand and attribute mental states—such as beliefs, desires, intentions, and emotions—to oneself and others. It allows individuals to recognize that others have perspectives, thoughts, and feelings that may differ from their own. This cognitive skill is fundamental for social interaction, as it helps in predicting and interpreting the behavior of others -> *de persoon met ASS kan onvoldoende rekening houden met het perspectief van de ander om de interactie volwaardig te maken*
 

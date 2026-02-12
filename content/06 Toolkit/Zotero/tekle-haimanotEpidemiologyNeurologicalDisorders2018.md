@@ -1,7 +1,7 @@
 ---
 title: '"Epidemiology of Neurological Disorders in Sub-Saharan Africa"'
-Year: '2018'
-Authors: "Redda Tekle-Haimanot, Edgard B. Ngoungou, Dawit Kibru"
+Year: "2018"
+Authors: Redda Tekle-Haimanot, Edgard B. Ngoungou, Dawit Kibru
 tags:
   - Papers
 ---

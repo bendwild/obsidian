@@ -57,7 +57,7 @@ colors: {
           textHighlight: "#fff23688",
         },
     darkMode: {
-        light: "#1e1c1f",        // warm charcoal (not blue-black)
+        light: "#1e1c1f",        
         lightgray: "#2a272b",    // warm gray surface
         gray: "#6e6a70",         // muted neutral gray
         darkgray: "#d6d1d6",     // soft off-white text
