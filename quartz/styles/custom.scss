@@ -282,3 +282,57 @@ embed[src*=".pdf"] {
     }
 }
 /* --- End PDF Embed Full-Width Fix --- */
+
+body::after {
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+}
+
+ul {
+  list-style: none;
+  padding-left: 1.2rem;
+}
+
+ul li::before {
+  content: "•";
+  color: #3b7a4a;
+  font-size: 1.2rem;
+  margin-right: 0.5rem;
+}
+
+ul li::before {
+  content: "➤";
+  transform: rotate(-5deg);
+  display: inline-block;
+}
+
+h1, h2, h3 {
+  text-shadow:
+    0 0 1px rgba(0,0,0,0.08),
+    1px 1px 0 rgba(0,0,0,0.04);
+}
+
+.navbar {
+  border-radius: 0 0 14px 14px;
+}
+
+::selection {
+  background: #b8e8b2;
+  color: #1f3b26;
+}
+body.dark ::selection {
+  background: #3b7a4a;
+  color: white;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+  }
+}
+
+a { color: #2e6a3e; }
+
