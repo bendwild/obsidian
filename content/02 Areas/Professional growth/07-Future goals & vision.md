@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-04T23:50
-modified: 2026-02-02T13:31
+modified: 2026-02-13T11:44
 ---
 *A brief look at the path ahead, to infinity and beyond*
 
@@ -45,6 +45,8 @@ modified: 2026-02-02T13:31
 - Internships WHO/Unicef?
 - Young leaders for the SDG -> 2027-2029 cohort
 - UN Youth Delegates (deadline feb)
+- 3j after doctoraat
+	- de jonge academie
 - Postgraduaat? 
 	- tropische geneeskunde ITM Antwerp
 	- jeugdgezondheidszorg
