@@ -4,7 +4,7 @@ tags:
   - Decolonization
 publish: true
 created: 2025-02-22T20:01
-modified: 2026-01-24T22:44
+modified: 2026-02-18T09:41
 ---
 Core - Periphery -> used to describe the tremendous inequality within and between nations, and the resistance of this inequality to change 
 

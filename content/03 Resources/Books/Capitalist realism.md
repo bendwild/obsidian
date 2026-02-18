@@ -1,10 +1,10 @@
 ---
 tags:
-  - Concepts
   - Economics
+  - Books
 publish: true
 created: 2026-02-18T00:09
-modified: 2026-02-18T00:13
+modified: 2026-02-18T09:54
 ---
 [[@Mark Fisher]] 
 Capitalism has become the only conceivable political and economic system, even though it is inherently unrealistic and full of contradictions. 

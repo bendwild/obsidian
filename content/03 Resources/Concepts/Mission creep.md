@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-05T15:44
-modified: 2025-10-11T21:54
+modified: 2026-02-18T09:41
 ---
 **Mission creep** is the gradual or incremental expansion of an intervention, project or mission, beyond its original scope, focus or goals; a ratchet effectspawned by initial success. Mission creep is usually considered undesirable due to how each success breeds more ambitious interventions until a final failure happens, stopping the intervention entirely. [^1]
 
