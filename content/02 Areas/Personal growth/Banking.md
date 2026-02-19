@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-15T10:38
-modified: 2026-02-12T09:34
+modified: 2026-02-18T14:49
 ---
 1. Bank voor zichtrekening
 	1. **Keytrade** (money with each transaction)
