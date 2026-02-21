@@ -1,9 +1,9 @@
 ---
 tags:
   - Relationships
-publish: true
+publish: false
 created: 2025-12-27T13:19
-modified: 2026-02-18T23:41
+modified: 2026-02-19T23:30
 ---
 - you dont actively see and appreciate enough the hidden efforts and time people (she) puts in
 - more surprise meaningful gestures needed
