@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-04T23:50
-modified: 2026-02-13T11:44
+modified: 2026-02-21T19:12
 ---
 *A brief look at the path ahead, to infinity and beyond*
 
@@ -27,6 +27,7 @@ modified: 2026-02-13T11:44
 	- [[Starten als arts]]
 	- RSTMH grant 2025
 	- [WONCA Europe scholarship](https://www.woncaeurope.org/page/the-wonca-europe-scholarship)
+- Domus Medica - Jong domus klimaat
 - AIOS traject OIGT
 	- stuur een mailtje voor eventuele PhD mogelijkheden
 	- contacteer ex OIGT artsen om hun ervaringen te horen
