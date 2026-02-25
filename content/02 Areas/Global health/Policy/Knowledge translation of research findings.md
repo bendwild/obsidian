@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-02-22T16:07
-modified: 2026-02-24T23:07
+modified: 2026-02-25T13:09
 ---
 # Reflection
 
@@ -13,7 +13,6 @@ modified: 2026-02-24T23:07
 
 > [!PDF|187, 97, 229] [[Grimshaw JM Knowledge translation of research findings.pdf#page=1&annotation=708R|Grimshaw JM Knowledge translation of research findings, p.0]]
 > > One of the most consistent findings from clinical and health services research is the failure to translate research into practice and policy
-
 
 > [!PDF|234, 82, 82] [[Grimshaw JM Knowledge translation of research findings.pdf#page=2&annotation=714R|Grimshaw JM Knowledge translation of research findings, p.1]]
 > > Across differ- ent healthcare systems, different terms describe these efforts including quality assurance, quality improvement, knowledge translation, knowledge utilisation, knowledge transfer and exchange, innovation diffusion, implementa- tion  research,  research  utilisation,  evidence-informed policy,  and  evidence-informed  health  systems  [4,5]. These different terms often cover related and overlap- ping  constructs.
@@ -58,7 +57,7 @@ modified: 2026-02-24T23:07
 > > A more ap- propriate approach to effective and sustainable knowledge translation may be the development of research knowledge infrastructures by healthcare systems that address the needs of their various stakeholders (e.g., consumers, practitioners, managers, and policy makers)
 
 > [!PDF|255, 208, 0] [[Grimshaw JM Knowledge translation of research findings.pdf#page=4&annotation=744R|Grimshaw JM Knowledge translation of research findings, p.3]]
-> > Components of research know- ledge infrastructures are classified into two broad categories: technological  and  organizational.  Technological  compo- nents  include  electronic  databases  and  search  engines. Organizational components include documentation specia- lists, data analysts, knowledge brokers (i.e., individuals who manage the collaboration between an organization, external information,  and  knowledge  producers  and  users),  and training programs (to assist with activities such as searching for information, quality appraisal, adaption and use of the research findings)
+> > Components of **research know- ledge infrastructures** are classified into two broad categories: technological  and  organizational.  Technological  compo- nents  include  electronic  databases  and  search  engines. Organizational components include documentation specia- lists, data analysts, knowledge brokers (i.e., individuals who manage the collaboration between an organization, external information,  and  knowledge  producers  and  users),  and training programs (to assist with activities such as searching for information, quality appraisal, adaption and use of the research findings)
 
 > [!PDF|234, 82, 82] [[Grimshaw JM Knowledge translation of research findings.pdf#page=4&annotation=747R|Grimshaw JM Knowledge translation of research findings, p.3]]
 > > Both databases (Rx for Change  and  Health Systems Evi- dence) provide improved access to research information for consumers, practitioners, and/or policy makers. How- ever, this access is necessary but not sufficient to ensure knowledge translation. Effective and sustainable knowledge translation also requires organizational knowledge infra- structure components.
@@ -78,7 +77,7 @@ modified: 2026-02-24T23:07
 > 
 
 > [!PDF|234, 82, 82] [[Grimshaw JM Knowledge translation of research findings.pdf#page=5&annotation=759R|Grimshaw JM Knowledge translation of research findings, p.4]]
-> > ndividuals involved in knowledge translation need to: identify modi- fiable and non-modifiable barriers relating to behavior; identify potential adopters and practice environments; and prioritise which barriers to target based upon con- sideration of  ‘mission critical’  barriers. Furthermore, the potential for addressing these barriers through know- ledge translation activities (based upon consideration of the likely mechanisms of action of interventions) and the resources available for knowledge translation activities also needs to be addressed
+> > Individuals involved in knowledge translation need to: identify modi- fiable and non-modifiable barriers relating to behavior; identify potential adopters and practice environments; and prioritise which barriers to target based upon con- sideration of  ‘mission critical’  barriers. Furthermore, the potential for addressing these barriers through know- ledge translation activities (based upon consideration of the likely mechanisms of action of interventions) and the resources available for knowledge translation activities also needs to be addressed
 
 
 ### Effectiveness of knowledge translation strategies focusing on policy makers and senior health service managers

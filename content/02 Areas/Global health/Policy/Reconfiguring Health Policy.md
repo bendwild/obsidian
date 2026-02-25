@@ -3,9 +3,9 @@ tags:
   - Policy
   - global-health
   - Papers
-publish: false
+publish: true
 created: 2026-02-09T14:24
-modified: 2026-02-10T21:12
+modified: 2026-02-25T13:05
 title: "Reconfiguring Health Policy: Simple Truths, Complex Solutions"
 ---
 # Reflections
