@@ -4,11 +4,11 @@ tags:
   - Psychologie
 publish: true
 created: 2026-02-24T23:17
-modified: 2026-02-24T23:49
+modified: 2026-02-25T22:47
 ---
 # What is behavioral [[economics]]?
 
-<u>Born out of the inherent paradoxes of neoclassical [[economics]].</u>
+**Born out of the inherent paradoxes of neoclassical [[economics]]**
 1. Why don’t economic actors align with the classic economic assumptions?
 	1. Maximize utility
 	2. Prefer mixed goods over extremes
@@ -18,8 +18,9 @@ modified: 2026-02-24T23:49
 2. Why do economic actors act “irrational”?
 	1. Systematic deviations from standard economic model (non-standard **preferences**, non-standard **beliefs**, non-standard **decision-making**)
 	2. The **know-do gap**; 
-		1. traditional biomedical research doesn’t account for human behavior (health systems built on how things “should” work (not how they actually work in real life)
-		2. traditional behavior change methods (e.g., give information) can only go so far
+		1. traditional biomedical research doesn’t account for human behavior
+		2. health systems built on how things “should” work, not how they actually work in real life
+		3. traditional behavior change methods (e.g., give information) can only go so far
 	3. Design programs/interventions to avoid biases overcome some natural tendencies that lead to poor choices.
 
 # Behavioral economic model
@@ -36,7 +37,7 @@ modified: 2026-02-24T23:49
 | - present-[[bias]]<br>- reference-dependence<br>- social preference | - naivete<br>- projection [[bias]]<br>- deviations from Bayesian learning | - limited attention and memory<br>- mental accounting<br>- default effects |
 # Behavioral strategies
 
-How do we help people make better decisions?
+**How do we help people make better decisions?**
 - Classic economic model
 	- redistribute wealth
 	- provide information

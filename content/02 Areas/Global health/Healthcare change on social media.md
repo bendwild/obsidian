@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-13T14:38
-modified: 2026-02-12T09:34
+modified: 2026-02-25T13:55
 ---
 Health information and communication is too important to leave to the algorithm 
 → that is why it is essential to be present and visible on social media
