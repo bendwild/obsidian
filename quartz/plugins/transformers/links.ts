@@ -40,10 +40,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
         () => {
           return (tree: Root, file) => {
 
-            // ✅ normalize current slug
+            // Normalize current slug to lowercase
             const curSlug = simplifySlug(file.data.slug!).toLowerCase()
 
-            // ✅ normalize all known slugs
+            // Normalize all known slugs to lowercase
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs.map((s) =>
@@ -108,49 +108,46 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
 
                 if (isInternal) {
 
-                  // ✅ normalize incoming link BEFORE resolution
+                  // Lowercase the incoming link for matching
                   dest = dest.toLowerCase() as RelativeURL
 
+                  // Resolve link with Quartz resolver
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
                     dest,
                     transformOptions,
                   )
 
+                  // Parse URL to handle anchors
                   const url = new URL(
                     dest,
                     "https://base.com/" + stripSlashes(curSlug, true),
                   )
 
-                  let [destCanonical] =
-                    splitAnchor(url.pathname)
+                  let [destCanonical] = splitAnchor(url.pathname)
 
+                  // Append 'index' if ending with /
                   if (destCanonical.endsWith("/")) {
                     destCanonical += "index"
                   }
 
+                  // Decode and lowercase for canonical slug
                   const full = decodeURIComponent(
                     stripSlashes(destCanonical, true),
-                  ) as FullSlug
+                  ).toLowerCase() as FullSlug
 
-                  // ✅ normalize stored outgoing links
-                  const simple =
-                    simplifySlug(full).toLowerCase()
-
-                  outgoing.add(simple as SimpleSlug)
-
+                  outgoing.add(full as SimpleSlug)
                   node.properties["data-slug"] = full
-                }
 
-                if (
-                  opts.prettyLinks &&
-                  isInternal &&
-                  node.children.length === 1 &&
-                  node.children[0].type === "text" &&
-                  !node.children[0].value.startsWith("#")
-                ) {
-                  node.children[0].value =
-                    path.basename(node.children[0].value)
+                  // Update link text if prettyLinks is enabled
+                  if (
+                    opts.prettyLinks &&
+                    node.children.length === 1 &&
+                    node.children[0].type === "text" &&
+                    !node.children[0].value.startsWith("#")
+                  ) {
+                    node.children[0].value = path.basename(node.children[0].value)
+                  }
                 }
               }
 
