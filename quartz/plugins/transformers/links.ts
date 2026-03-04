@@ -36,27 +36,22 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
   return {
     name: "LinkProcessing",
     htmlPlugins(ctx) {
+      // Build a case-insensitive slug lookup map
+      const slugLookup = new Map<string, string>()
+      ctx.allSlugs.forEach((slug) => slugLookup.set(slug.toLowerCase(), slug))
+
       return [
         () => {
           return (tree: Root, file) => {
-
-            // Keep current page slug in original case (graph view relies on this)
             const curSlug = simplifySlug(file.data.slug!)
-
-            // Lowercase all known slugs for resolution only
+            const outgoing: Set<SimpleSlug> = new Set()
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
-              allSlugs: ctx.allSlugs.map((s) =>
-                simplifySlug(s as FullSlug).toLowerCase() as SimpleSlug
-              ),
+              allSlugs: ctx.allSlugs,
             }
 
-            const outgoing: Set<SimpleSlug> = new Set()
-
             visit(tree, "element", (node) => {
-
-              /* ---------------- LINKS ---------------- */
-
+              // Process all <a> links
               if (
                 node.tagName === "a" &&
                 node.properties &&
@@ -64,10 +59,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               ) {
                 let dest = node.properties.href as RelativeURL
                 const classes = (node.properties.className ?? []) as string[]
-
                 const isExternal = isAbsoluteUrl(dest)
                 classes.push(isExternal ? "external" : "internal")
 
+                // Add external link icon if needed
                 if (isExternal && opts.externalLinkIcon) {
                   node.children.push({
                     type: "element",
@@ -78,17 +73,20 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                       style: "max-width:0.8em;max-height:0.8em",
                       viewBox: "0 0 512 512",
                     },
-                    children: [{
-                      type: "element",
-                      tagName: "path",
-                      properties: {
-                        d: "M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z",
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "path",
+                        properties: {
+                          d: "M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z",
+                        },
+                        children: [],
                       },
-                      children: [],
-                    }],
+                    ],
                   })
                 }
 
+                // Alias class if text != href
                 if (
                   node.children.length === 1 &&
                   node.children[0].type === "text" &&
@@ -96,47 +94,37 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 ) {
                   classes.push("alias")
                 }
-
                 node.properties.className = classes
 
                 if (isExternal && opts.openLinksInNewTab) {
                   node.properties.target = "_blank"
                 }
 
-                const isInternal =
-                  !(isAbsoluteUrl(dest) || dest.startsWith("#"))
-
+                // Internal link processing
+                const isInternal = !(isAbsoluteUrl(dest) || dest.startsWith("#"))
                 if (isInternal) {
-                  // Only lowercase the link text for resolution
-                  const destLower = dest.toLowerCase() as RelativeURL
-
-                  // Resolve link against lowercase slugs
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
-                    destLower,
-                    transformOptions,
-                  )
-
-                  const url = new URL(
                     dest,
-                    "https://base.com/" + stripSlashes(curSlug, true),
+                    transformOptions
                   )
 
-                  let [destCanonical] = splitAnchor(url.pathname)
+                  // Resolve canonical path
+                  const url = new URL(dest, "https://base.com/" + stripSlashes(curSlug, true))
+                  let [destCanonical, _destAnchor] = splitAnchor(url.pathname)
+                  if (destCanonical.endsWith("/")) destCanonical += "index"
 
-                  if (destCanonical.endsWith("/")) {
-                    destCanonical += "index"
-                  }
+                  // Case-insensitive lookup
+                  const fullLower = stripSlashes(destCanonical, true).toLowerCase()
+                  const actualFull = slugLookup.get(fullLower) ?? fullLower
 
-                  // Keep original slug casing for graph view and data-slug
-                  const full = decodeURIComponent(
-                    stripSlashes(destCanonical, true),
-                  ) as FullSlug
+                  const simple = simplifySlug(actualFull)
+                  outgoing.add(simple)
 
-                  outgoing.add(simplifySlug(full))
-                  node.properties["data-slug"] = full
+                  node.properties["data-slug"] = actualFull
+                  node.properties.href = "/" + actualFull // correct case URL
 
-                  // Update link text if prettyLinks is enabled
+                  // Pretty link text
                   if (
                     opts.prettyLinks &&
                     node.children.length === 1 &&
@@ -148,26 +136,16 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 }
               }
 
-              /* ---------------- MEDIA ---------------- */
-
+              // Other resources (img, video, audio, iframe)
               if (
                 ["img", "video", "audio", "iframe"].includes(node.tagName) &&
                 node.properties &&
                 typeof node.properties.src === "string"
               ) {
-                if (opts.lazyLoad) {
-                  node.properties.loading = "lazy"
-                }
-
+                if (opts.lazyLoad) node.properties.loading = "lazy"
                 if (!isAbsoluteUrl(node.properties.src)) {
-                  let dest =
-                    node.properties.src.toLowerCase() as RelativeURL
-
-                  dest = node.properties.src = transformLink(
-                    file.data.slug!,
-                    dest,
-                    transformOptions,
-                  )
+                  let dest = node.properties.src as RelativeURL
+                  node.properties.src = transformLink(file.data.slug!, dest, transformOptions)
                 }
               }
             })
