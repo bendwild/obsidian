@@ -5,7 +5,7 @@ tags:
   - Farmacologie
 publish: true
 created: 2026-02-25T00:02
-modified: 2026-02-25T23:36
+modified: 2026-02-26T08:38
 ---
 # Perspectives
 
@@ -31,9 +31,9 @@ modified: 2026-02-25T23:36
 
 # Cost-Containment mechanisms
 
-| Mark-up regulations                        | Payback                                                                              | Risk-sharing agreement                                                                                                                             | Price transparency                                                                   |
-| ------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| - additional costs are banned or regulated | - manufacturers need to refund once target budget/profitability treshold is exceeded | - financial/performance-based arrangements in which manufacturers agree to lower prices or provide refunds if prespecified targets are not reached | - information about drug prices is disclosed to relevant stakeholders/general public |
+| Mark-up regulations                        | Payback                                                                              | Risk-sharing agreement                                                                                                                             | Price transparency                                                                           |
+| ------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| - additional costs are banned or regulated | - manufacturers need to refund once target budget/profitability treshold is exceeded | - financial/performance-based arrangements in which manufacturers agree to lower prices or provide refunds if prespecified targets are not reached | - information about drug prices is disclosed to relevant stakeholders and the general public |
 
 > [!attention] Why rise in drug prices?
 > - market size / patient pool / R&D cost (priced higher to recover costs)
