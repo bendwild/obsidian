@@ -4,12 +4,14 @@ tags:
   - Report
 publish: true
 created: 2026-03-03T13:22
-modified: 2026-03-04T00:52
+modified: 2026-03-04T13:28
 title: "Channeling change: Making collective impact work"
 ---
 # Reflections
 ## What is [[collective impact]]?
 Five key conditions that distinguish [[collective impact]] from other types of collaboration: 
+
+TEST [[Collective impact]]
 ![[Pasted image 20260304004219.png]]
 
 > [!PDF|234, 82, 82] [[Making collective impact work..pdf#page=5&annotation=261R|Making collective impact work., p.5]]
