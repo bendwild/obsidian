@@ -40,10 +40,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
         () => {
           return (tree: Root, file) => {
 
-            // Normalize current slug to lowercase
-            const curSlug = simplifySlug(file.data.slug!).toLowerCase()
+            // Keep current page slug in original case (graph view relies on this)
+            const curSlug = simplifySlug(file.data.slug!)
 
-            // Normalize all known slugs to lowercase
+            // Lowercase all known slugs for resolution only
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs.map((s) =>
@@ -107,18 +107,16 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   !(isAbsoluteUrl(dest) || dest.startsWith("#"))
 
                 if (isInternal) {
+                  // Only lowercase the link text for resolution
+                  const destLower = dest.toLowerCase() as RelativeURL
 
-                  // Lowercase the incoming link for matching
-                  dest = dest.toLowerCase() as RelativeURL
-
-                  // Resolve link with Quartz resolver
+                  // Resolve link against lowercase slugs
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
-                    dest,
+                    destLower,
                     transformOptions,
                   )
 
-                  // Parse URL to handle anchors
                   const url = new URL(
                     dest,
                     "https://base.com/" + stripSlashes(curSlug, true),
@@ -126,17 +124,16 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
 
                   let [destCanonical] = splitAnchor(url.pathname)
 
-                  // Append 'index' if ending with /
                   if (destCanonical.endsWith("/")) {
                     destCanonical += "index"
                   }
 
-                  // Decode and lowercase for canonical slug
+                  // Keep original slug casing for graph view and data-slug
                   const full = decodeURIComponent(
                     stripSlashes(destCanonical, true),
-                  ).toLowerCase() as FullSlug
+                  ) as FullSlug
 
-                  outgoing.add(full as SimpleSlug)
+                  outgoing.add(simplifySlug(full))
                   node.properties["data-slug"] = full
 
                   // Update link text if prettyLinks is enabled
