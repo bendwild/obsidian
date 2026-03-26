@@ -4,7 +4,7 @@ tags:
   - Concepts
 publish: true
 created: 2026-01-24T22:36
-modified: 2026-01-24T22:38
+modified: 2026-03-04T14:28
 ---
 [[@ Thomas McKeown]], a physician and influential demographic historian, has challenged the extent to which medical interventions have contributed to improvements in health outcomes. In his research, published from the 1950s to the 1980s, McKeown classifies the variables contributing to the control of infectious disease into three categories: “medical measures (specific therapies and immunization), reduced exposure to infection, and improved nutrition.” He argues that declining mortality can be attributed mainly to improved standards of living, which lead to reduced exposure to disease and, more important, advancement in nutrition. Contrary to the widely held belief that advances in medicine have been a main cause of population growth, McKeown suggests that medical measures played only a part, perhaps a small one, in improving health outcomes. McKeown’s thesis has since been criticized for its methodology and for the political biases that may have influenced his argument. 
 

@@ -4,7 +4,7 @@ tags:
   - Huisarts
 publish: true
 created: 2025-01-28T19:36
-modified: 2026-02-03T14:30
+modified: 2026-03-04T14:28
 ---
 # Digital health in primary care
 ## Why digital health?

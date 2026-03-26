@@ -4,7 +4,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T13:40
+modified: 2026-03-04T14:28
 ---
 # Mitraalklepstenose
 -> mitra**L**is = **L**inks

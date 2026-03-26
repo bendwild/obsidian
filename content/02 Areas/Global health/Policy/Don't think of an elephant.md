@@ -5,7 +5,7 @@ tags:
   - Politics
 publish: true
 created: 2026-01-27T23:44
-modified: 2026-01-28T00:48
+modified: 2026-03-04T14:28
 ---
 # Reflections
 Don’t think of an elephant! Whatever you do, do not think of an elephant. No one is able to do this. **Every word, like elephant, evokes a frame which can be an image or other kinds of knowledge**

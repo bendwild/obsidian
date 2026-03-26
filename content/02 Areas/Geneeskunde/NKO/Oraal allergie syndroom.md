@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-24T23:02
-modified: 2025-05-24T23:19
+modified: 2026-03-04T14:28
 ---
 = onmiddellijke [[jeuk]] met/zonder angio-[[oedeem]] in mond en keel na inname rauw fruit en/of groenten **bij primaire pollen [[allergie]] patiënten** (60%)
 

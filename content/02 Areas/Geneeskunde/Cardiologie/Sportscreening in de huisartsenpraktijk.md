@@ -6,7 +6,7 @@ tags:
   - Preventie
 publish: true
 created: 2025-01-29T20:46
-modified: 2025-04-22T23:13
+modified: 2026-03-04T14:28
 ---
  
 > [!important] Sudden cardiac death = leading medical cause of death in athletes!!

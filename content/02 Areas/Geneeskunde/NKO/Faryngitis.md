@@ -4,7 +4,7 @@ tags:
   - NKO
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-05T22:26
+modified: 2026-03-04T14:28
 ---
 # Etiologie
 - 40% viraal

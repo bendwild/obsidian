@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-02-22T16:11
-modified: 2026-02-22T16:11
+modified: 2026-03-04T14:28
 title: "PUTTING A BAND-AID ON A CORPSE: INCENTIVES FOR NURSES IN THE INDIAN PUBLIC HEALTH CARE SYSTEM"
 ---
 # Reflections

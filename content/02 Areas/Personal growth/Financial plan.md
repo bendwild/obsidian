@@ -4,7 +4,7 @@ tags:
   - Finance
 publish: true
 created: 2025-04-14T13:28
-modified: 2026-02-02T13:31
+modified: 2026-03-04T14:28
 ---
 # Needs
 -> allocate **50%** of your budget

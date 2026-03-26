@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-02-17T20:40
-modified: 2026-02-17T22:50
+modified: 2026-03-04T14:28
 title: "Backward Mapping: Implementation Research and Policy Decisions"
 ---
 # Reflections

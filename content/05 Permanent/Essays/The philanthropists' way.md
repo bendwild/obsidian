@@ -4,7 +4,7 @@ tags:
   - Essay
 publish: true
 created: 2026-01-27T23:48
-modified: 2026-02-25T14:08
+modified: 2026-03-04T14:28
 ---
 *The new, as always, is rooted in the old.* That is the opener of the chapter “[[Colonial medicine and its legacies]]”, and in truth, a perfect summary of its main message.1 Jeremy Green and colleagues open the history books and take a critical look at the origins of global health and the continuity between modern-day global health practices and former colonial rule. They describe the many coats global health has worn over history, from colonial medicine, born to protect imperial militaries and European-born administrators and civilians, to tropical medicine, missionary medicine, and international health. While all are distinct, the authors warn that they share colonial legacies that still shape the knowledge frameworks and practices of the field we call global health today. A good example of this is _socialization for scarcity_, the assumption that resources for global health initiatives will be in perpetually short supply. This silent dogma, born of British colonial rule, still lives to this day, as literature specific to “_resource-poor_” settings assumes resource scarcity as its starting point.
 

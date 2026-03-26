@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-01-12T23:37
-modified: 2026-01-24T22:54
+modified: 2026-03-04T14:28
 title: "Slow Research: Thoughts for a Movement in Global Health"
 ---
 # Reflections

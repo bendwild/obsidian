@@ -3,7 +3,7 @@ tags:
   - Poetry
 publish: true
 created: 2025-04-13T12:44
-modified: 2026-02-02T13:31
+modified: 2026-03-04T14:28
 ---
 For reasons unexplained, every person in the world is born with a large gaping hole in the center of their chest
 while not uncomfortable, it is widely considered unsightly and pretty much everyone tries to fill it with something

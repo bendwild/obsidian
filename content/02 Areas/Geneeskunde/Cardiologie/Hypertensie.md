@@ -6,7 +6,7 @@ tags:
   - Preventie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-19T16:29
+modified: 2026-03-04T14:28
 ---
 = prevalente, majeure en modifieerbare cardiovasculaire risicofactor
 - *PREVALENT* = >60% personen >60j hebben hypertensie

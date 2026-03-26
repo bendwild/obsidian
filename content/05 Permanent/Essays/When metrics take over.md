@@ -6,7 +6,7 @@ tags:
   - global-health
 publish: true
 created: 2026-01-27T23:46
-modified: 2026-02-25T14:09
+modified: 2026-03-04T14:28
 ---
 Vincanne Adams and colleagues challenge the dominant paradigm of research and [[knowledge production]] in their 2013 book, “_Critical Global Health: Evidence, Efficacy, Ethnography_.”1 While recognizing the value of rigorous statistical methods, the authors note several concerns about how evidence-based medicine (EBM) and randomized controlled trials (RCTs) have been institutionalized in global health research. First and foremost, the chapter argues that often what is lost in the cogs of the statistical machine are the people. They ask whether global health research still serves people in need or has evolved into an industry catering to the demands of generalizability, cost-effectiveness, and audit culture. The authors bring up a particularly poignant example of how a research project on safe motherhood in rural Tibet was defunded because it was not an ideal target for an RCT. Another interesting note that struck home for me is that elements that cannot be measured within RCTs are relegated to the background as merely “_static_”, despite global health being inextricably tied to the social, political, and cultural spheres. As Hacking notes, many phenomena in the world of global public health are always “_on the move_”.
 

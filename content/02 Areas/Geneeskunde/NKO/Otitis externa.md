@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-25T14:28
-modified: 2025-06-13T00:49
+modified: 2025-10-28T12:46
 ---
  = aandoening van het uitwendig oor met diffuse inflammatie van de huid van de uitwendige gehoorgang
 

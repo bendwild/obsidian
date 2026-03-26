@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-30T11:51
-modified: 2025-05-07T12:02
+modified: 2025-10-28T12:46
 ---
 # Kliniek
 -> **triade met >90% voorspellende waarde**

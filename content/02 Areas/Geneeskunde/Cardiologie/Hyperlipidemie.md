@@ -6,7 +6,7 @@ tags:
   - Preventie
 publish: true
 created: 2025-01-29T21:07
-modified: 2025-05-08T12:25
+modified: 2026-03-04T14:28
 ---
 # LDL
 ## Pathofysiologie

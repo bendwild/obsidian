@@ -5,7 +5,7 @@ tags:
   - global-health
 publish: true
 created: 2026-01-24T16:04
-modified: 2026-01-24T18:23
+modified: 2026-03-04T14:28
 media_link: https://www.youtube.com/watch?v=kcqXGn-8lzc
 title: "Quality Improvement at 20 years: how can we not make Social Determinants of Health our focus?"
 ---

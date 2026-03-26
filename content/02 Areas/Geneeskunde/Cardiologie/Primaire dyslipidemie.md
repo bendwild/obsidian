@@ -6,7 +6,7 @@ tags:
   - Gastrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-02T23:38
+modified: 2026-03-04T14:28
 ---
 # Etiologie
 o **Levensstijl**: sedentair, hoge koolhydraten intake (westers dieet)

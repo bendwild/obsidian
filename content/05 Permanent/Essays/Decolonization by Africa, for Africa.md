@@ -3,7 +3,7 @@ tags:
   - Essay
 publish: true
 created: 2026-02-20T21:52
-modified: 2026-02-20T21:53
+modified: 2026-03-04T14:28
 ---
 Decolonization is a powerful word. It can simultaneously elicit feelings of shame, anger, and fear; inspire collective action, solidarity, and purpose; signal historical injustice, and demand accountability… It speaks the tongue of a deeply social, political, and moral language and holds the power to legitimize or destabilize movements and institutions. Its deep historical roots and promises of a different future have given rise to an entire field of academics and advocates seeking to decolonize institutions, nations, systems, and processes. Decolonize science, the syllabus, the body, the internet, philosophy, history, medicine, even God… I have heard it all. The ease with which the language of decolonization has been adopted is both inspiring and dangerous. As Tuck and Yang note, “_the easy absorption, adoption, and transposing of decolonization is yet another form of settler appropriation_”.1 It misconstrues decolonization as a metaphor and, in doing so, hollows out its epistemological basis.
 

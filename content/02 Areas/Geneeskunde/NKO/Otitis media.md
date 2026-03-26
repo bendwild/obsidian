@@ -4,7 +4,7 @@ tags:
   - NKO
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-05T12:20
+modified: 2025-10-28T12:46
 ---
 = plots optredende, kortdurende (<3w) besmetting van het middenoor met **ophoping van vocht** en **tekenen van een acute infectie**.
 

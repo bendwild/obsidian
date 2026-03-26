@@ -3,7 +3,7 @@ tags:
   - Biostatistics
 publish: true
 created: 2025-10-19T22:41
-modified: 2025-10-19T23:51
+modified: 2026-03-04T14:28
 ---
 
 |             | Binomial                                                                                                                               | Poisson                                                                                                                                                                                                                                                                  | Normal                                                                                                                                                                                                                                        |

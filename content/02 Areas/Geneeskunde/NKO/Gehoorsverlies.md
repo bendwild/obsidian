@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-23T18:07
-modified: 2025-05-26T22:36
+modified: 2026-03-04T14:28
 ---
 # Neonataal 
 -> systematische neonatale gehoorscreening voor vroegtijdige detectie

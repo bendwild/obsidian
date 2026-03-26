@@ -6,7 +6,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-04-29T09:14
-modified: 2026-02-03T14:10
+modified: 2026-03-04T14:28
 ---
 -> acute buikpijn <1w
 -> 5-10% spoedconsultaties

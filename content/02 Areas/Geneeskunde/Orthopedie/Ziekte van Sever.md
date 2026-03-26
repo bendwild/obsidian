@@ -6,7 +6,7 @@ tags:
   - Pediatrie
 publish: true
 created: 2025-05-08T23:51
-modified: 2025-05-09T00:03
+modified: 2025-10-28T12:46
 ---
 **= tractie apofysitis van het calcaneum**
 -> apofyse thv achterste deel calcaneum, toont pas **volledige fusie op 15j**

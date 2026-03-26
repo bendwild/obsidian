@@ -3,7 +3,7 @@ tags:
   - Biostatistics
 publish: true
 created: 2025-10-19T22:57
-modified: 2025-10-19T23:04
+modified: 2026-03-04T14:28
 ---
 # 1. Conditional probability
 ```

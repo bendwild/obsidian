@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-02-09T14:26
-modified: 2026-02-10T20:26
+modified: 2026-03-04T14:28
 title: "Street-Level Bureaucracy: Dilemmas of the Individual in Public Services"
 ---
 # Reflections

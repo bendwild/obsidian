@@ -3,7 +3,7 @@ tags:
   - Biostatistics
 publish: true
 created: 2025-10-19T17:38
-modified: 2025-10-19T18:11
+modified: 2026-03-04T14:28
 ---
 
 |                  | Bar graphs                                                                        | Histograms                                 | Box plots                                | Scatter plots                                  | Pie chart |

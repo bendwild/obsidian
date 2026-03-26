@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T22:02
-modified: 2026-02-03T13:30
+modified: 2026-03-04T14:28
 ---
 = ontsteking van het hartzakje
 ![[Pericarditis.png]]

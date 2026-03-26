@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-18T16:54
-modified: 2025-06-02T09:49
+modified: 2026-03-04T14:28
 ---
 # Pathofysiologie
 ![[Hartritmestoornissen.png]]

@@ -5,7 +5,7 @@ tags:
   - Medicine
 publish: true
 created: 2026-02-18T08:49
-modified: 2026-02-25T14:01
+modified: 2026-03-04T14:28
 ---
 Ugo Felicia Edu traces her intellectual and personal journey in understanding the dynamics of race and aesthetics embedded in health in M_editations on race, health, and aesthetics_.1 Edu reflects on her time as a researcher, but more blatantly, as a Black woman in Brazil, and uses these lived experiences as a vantage point to narrate historical and current (mis)constructions of health.  The mapping of everything bad, unhealthy, or unwanted on Black (female) bodies has deep roots in Brazilian society and history. Historically, bodies have been measured, ranked, and moralized according to race and background using scientific racism and biotypology as epistemological legitimacy. These value judgements reverberate in contemporary crises such as the mortality crisis among Black women in the United States, who were, until very recently, routinely blamed for their own poor health outcomes. Through epistemicide, Black and Indigenous knowledge was, and still is, delegitimized and displaced by colonial and Eurocentric knowledge structures, further denying a seat at the table for Black bodies. She discusses her experiences as a Black woman receiving care from white physicians, talking about her research to these and other white actors, and illustrates how so-called best practices remain subject to an aesthetic value system, and how participation in [[knowledge production]] is legitimized or undermined by color. It begs the question: “Whose health depends on racism?”
 

@@ -3,7 +3,7 @@ tags:
   - Biostatistics
 publish: true
 created: 2025-10-19T17:43
-modified: 2025-10-19T17:48
+modified: 2026-03-04T14:28
 ---
 # Measures of central tendency
 - mean

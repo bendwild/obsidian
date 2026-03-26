@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-01-13T21:15
-modified: 2026-02-03T14:10
+modified: 2026-03-04T14:28
 title: "Generation of political priority for global health initiatives: a framework and case study for maternal mortality"
 ---
 # Reflections
