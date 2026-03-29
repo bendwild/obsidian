@@ -59,6 +59,8 @@ function sluggify(s: string): string {
     .split("/")
     .map((segment) =>
       segment
+        .trim()
+        .toLowerCase()
         .replace(/\s/g, "-")
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
@@ -77,7 +79,7 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
     ext = ""
   }
 
-  let slug = sluggify(withoutFileExt)
+  let slug = sluggify(withoutFileExt).toLowerCase()
 
   // treat _index as index
   if (endsWith(slug, "_index")) {
@@ -185,7 +187,7 @@ export function splitAnchor(link: string): [string, string] {
 export function slugTag(tag: string) {
   return tag
     .split("/")
-    .map((tagSegment) => sluggify(tagSegment))
+    .map((tagSegment) => sluggify(tagSegment).toLowerCase())
     .join("/")
 }
 
