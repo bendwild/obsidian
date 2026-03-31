@@ -3,7 +3,7 @@ tags:
   - Economics
 publish: true
 created: 2026-01-21T16:40
-modified: 2026-02-03T14:10
+modified: 2026-03-31T14:03
 ---
 > = a social science and study of health and health care from the economic perspective
 
@@ -26,14 +26,19 @@ modified: 2026-02-03T14:10
 2. No homogenous products
 3. No complete information
 4. Barriers to entry and exit
-5. **Externalities**! (second hand smoking is a negative externality f.e.)
+5. **Positive/negative externalities**! (second hand smoking is a negative externality f.e.)
 6. Free riders
 
-> [!ATTENTION] Uncertainty is central
+> [!ATTENTION] Uncertainty is central, risk is uncertain and unaviodable
 > - demand for healthcare?
 > - treatment effectiveness?
 > - time horizon?
 > - influence of genetics, biology, behavior?
+
+> [!IMPORTANT] Additional market failures
+> - the asset (your body or health) cannot be replaced if lost
+> - costs can be catastrophic and unlimited,  a single illness can exceed a lifetime of savings
+> - healthcare is seen as a **merit good** (goods that society judges should be consumed regardless of individual ability or willingness to pay)
 
 # Demand for healthcare
 
@@ -49,11 +54,11 @@ modified: 2026-02-03T14:10
 | Social influences     | - higher WTP if peers adopt<br>- social signalling beneficial                                                                                                                                                                                                                                                                                   | - bednets<br>- menstrual cups<br>- deworming<br>- chlorine                                                                                                                  |
 ## Policy interventions
 
-|                    | Demand                                                                                                                                                                         | Examples                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| User fees          | Demand for healthcare is income-elastic<br>- removal of user fees removes deterrent effect<br>- less discrepancies in usage rate between rich and poor                         |                                                       |
+|                    | Demand                                                                                                                                                                             | Examples                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| User fees          | Demand for healthcare is income-elastic<br>- removal of user fees removes deterrent effect<br>- less discrepancies in usage rate between rich and poor                             |                                                       |
 | Incentives         | Effective at increasing demand<br>- as a price subsidy<br>- increase extrinsic motivation<br>- compensate for present-[[bias]]<br>- counter/exploit loss-aversion<br>- as a signal | Lottery Incentives to incentivize safe sex in Lesotho |
-| Universal coverage |                                                                                                                                                                                |                                                       |
+| Universal coverage |                                                                                                                                                                                    |                                                       |
 
 > [!QUESTION] Why do people underinvest in preventative healthcare despite cost-effectiveness?
 > - behavioral [[bias]]?

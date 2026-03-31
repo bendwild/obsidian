@@ -4,7 +4,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-11-01T22:57
-modified: 2025-11-29T18:15
+modified: 2026-03-31T13:30
 ---
 # Why?
 - [[epidemiology]] often **shapes public policy**
@@ -64,7 +64,7 @@ Essential components of IC form:
 - possible risks
 - confidentiality
 ## HIPPA
-= health insurance portability and accountability act
+= [[health insurance]] portability and accountability act
 - limits release of protected health information (PHI) without authorization of patient
 	- name
 	- address
