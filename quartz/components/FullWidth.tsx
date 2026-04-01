@@ -1,7 +1,7 @@
-import { QuartzComponentConstructor } from "./types"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
-  function FullWidth() {
+  function FullWidth(_props: QuartzComponentProps) {
     return (
       <button
         id="full-width-toggle"
@@ -15,14 +15,14 @@ export default (() => {
   }
 
   FullWidth.afterDOMLoaded = `
+    const applyState = () => {
+      const enabled = localStorage.getItem("full-width") === "true"
+      document.body.classList.toggle("full-width", enabled)
+    }
+
     document.addEventListener("nav", () => {
       const btn = document.getElementById("full-width-toggle")
       if (!btn) return
-
-      const applyState = () => {
-        const enabled = localStorage.getItem("full-width") === "true"
-        document.body.classList.toggle("full-width", enabled)
-      }
 
       btn.onclick = () => {
         const enabled = !document.body.classList.contains("full-width")
@@ -35,4 +35,4 @@ export default (() => {
   `
 
   return FullWidth
-}) satisfies QuartzComponentConstructor
+}) as QuartzComponentConstructor
