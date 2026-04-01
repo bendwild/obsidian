@@ -354,3 +354,37 @@ body.dark #full-width-toggle {
   background: var(--lightgray);
   border-color: var(--gray);
 }
+
+/* Break Quartz's outer width constraint */
+body.full-width .page,
+body.full-width .page > div,
+body.full-width #quartz-root {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Force the grid container to truly span full width */
+body.full-width .page {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Expand the center column fully */
+body.full-width .center {
+  width: 100vw !important;
+  max-width: 100vw !important;
+  margin: 0 !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Remove article constraint completely (true full bleed) */
+body.full-width article {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Optional: remove grid background clipping feeling */
+body.full-width main {
+  width: 100%;
+}
