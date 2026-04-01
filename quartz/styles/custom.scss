@@ -285,118 +285,56 @@ embed[src*=".pdf"] {
 
 
 /* ================================
-   Full Width Mode
+   Full Width Mode (correct version)
    ================================ */
 
-/* Make the document itself fill the viewport */
-body.full-width {
-  display: block !important;
-  width: 100vw !important;
-  min-width: 100vw !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  overflow-x: hidden !important;
-  box-sizing: border-box !important;
-}
-
-/* Root Quartz wrapper must also fill the viewport */
-body.full-width > #quartz-root {
-  display: grid !important;
-  grid-template-columns: 0 minmax(0, 1fr) 0 !important;
-  width: 100vw !important;
-  min-width: 100vw !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  box-sizing: border-box !important;
-  justify-items: stretch !important;
-  align-items: start !important;
-}
-
-/* Hide sidebars completely */
-body.full-width > #quartz-root > .left,
-body.full-width > #quartz-root > .right {
+/* Hide sidebars */
+body.full-width .left,
+body.full-width .right {
   display: none !important;
-  width: 0 !important;
-  min-width: 0 !important;
-  max-width: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  overflow: hidden !important;
-  border: 0 !important;
 }
 
-/* Make the center column actually stretch */
-body.full-width > #quartz-root > .center {
-  grid-column: 2 / 3 !important;
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding-left: clamp(1rem, 2vw, 2rem) !important;
-  padding-right: clamp(1rem, 2vw, 2rem) !important;
-  box-sizing: border-box !important;
+/* Make layout single column */
+body.full-width .page {
+  grid-template-columns: 1fr !important;
 }
 
-/* Force the normal content wrappers to fill width */
-body.full-width > #quartz-root > .center article,
-body.full-width > #quartz-root > .center main,
-body.full-width > #quartz-root > .center .content,
-body.full-width > #quartz-root > .center .page-header,
-body.full-width > #quartz-root > .center .content-meta,
-body.full-width > #quartz-root > .center .breadcrumbs,
-body.full-width > #quartz-root > .center .popover-hint {
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  margin: 0 !important;
-  box-sizing: border-box !important;
-}
-
-/* Prevent odd shrink-to-fit behavior from inline-ish children */
-body.full-width p,
-body.full-width li,
-body.full-width blockquote,
-body.full-width pre,
-body.full-width table,
-body.full-width h1,
-body.full-width h2,
-body.full-width h3,
-body.full-width h4,
-body.full-width h5,
-body.full-width h6 {
+/* Expand center column */
+body.full-width .center {
   width: 100% !important;
   max-width: none !important;
-  min-width: 0 !important;
-  overflow-wrap: normal !important;
-  word-break: normal !important;
-  hyphens: none !important;
+  margin: 0 auto !important;
+  padding-left: clamp(1rem, 2vw, 2rem);
+  padding-right: clamp(1rem, 2vw, 2rem);
 }
 
-/* Toggle button stays visible */
+/* 🔥 THIS IS THE IMPORTANT PART */
+body.full-width .content {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Also fix article wrapper */
+body.full-width article {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* ================================
+   Toggle Button
+   ================================ */
+
 #full-width-toggle {
   position: fixed;
   top: 1rem;
   right: 1rem;
   z-index: 9999;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   width: 2.4rem;
   height: 2.4rem;
   border-radius: 999px;
   border: 1px solid var(--lightgray);
   background: var(--light);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
   cursor: pointer;
-  line-height: 1;
-}
-
-#full-width-toggle:hover {
-  filter: brightness(0.97);
 }
 
 body.dark #full-width-toggle {
