@@ -1,0 +1,29 @@
+import { QuartzComponent } from "./types"
+
+const FullWidth: QuartzComponent = () => {
+  return (
+    <button
+      id="full-width-toggle"
+      aria-label="Toggle full width"
+      title="Toggle full width"
+      onClick={() => {
+        document.body.classList.toggle("full-width")
+        localStorage.setItem(
+          "full-width",
+          document.body.classList.contains("full-width") ? "true" : "false"
+        )
+      }}
+    >
+      ⤢
+    </button>
+  )
+}
+
+FullWidth.afterDOMLoaded = `
+  const saved = localStorage.getItem("full-width")
+  if (saved === "true") {
+    document.body.classList.add("full-width")
+  }
+`
+
+export default FullWidth
