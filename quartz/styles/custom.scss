@@ -288,37 +288,35 @@ embed[src*=".pdf"] {
    Full Width Mode
    ================================ */
 
-/* Hard reset: remove all width caps in the wrapper stack */
-body.full-width #quartz-root,
-body.full-width .page,
-body.full-width .center,
-body.full-width main,
-body.full-width article,
-body.full-width .content,
-body.full-width .page-header,
-body.full-width .content-meta,
-body.full-width .breadcrumbs,
-body.full-width .popover-hint {
-  width: 100% !important;
+/* Make the document itself fill the viewport */
+body.full-width {
+  display: block !important;
+  width: 100vw !important;
+  min-width: 100vw !important;
   max-width: none !important;
-  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden !important;
   box-sizing: border-box !important;
 }
 
-/* Force the outer layout into a single content column */
-body.full-width .page {
+/* Root Quartz wrapper must also fill the viewport */
+body.full-width > #quartz-root {
   display: grid !important;
-  grid-template-columns: 0 1fr 0 !important;
-  gap: 0 !important;
+  grid-template-columns: 0 minmax(0, 1fr) 0 !important;
+  width: 100vw !important;
+  min-width: 100vw !important;
+  max-width: none !important;
   margin: 0 !important;
   padding: 0 !important;
+  box-sizing: border-box !important;
   justify-items: stretch !important;
   align-items: start !important;
 }
 
 /* Hide sidebars completely */
-body.full-width .left,
-body.full-width .right {
+body.full-width > #quartz-root > .left,
+body.full-width > #quartz-root > .right {
   display: none !important;
   width: 0 !important;
   min-width: 0 !important;
@@ -330,31 +328,35 @@ body.full-width .right {
 }
 
 /* Make the center column actually stretch */
-body.full-width .center {
-  grid-column: 2 !important;
+body.full-width > #quartz-root > .center {
+  grid-column: 2 / 3 !important;
   display: block !important;
-  justify-self: stretch !important;
-  align-self: start !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: none !important;
   margin: 0 !important;
   padding-left: clamp(1rem, 2vw, 2rem) !important;
   padding-right: clamp(1rem, 2vw, 2rem) !important;
-}
-
-/* Kill shrink-to-fit behavior on the common inner wrappers */
-body.full-width .center > *,
-body.full-width article > *,
-body.full-width .content > *,
-body.full-width .popover-hint > *,
-body.full-width .page-header > *,
-body.full-width .content-meta > * {
-  display: block !important;
-  width: 100% !important;
-  max-width: none !important;
-  min-width: 0 !important;
   box-sizing: border-box !important;
 }
 
-/* Ensure text blocks do not collapse into a narrow column */
+/* Force the normal content wrappers to fill width */
+body.full-width > #quartz-root > .center article,
+body.full-width > #quartz-root > .center main,
+body.full-width > #quartz-root > .center .content,
+body.full-width > #quartz-root > .center .page-header,
+body.full-width > #quartz-root > .center .content-meta,
+body.full-width > #quartz-root > .center .breadcrumbs,
+body.full-width > #quartz-root > .center .popover-hint {
+  display: block !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* Prevent odd shrink-to-fit behavior from inline-ish children */
 body.full-width p,
 body.full-width li,
 body.full-width blockquote,
@@ -374,16 +376,7 @@ body.full-width h6 {
   hyphens: none !important;
 }
 
-/* Remove any remaining centering or inline sizing */
-body.full-width article {
-  display: block !important;
-  margin: 0 !important;
-}
-
-/* ================================
-   Toggle Button
-   ================================ */
-
+/* Toggle button stays visible */
 #full-width-toggle {
   position: fixed;
   top: 1rem;
