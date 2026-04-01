@@ -283,23 +283,26 @@ embed[src*=".pdf"] {
 }
 /* --- End PDF Embed Full-Width Fix --- */
 
+
 /* ================================
    Full Width Mode
    ================================ */
 
-/* Remove ALL width constraints in the layout stack */
 body.full-width #quartz-root,
 body.full-width .page,
 body.full-width main,
 body.full-width .center,
-body.full-width article {
+body.full-width article,
+body.full-width .content,
+body.full-width .popover-hint,
+body.full-width .page-header,
+body.full-width .content-meta {
   width: 100% !important;
   max-width: none !important;
   min-width: 0 !important;
   box-sizing: border-box !important;
 }
 
-/* Collapse layout into a true single column */
 body.full-width .page {
   display: grid !important;
   grid-template-columns: 0 minmax(0, 1fr) 0 !important;
@@ -308,7 +311,6 @@ body.full-width .page {
   padding: 0 !important;
 }
 
-/* Hide sidebars completely */
 body.full-width .left,
 body.full-width .right {
   display: none !important;
@@ -320,26 +322,33 @@ body.full-width .right {
   border: 0 !important;
 }
 
-/* Let center content fully expand */
 body.full-width .center {
   grid-column: 2 / 3 !important;
-  width: 100% !important;
-  min-width: 0 !important;
+  display: block !important;
   margin: 0 !important;
   padding-left: clamp(1rem, 2vw, 2rem) !important;
   padding-right: clamp(1rem, 2vw, 2rem) !important;
 }
 
-/* Force inner wrappers to expand instead of shrink */
-body.full-width .center > * {
+body.full-width article > *,
+body.full-width .content > *,
+body.full-width .popover-hint > * {
   width: 100% !important;
   max-width: none !important;
   min-width: 0 !important;
 }
 
-/* Ensure article itself is not constrained */
-body.full-width article {
-  margin: 0 !important;
+body.full-width p,
+body.full-width li,
+body.full-width blockquote,
+body.full-width pre,
+body.full-width table,
+body.full-width .content-meta {
+  width: 100% !important;
+  max-width: none !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  white-space: normal !important;
 }
 
 /* ================================
