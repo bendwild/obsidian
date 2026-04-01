@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.ReaderMode() },
+        { Component: Component.FullWidth() },
       ],
     }),
     Component.Explorer(),
