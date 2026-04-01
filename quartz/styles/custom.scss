@@ -287,68 +287,67 @@ embed[src*=".pdf"] {
    Full Width Mode
    ================================ */
 
-/* Collapse the 3-column layout into 1 */
+/* Make the center column actually expand */
 body.full-width .page {
-  grid-template-columns: 1fr !important;
+  grid-template-columns: 0 minmax(0, 1fr) 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
-/* Hide sidebars */
+/* Collapse sidebars without breaking the grid */
 body.full-width .left,
 body.full-width .right {
-  display: none !important;
-}
-
-/* Let main container expand */
-body.full-width main {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Remove Quartz content constraints */
-body.full-width article,
-body.full-width .center {
-  max-width: none !important;
-  width: 100% !important;
-}
-
-/* Optional: keep readable width instead of infinite stretch */
-body.full-width article {
-  max-width: 1100px;
-  margin: 0 auto;
-}
-
-/* Prevent leftover spacing from sidebars */
-body.full-width .center {
+  width: 0 !important;
+  min-width: 0 !important;
+  padding: 0 !important;
   margin: 0 !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  overflow: hidden !important;
+  border: 0 !important;
 }
 
-/* Mobile safety (basically no-op but keeps consistency) */
-@media (max-width: 768px) {
-  body.full-width .center {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
+/* Let the main content span the available space */
+body.full-width .center {
+  grid-column: 2 / 3 !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
+  padding-left: clamp(1rem, 2vw, 2rem) !important;
+  padding-right: clamp(1rem, 2vw, 2rem) !important;
 }
 
-/* ================================
-   Button styling (minimal)
-   ================================ */
+/* Remove article width limits Quartz may apply */
+body.full-width main,
+body.full-width article {
+  width: 100% !important;
+  max-width: none !important;
+}
 
+/* Optional: keep prose readable instead of true full-bleed */
+body.full-width article {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+}
+
+/* Keep the toggle always visible */
 #full-width-toggle {
-  font-family: inherit;
-  font-size: 0.95rem;
-  padding: 0.35rem 0.6rem;
-  border-radius: 8px;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 999px;
   border: 1px solid var(--lightgray);
   background: var(--light);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
   cursor: pointer;
-  line-height: 1;
 }
 
 #full-width-toggle:hover {
-  background: var(--lightgray);
+  filter: brightness(0.97);
 }
 
 body.dark #full-width-toggle {
