@@ -288,71 +288,100 @@ embed[src*=".pdf"] {
    Full Width Mode
    ================================ */
 
+/* Hard reset: remove all width caps in the wrapper stack */
 body.full-width #quartz-root,
 body.full-width .page,
-body.full-width main,
 body.full-width .center,
+body.full-width main,
 body.full-width article,
 body.full-width .content,
-body.full-width .popover-hint,
 body.full-width .page-header,
-body.full-width .content-meta {
+body.full-width .content-meta,
+body.full-width .breadcrumbs,
+body.full-width .popover-hint {
   width: 100% !important;
   max-width: none !important;
   min-width: 0 !important;
   box-sizing: border-box !important;
 }
 
+/* Force the outer layout into a single content column */
 body.full-width .page {
   display: grid !important;
-  grid-template-columns: 0 minmax(0, 1fr) 0 !important;
+  grid-template-columns: 0 1fr 0 !important;
   gap: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
+  justify-items: stretch !important;
+  align-items: start !important;
 }
 
+/* Hide sidebars completely */
 body.full-width .left,
 body.full-width .right {
   display: none !important;
   width: 0 !important;
   min-width: 0 !important;
+  max-width: 0 !important;
   padding: 0 !important;
   margin: 0 !important;
   overflow: hidden !important;
   border: 0 !important;
 }
 
+/* Make the center column actually stretch */
 body.full-width .center {
-  grid-column: 2 / 3 !important;
+  grid-column: 2 !important;
   display: block !important;
+  justify-self: stretch !important;
+  align-self: start !important;
   margin: 0 !important;
   padding-left: clamp(1rem, 2vw, 2rem) !important;
   padding-right: clamp(1rem, 2vw, 2rem) !important;
 }
 
+/* Kill shrink-to-fit behavior on the common inner wrappers */
+body.full-width .center > *,
 body.full-width article > *,
 body.full-width .content > *,
-body.full-width .popover-hint > * {
+body.full-width .popover-hint > *,
+body.full-width .page-header > *,
+body.full-width .content-meta > * {
+  display: block !important;
   width: 100% !important;
   max-width: none !important;
   min-width: 0 !important;
+  box-sizing: border-box !important;
 }
 
+/* Ensure text blocks do not collapse into a narrow column */
 body.full-width p,
 body.full-width li,
 body.full-width blockquote,
 body.full-width pre,
 body.full-width table,
-body.full-width .content-meta {
+body.full-width h1,
+body.full-width h2,
+body.full-width h3,
+body.full-width h4,
+body.full-width h5,
+body.full-width h6 {
   width: 100% !important;
   max-width: none !important;
+  min-width: 0 !important;
   overflow-wrap: normal !important;
   word-break: normal !important;
-  white-space: normal !important;
+  hyphens: none !important;
+}
+
+/* Remove any remaining centering or inline sizing */
+body.full-width article {
+  display: block !important;
+  margin: 0 !important;
 }
 
 /* ================================
-   Toggle Button (always visible)
+   Toggle Button
    ================================ */
 
 #full-width-toggle {
