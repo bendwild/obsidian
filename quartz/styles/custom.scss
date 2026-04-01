@@ -295,6 +295,8 @@ body.full-width .center,
 body.full-width article {
   width: 100% !important;
   max-width: none !important;
+  min-width: 0 !important;
+  box-sizing: border-box !important;
 }
 
 /* Collapse layout into a true single column */
@@ -321,9 +323,18 @@ body.full-width .right {
 /* Let center content fully expand */
 body.full-width .center {
   grid-column: 2 / 3 !important;
+  width: 100% !important;
+  min-width: 0 !important;
   margin: 0 !important;
   padding-left: clamp(1rem, 2vw, 2rem) !important;
   padding-right: clamp(1rem, 2vw, 2rem) !important;
+}
+
+/* Force inner wrappers to expand instead of shrink */
+body.full-width .center > * {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
 }
 
 /* Ensure article itself is not constrained */
