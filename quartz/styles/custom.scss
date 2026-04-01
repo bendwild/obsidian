@@ -282,3 +282,48 @@ embed[src*=".pdf"] {
     }
 }
 /* --- End PDF Embed Full-Width Fix --- */
+
+/* --- Full Width Mode --- */
+
+/* Expand main content */
+body.full-width main {
+  max-width: 100% !important;
+}
+
+/* Hide sidebars */
+body.full-width .left,
+body.full-width .right {
+  display: none !important;
+}
+
+/* Let center column take full space */
+body.full-width .page {
+  grid-template-columns: 1fr !important;
+}
+
+/* Remove artificial constraints */
+body.full-width article {
+  max-width: 100% !important;
+}
+
+/* Optional: increase readable width instead of infinite */
+body.full-width article {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Button styling */
+#full-width-toggle {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  cursor: pointer;
+}
+
+body.dark #full-width-toggle {
+  background: var(--lightgray);
+  border-color: var(--gray);
+}
