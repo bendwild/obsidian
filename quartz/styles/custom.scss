@@ -1,10 +1,10 @@
 @use "./base.scss";
 
 /* --------------------------------------------------------------------------
-   ✏️ Benji’s Handwritten Notebook Theme — Pastel Green Edition 🌿
+   Benji’s Handwritten Notebook Theme — Pastel Green Edition
    -------------------------------------------------------------------------- */
 
-/* Load Kalam + Permanent Marker via @font-face (build-safe) */
+/* Fonts */
 @font-face {
   font-family: "Kalam";
   src: url("https://fonts.gstatic.com/s/kalam/v17/YA9dr0Wd4kDdMtD6WnZB.woff2") format("woff2");
@@ -25,10 +25,11 @@
 }
 
 /* --------------------------------------------------------------------------
-   BASE PAPER + TYPOGRAPHY
+   Base
    -------------------------------------------------------------------------- */
 
-html, body {
+html,
+body {
   min-height: 100%;
   margin: 0;
   color: #2b2b2b;
@@ -36,8 +37,6 @@ html, body {
   font-family: "Kalam", cursive;
   line-height: 1.7;
   font-size: 1.05rem;
-
-  /* Grid paper */
   background-image:
     linear-gradient(to right, rgba(102, 153, 102, 0.08) 1px, transparent 1px),
     linear-gradient(to bottom, rgba(102, 153, 102, 0.08) 1px, transparent 1px);
@@ -53,7 +52,17 @@ body.dark {
   color: #e8fbe4;
 }
 
-/* Notebook margin line */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(800px 400px at 10% 20%, rgba(137, 199, 127, 0.15), transparent 70%),
+    radial-gradient(600px 300px at 90% 80%, rgba(179, 226, 182, 0.12), transparent 70%);
+  z-index: -1;
+}
+
 body::after {
   content: "";
   position: fixed;
@@ -67,10 +76,14 @@ body::after {
 }
 
 /* --------------------------------------------------------------------------
-   HEADINGS
+   Headings
    -------------------------------------------------------------------------- */
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-family: "Permanent Marker", cursive;
   color: #274d32;
   letter-spacing: 0.5px;
@@ -78,7 +91,10 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 0.4em;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
-body.dark h1, body.dark h2, body.dark h3 {
+
+body.dark h1,
+body.dark h2,
+body.dark h3 {
   color: #b8e8b2;
 }
 
@@ -96,32 +112,43 @@ h1::after {
 }
 
 /* --------------------------------------------------------------------------
-   LINKS + INTERACTIVITY
+   Links
    -------------------------------------------------------------------------- */
 
 a {
   color: #3b7a4a;
   text-decoration: underline wavy 1.5px #3b7a4a;
-  transition: color 0.25s ease, text-decoration-color 0.25s ease, transform 0.2s ease;
+  text-underline-offset: 0.12em;
+  transition: color 0.18s ease, text-decoration-color 0.18s ease, transform 0.18s ease;
 }
+
 a:hover {
   color: #89c77f;
   text-decoration-color: #89c77f;
-  transform: rotate(-1deg) scale(1.02);
-  filter: drop-shadow(0 0 4px rgba(137,199,127,0.3)); /* ink smudge hover */
-}
-
-/* Page fade animation */
-main {
-  animation: pageFade 0.6s ease;
-}
-@keyframes pageFade {
-  from { transform: rotateY(3deg); opacity: 0; }
-  to { transform: rotateY(0); opacity: 1; }
+  transform: translateY(-1px);
 }
 
 /* --------------------------------------------------------------------------
-   NOTEBOOK CARDS
+   Page motion
+   -------------------------------------------------------------------------- */
+
+main {
+  animation: pageFade 0.35s ease;
+}
+
+@keyframes pageFade {
+  from {
+    transform: translateY(6px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Cards / notes / tags
    -------------------------------------------------------------------------- */
 
 .card {
@@ -130,16 +157,13 @@ main {
   border-radius: 14px;
   box-shadow: 4px 4px 0 #9dd69d;
   padding: 1.2rem;
-  transition: all 0.25s ease;
-}
-.card:hover {
-  transform: translate(-3px, -3px);
-  box-shadow: 6px 6px 0 #7acb7a;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* --------------------------------------------------------------------------
-   TAGS + NOTES
-   -------------------------------------------------------------------------- */
+.card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 #7acb7a;
+}
 
 .tag {
   display: inline-block;
@@ -151,12 +175,12 @@ main {
   margin-right: 0.3rem;
   font-family: "Kalam", cursive;
 }
+
 body.dark .tag {
   background: #324734;
   color: #b8e8b2;
 }
 
-/* Sticky Note blocks */
 .note {
   background: #fffde1;
   border: 1.5px solid #d4c964;
@@ -168,9 +192,11 @@ body.dark .tag {
   max-width: 80%;
   transition: transform 0.2s ease;
 }
+
 .note:hover {
-  transform: rotate(0deg) scale(1.02);
+  transform: rotate(0deg) scale(1.01);
 }
+
 .note::before {
   content: "📎 ";
   font-size: 1.2rem;
@@ -178,7 +204,7 @@ body.dark .tag {
 }
 
 /* --------------------------------------------------------------------------
-   NAVBAR + FOOTER
+   Navbar / footer
    -------------------------------------------------------------------------- */
 
 .navbar {
@@ -194,25 +220,27 @@ body.dark .tag {
   z-index: 10;
   backdrop-filter: blur(8px);
 }
+
 body.dark .navbar {
   background-color: rgba(27, 29, 27, 0.9);
   border-bottom: 3px dashed rgba(137, 199, 127, 0.5);
 }
+
 .navbar a {
   font-family: "Kalam", cursive;
   color: #3b7a4a;
   font-weight: 600;
   text-decoration: none;
   margin: 0 1rem;
-  transition: all 0.2s ease;
-}
-.navbar a:hover {
-  color: #89c77f;
-  text-decoration: underline wavy 1.5px #89c77f;
-  transform: rotate(-1deg);
+  transition: color 0.2s ease, transform 0.2s ease;
 }
 
-/* Footer */
+.navbar a:hover {
+  color: #89c77f;
+  transform: translateY(-1px);
+  text-decoration: underline wavy 1.5px #89c77f;
+}
+
 .footer {
   text-align: center;
   padding: 1.5rem;
@@ -223,8 +251,15 @@ body.dark .navbar {
   font-family: "Kalam", cursive;
   margin-top: 3rem;
 }
-.footer::before { content: "✏️ "; }
-.footer::after { content: " 🌿"; }
+
+.footer::before {
+  content: "✏️ ";
+}
+
+.footer::after {
+  content: " 🌿";
+}
+
 body.dark .footer {
   background-color: rgba(27, 29, 27, 0.85);
   border-top: 3px dashed rgba(137, 199, 127, 0.5);
@@ -232,74 +267,124 @@ body.dark .footer {
 }
 
 /* --------------------------------------------------------------------------
-   DECORATIVE ELEMENTS
+   Misc
    -------------------------------------------------------------------------- */
 
-/* Hand-drawn divider */
 hr {
   border: 0;
   border-top: 2px dashed rgba(59, 122, 74, 0.4);
   margin: 2rem 0;
 }
 
-/* Paper glow */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  background:
-    radial-gradient(800px 400px at 10% 20%, rgba(137, 199, 127, 0.15), transparent 70%),
-    radial-gradient(600px 300px at 90% 80%, rgba(179, 226, 182, 0.12), transparent 70%);
-  z-index: -1;
-}
-
-/* Fun pencil cursor */
-body {
-  cursor: url("/static/pencil-cursor.png"), auto;
-}
-
-/* --- PDF Embed Full-Width Fix --- */
 iframe[src*=".pdf"],
 embed[src*=".pdf"] {
-    width: 100% !important;
-    height: 90vh !important;
-    max-width: 100% !important;
-    border: none;
-    display: block;
-    margin: 1rem 0;
+  width: 100% !important;
+  height: 90vh !important;
+  max-width: 100% !important;
+  border: none;
+  display: block;
+  margin: 1rem 0;
 }
 
 .quartz-embed,
 .quartz-embed iframe,
 .quartz-embed embed {
-    width: 100% !important;
+  width: 100% !important;
 }
 
 @media (max-width: 768px) {
-    iframe[src*=".pdf"], embed[src*=".pdf"] {
-        height: 70vh;
-    }
-}
-/* --- End PDF Embed Full-Width Fix --- */
-
-/* ================================
-   Fix Quartz content width (REAL FIX)
-   ================================ */
-
-body.full-width .center {
-  display: block !important;
+  iframe[src*=".pdf"],
+  embed[src*=".pdf"] {
+    height: 70vh;
+  }
 }
 
-body.full-width article {
-  display: block !important;
-  width: 100% !important;
-  max-width: none !important;
+/* --------------------------------------------------------------------------
+   Full width mode
+   -------------------------------------------------------------------------- */
+
+@media (min-width: 1200px) {
+  body.full-width .page,
+  body.full-width #quartz-root {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  body.full-width .sidebar.left,
+  body.full-width .sidebar.right,
+  body.full-width .left,
+  body.full-width .right {
+    display: none !important;
+    width: 0 !important;
+    min-width: 0 !important;
+    max-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden !important;
+    border: 0 !important;
+  }
+
+  body.full-width .center {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding-inline: clamp(1rem, 2vw, 2rem) !important;
+    box-sizing: border-box !important;
+  }
+
+  body.full-width .center article,
+  body.full-width .center .content,
+  body.full-width .center article > div {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+    display: block !important;
+  }
 }
 
-/* 🔥 THIS is the critical line */
-body.full-width article > div {
-  display: block !important;
-  width: 100% !important;
-  max-width: none !important;
+#full-width-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  line-height: 1;
+}
+
+#full-width-toggle:hover {
+  filter: brightness(0.97);
+}
+
+body.dark #full-width-toggle {
+  background: var(--lightgray);
+  border-color: var(--gray);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+
+  a:hover,
+  .card:hover,
+  .note:hover,
+  .navbar a:hover {
+    transform: none !important;
+  }
 }
