@@ -51,5 +51,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  FullWidth
+  FullWidth,
+  NoteHeatmap
 }
