@@ -390,3 +390,44 @@ body.dark #full-width-toggle {
   border: 2px dashed rgba(137, 199, 127, 0.6);
   box-shadow: 3px 3px 0 #4f7a52;
 }
+
+/* --------------------------------------------------------------------------
+   Note heatmap
+   -------------------------------------------------------------------------- */
+
+.note-heatmap {
+  margin: 2rem 0;
+  padding: 1rem 1.1rem;
+}
+
+.note-heatmap__header h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.note-heatmap__header p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  opacity: 0.75;
+  font-size: 0.95rem;
+}
+
+.note-heatmap__root {
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+}
+
+.note-heatmap-svg {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.note-heatmap__legend {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
