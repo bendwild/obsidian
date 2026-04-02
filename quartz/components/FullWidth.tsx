@@ -15,12 +15,12 @@ export default (() => {
   }
 
   FullWidth.afterDOMLoaded = `
-    const applyState = () => {
+    const setState = () => {
       const enabled = localStorage.getItem("full-width") === "true"
       document.body.classList.toggle("full-width", enabled)
     }
 
-    document.addEventListener("nav", () => {
+    const bindButton = () => {
       const btn = document.getElementById("full-width-toggle")
       if (!btn) return
 
@@ -29,9 +29,10 @@ export default (() => {
         document.body.classList.toggle("full-width", enabled)
         localStorage.setItem("full-width", String(enabled))
       }
+    }
 
-      applyState()
-    })
+    setState()
+    bindButton()
   `
 
   return FullWidth
