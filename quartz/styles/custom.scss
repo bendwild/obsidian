@@ -337,3 +337,56 @@ embed[src*=".pdf"] {
     padding-inline: clamp(1rem, 2vw, 2rem) !important;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Full width toggle (themed)
+   -------------------------------------------------------------------------- */
+
+#full-width-toggle {
+  position: fixed;
+  top: 1.2rem;
+  right: 1.2rem;
+  z-index: 9999;
+
+  width: 2.6rem;
+  height: 2.6rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.2rem;
+  line-height: 1;
+
+  color: #274d32;
+
+  background: #fdfef9;
+  border: 2px dashed rgba(59, 122, 74, 0.5);
+  border-radius: 10px;
+
+  box-shadow: 3px 3px 0 #9dd69d;
+
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+/* hover = “picked up paper” */
+#full-width-toggle:hover {
+  transform: translate(-2px, -2px) rotate(-1deg);
+  box-shadow: 5px 5px 0 #7acb7a;
+}
+
+/* active = pressed */
+#full-width-toggle:active {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0 #7acb7a;
+}
+
+/* dark mode */
+body.dark #full-width-toggle {
+  background: #232822;
+  color: #b8e8b2;
+  border: 2px dashed rgba(137, 199, 127, 0.6);
+  box-shadow: 3px 3px 0 #4f7a52;
+}
