@@ -283,59 +283,23 @@ embed[src*=".pdf"] {
 }
 /* --- End PDF Embed Full-Width Fix --- */
 
-/* Desktop only: Quartz's desktop breakpoint is above 1200px */
-@media (min-width: 1200px) {
-  body.full-width #quartz-root.page {
-    display: grid !important;
-    grid-template-columns: 0 minmax(0, 1fr) 0 !important;
-    width: 100% !important;
-    max-width: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    align-items: start !important;
-    justify-items: stretch !important;
-    box-sizing: border-box !important;
-  }
+/* ================================
+   Fix Quartz content width (REAL FIX)
+   ================================ */
 
-  body.full-width #quartz-root.page > .left,
-  body.full-width #quartz-root.page > .right {
-    display: none !important;
-    width: 0 !important;
-    min-width: 0 !important;
-    max-width: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    overflow: hidden !important;
-    border: 0 !important;
-  }
-
-  body.full-width #quartz-root.page > .center {
-    grid-column: 2 !important;
-    display: block !important;
-    width: 100% !important;
-    min-width: 0 !important;
-    max-width: none !important;
-    margin: 0 !important;
-    padding-inline: clamp(1rem, 2vw, 2rem) !important;
-    box-sizing: border-box !important;
-  }
-
-  body.full-width #quartz-root.page > .center article,
-  body.full-width #quartz-root.page > .center main,
-  body.full-width #quartz-root.page > .center .content,
-  body.full-width #quartz-root.page > .center .page-header,
-  body.full-width #quartz-root.page > .center .content-meta {
-    display: block !important;
-    width: 100% !important;
-    min-width: 0 !important;
-    max-width: none !important;
-    box-sizing: border-box !important;
-  }
+body.full-width .center {
+  display: block !important;
 }
 
-/* Below desktop width: don't let the toggle force the broken mode */
-@media (max-width: 1199px) {
-  body.full-width #full-width-toggle {
-    opacity: 0.45;
-  }
+body.full-width article {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* 🔥 THIS is the critical line */
+body.full-width article > div {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
 }
