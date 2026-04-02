@@ -283,123 +283,59 @@ embed[src*=".pdf"] {
 }
 /* --- End PDF Embed Full-Width Fix --- */
 
+/* Desktop only: Quartz's desktop breakpoint is above 1200px */
+@media (min-width: 1200px) {
+  body.full-width #quartz-root.page {
+    display: grid !important;
+    grid-template-columns: 0 minmax(0, 1fr) 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    align-items: start !important;
+    justify-items: stretch !important;
+    box-sizing: border-box !important;
+  }
 
-/* ================================
-   Full Width Mode
-   ================================ */
+  body.full-width #quartz-root.page > .left,
+  body.full-width #quartz-root.page > .right {
+    display: none !important;
+    width: 0 !important;
+    min-width: 0 !important;
+    max-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden !important;
+    border: 0 !important;
+  }
 
-body.full-width,
-body.full-width html {
-  width: 100vw !important;
-  min-width: 100vw !important;
-  max-width: none !important;
-  margin: 0 !important;
-  overflow-x: hidden !important;
+  body.full-width #quartz-root.page > .center {
+    grid-column: 2 !important;
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding-inline: clamp(1rem, 2vw, 2rem) !important;
+    box-sizing: border-box !important;
+  }
+
+  body.full-width #quartz-root.page > .center article,
+  body.full-width #quartz-root.page > .center main,
+  body.full-width #quartz-root.page > .center .content,
+  body.full-width #quartz-root.page > .center .page-header,
+  body.full-width #quartz-root.page > .center .content-meta {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    box-sizing: border-box !important;
+  }
 }
 
-body.full-width #quartz-root.page {
-  display: grid !important;
-  grid-template-columns: 0 minmax(0, 1fr) 0 !important;
-  width: 100vw !important;
-  min-width: 100vw !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  align-items: start !important;
-  justify-items: stretch !important;
-  box-sizing: border-box !important;
-}
-
-body.full-width #quartz-root.page > .left,
-body.full-width #quartz-root.page > .right {
-  display: none !important;
-  width: 0 !important;
-  min-width: 0 !important;
-  max-width: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  overflow: hidden !important;
-  border: 0 !important;
-}
-
-body.full-width #quartz-root.page > .center {
-  grid-column: 2 !important;
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding-inline: clamp(1rem, 2vw, 2rem) !important;
-  box-sizing: border-box !important;
-}
-
-body.full-width #quartz-root.page > .center > * {
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  box-sizing: border-box !important;
-}
-
-/* This is the key flattening step */
-body.full-width #quartz-root.page .page-header,
-body.full-width #quartz-root.page .content-meta,
-body.full-width #quartz-root.page article,
-body.full-width #quartz-root.page main,
-body.full-width #quartz-root.page .content,
-body.full-width #quartz-root.page .popover-hint {
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  box-sizing: border-box !important;
-}
-
-body.full-width #quartz-root.page .content {
-  display: contents !important;
-}
-
-body.full-width #quartz-root.page p,
-body.full-width #quartz-root.page li,
-body.full-width #quartz-root.page blockquote,
-body.full-width #quartz-root.page pre,
-body.full-width #quartz-root.page table,
-body.full-width #quartz-root.page h1,
-body.full-width #quartz-root.page h2,
-body.full-width #quartz-root.page h3,
-body.full-width #quartz-root.page h4,
-body.full-width #quartz-root.page h5,
-body.full-width #quartz-root.page h6 {
-  width: 100% !important;
-  max-width: none !important;
-  min-width: 0 !important;
-  overflow-wrap: normal !important;
-  word-break: normal !important;
-  hyphens: none !important;
-}
-
-#full-width-toggle {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  z-index: 9999;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2.4rem;
-  height: 2.4rem;
-  border-radius: 999px;
-  border: 1px solid var(--lightgray);
-  background: var(--light);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
-  cursor: pointer;
-  line-height: 1;
-}
-
-#full-width-toggle:hover {
-  filter: brightness(0.97);
-}
-
-body.dark #full-width-toggle {
-  background: var(--lightgray);
-  border-color: var(--gray);
+/* Below desktop width: don't let the toggle force the broken mode */
+@media (max-width: 1199px) {
+  body.full-width #full-width-toggle {
+    opacity: 0.45;
+  }
 }
