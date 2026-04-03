@@ -52,7 +52,7 @@ async function main() {
   await fs.mkdir(path.dirname(OUT_FILE), { recursive: true })
   await fs.writeFile(OUT_FILE, JSON.stringify(payload, null, 2), "utf8")
 
-  console.log(`Wrote ${OUT_FILE} with ${Object.keys(counts).length} active days`)
+  console.log(`Wrote ${OUT_FILE}`)
 }
 
 main().catch((err) => {
