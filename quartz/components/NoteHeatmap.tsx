@@ -22,7 +22,8 @@ export default (() => {
     const root = document.getElementById("note-heatmap-root")
     if (!root) return
 
-    fetch("/obsidian/note-heatmap.json")
+    const heatmapUrl = new URL("note-heatmap.json", document.baseURI).toString()
+    fetch(heatmapUrl)
       .then((res) => res.json())
       .then((payload) => {
         const counts = payload.counts || payload
