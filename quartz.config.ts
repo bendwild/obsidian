@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-L1SFXPVE4S",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "bendwild.github.io/obsidian",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
