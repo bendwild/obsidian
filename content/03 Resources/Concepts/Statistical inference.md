@@ -4,7 +4,7 @@ tags:
   - Concepts
 publish: true
 created: 2026-01-14T17:36
-modified: 2026-01-14T17:37
+modified: 2026-04-03T18:10
 ---
 Statistical inference means using information about part of a population (a [sample](http://en.wikipedia.org/wiki/Sampling_%28statistics%29)) to think about what is likely to be true for the whole population.
 

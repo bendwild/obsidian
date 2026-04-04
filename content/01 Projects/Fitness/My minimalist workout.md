@@ -3,7 +3,7 @@ tags:
   - Fitness
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-02T13:31
+modified: 2026-04-03T18:12
 ---
 # D1 - PUSH
 ## CHEST

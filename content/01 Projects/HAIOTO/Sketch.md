@@ -2,7 +2,7 @@
 tags:
 publish:
 created: 2025-11-26T21:39
-modified: 2025-11-26T23:16
+modified: 2026-04-03T18:12
 ---
 Nearly 10% of the WHO European region is comprised of international migrants, ranging upwards of 50% in some countries @MigrationHealthResearch
 

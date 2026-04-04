@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-12T23:27
-modified: 2025-10-11T21:54
+modified: 2026-04-03T18:10
 ---
 The _sunk cost fallacy_ is our tendency to follow through with something that we’ve already invested heavily in (be it time, money, effort, or emotional energy), even when giving up is clearly a better idea. [^1]  It is a flawed process of thinking. This happens because of the human aversion to waste and the need to justify our decisions. [^2]
 

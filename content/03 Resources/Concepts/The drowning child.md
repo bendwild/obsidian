@@ -4,7 +4,7 @@ tags:
   - Filosofie
 publish: true
 created: 2025-04-14T12:27
-modified: 2026-02-03T14:31
+modified: 2026-04-03T18:10
 ---
 On your way to work, you pass a small pond. Children sometimes play in the pond, which is only about knee-deep. The weather’s cool, though, and it’s early, so you are surprised to see a child splashing about in the pond.
 
