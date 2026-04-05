@@ -10,6 +10,7 @@ export default (() => {
         </div>
 
         <div id="note-heatmap-root" className="note-heatmap__root" />
+
         <div className="note-heatmap__legend">
           <span>Low</span>
           <span>High</span>
@@ -23,16 +24,15 @@ export default (() => {
     if (!root) return
 
     const heatmapUrl = "/obsidian/static/note-heatmap.json"
-    console.log("Heatmap URL:", heatmapUrl)
 
     fetch(heatmapUrl)
       .then((res) => {
-        console.log("Heatmap status:", res.status)
         if (!res.ok) throw new Error("Heatmap JSON not found")
         return res.json()
       })
       .then((payload) => {
         const counts = payload.counts || payload
+
         const today = new Date()
         today.setHours(0, 0, 0, 0)
 
@@ -46,8 +46,11 @@ export default (() => {
         const max = Math.max(...Object.values(counts), 1)
         const cell = 11
         const gap = 3
-        const width = 53 * (cell + gap) - gap
-        const height = 7 * (cell + gap) - gap
+        const weekCount = Math.ceil(days.length / 7)
+        const leftPad = 28
+        const topPad = 18
+        const width = leftPad + weekCount * (cell + gap) - gap
+        const height = topPad + 7 * (cell + gap) - gap + 18
 
         const levelForCount = (count) => {
           if (count <= 0 || max === 0) return 0
@@ -67,7 +70,42 @@ export default (() => {
           return ["#edf5ea", "#d4ead0", "#afd7a8", "#7fbe7d", "#4a9348"][level]
         }
 
+        const monthLabels = []
+        let lastMonth = null
+
+        days.forEach((d, index) => {
+          const month = d.getMonth()
+          const isMonthStart = d.getDate() <= 7
+          if (month !== lastMonth && isMonthStart) {
+            monthLabels.push({
+              label: d.toLocaleString(undefined, { month: "short" }),
+              weekIndex: Math.floor(index / 7),
+            })
+            lastMonth = month
+          }
+        })
+
+        const weekdayLabels = [
+          { label: "Mon", row: 1 },
+          { label: "Wed", row: 3 },
+          { label: "Fri", row: 5 },
+        ]
+
         let svg = \`<svg class="note-heatmap-svg" viewBox="0 0 \${width} \${height}" role="img" aria-label="Notes heatmap">\`
+
+        monthLabels.forEach((m) => {
+          const x = leftPad + m.weekIndex * (cell + gap)
+          svg += \`
+            <text class="note-heatmap-month" x="\${x}" y="11">\${m.label}</text>
+          \`
+        })
+
+        weekdayLabels.forEach((w) => {
+          const y = topPad + w.row * (cell + gap) + 9
+          svg += \`
+            <text class="note-heatmap-weekday" x="0" y="\${y}">\${w.label}</text>
+          \`
+        })
 
         days.forEach((d, index) => {
           const dayKey = d.toISOString().slice(0, 10)
@@ -75,22 +113,25 @@ export default (() => {
           const level = levelForCount(count)
           const dayIndex = d.getDay()
           const weekIndex = Math.floor(index / 7)
-          const x = weekIndex * (cell + gap)
-          const y = dayIndex * (cell + gap)
+          const x = leftPad + weekIndex * (cell + gap)
+          const y = topPad + dayIndex * (cell + gap)
 
           svg += \`
-            <rect
-              x="\${x}"
-              y="\${y}"
-              width="\${cell}"
-              height="\${cell}"
-              rx="2"
-              ry="2"
-              fill="\${colorForLevel(level)}"
-              class="note-heatmap-cell"
-              data-date="\${dayKey}"
-              data-count="\${count}"
-            />
+            <g>
+              <rect
+                x="\${x}"
+                y="\${y}"
+                width="\${cell}"
+                height="\${cell}"
+                rx="2"
+                ry="2"
+                fill="\${colorForLevel(level)}"
+                class="note-heatmap-cell"
+                data-date="\${dayKey}"
+                data-count="\${count}"
+              />
+              <title>\${count} note\${count === 1 ? "" : "s"}</title>
+            </g>
           \`
         })
 
