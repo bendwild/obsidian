@@ -4,7 +4,7 @@ tags:
   - Filosofie
 publish: true
 created: 2025-04-13T13:50
-modified: 2026-04-03T18:10
+modified: 2026-04-04T22:33
 ---
  Occam’s razor is a principle often attributed to 14th–century friar William of Ockham that says that if you have two competing ideas to explain the same phenomenon, you should prefer the simpler one.
 

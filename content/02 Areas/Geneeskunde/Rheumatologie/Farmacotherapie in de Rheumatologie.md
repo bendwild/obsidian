@@ -6,7 +6,7 @@ tags:
   - Farmacologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-11T23:30
+modified: 2026-04-04T22:33
 ---
 
 |                      | [[NSAID]]                                                                                       | Methotrexaat                                                                                                                                            | DMARD                                                                           | Anti-TNF                                                                                                    | Glucocorticoïden                                                                                                                      |

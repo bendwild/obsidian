@@ -10,8 +10,10 @@ rating:
   - ⭐⭐⭐⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-03-28T16:05
+modified: 2026-04-04T23:10
+banner: Pasted image 20260404224615.png
 ---
+![[Pasted image 20260404224615.png]]
 # Brief summary
 
 In this short but powerful memoir, Pacifique Irankunda recounts his experiences growing up during the 13-year civil war in Burundi. Through the eyes of his childhood self, he narrates the violence, fear, and trauma caused by the ethnic conflict between the Hutus and Tutsis. Every chapter is a different part of his survival story.  How he and his brother spent nights hiding in the forest for survival, how his village was destroyed by the war, how his classmates were killed by militia men, and ultimately, how his home country, the country of milk and honey, will never be the same again. Despite this, he conveys the message that healing is possible, in his case, through writing, and that hope is necessary for Burundi and Burundians to move beyond just survival.

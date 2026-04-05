@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-10-21T11:26
-modified: 2025-11-03T00:13
+modified: 2026-04-04T22:33
 ---
 
 > [!INFO] What is a confounder?

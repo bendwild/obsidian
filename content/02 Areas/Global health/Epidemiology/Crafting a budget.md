@@ -4,7 +4,7 @@ tags:
   - Finance
 publish: true
 created: 2025-11-01T22:56
-modified: 2025-11-29T17:27
+modified: 2026-04-04T22:33
 ---
 = detailed document that outlines **estimated project costs that will support a project**
 

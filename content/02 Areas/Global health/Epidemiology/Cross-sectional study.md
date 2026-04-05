@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-10-05T14:50
-modified: 2025-10-21T11:36
+modified: 2026-04-04T22:33
 ---
 > [!ATTENTION] Key features
 > - assessing exposure and disease at the **same single point in time**

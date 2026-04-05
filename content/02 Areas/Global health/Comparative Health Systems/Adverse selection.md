@@ -4,7 +4,7 @@ tags:
   - global-health
 publish: true
 created: 2026-03-31T13:57
-modified: 2026-03-31T14:06
+modified: 2026-04-04T22:33
 ---
 > = when individuals with higher expected health costs are more likely to enrol in insurance than healthier individuals.
 

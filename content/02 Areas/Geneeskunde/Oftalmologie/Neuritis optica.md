@@ -5,7 +5,7 @@ tags:
   - Neurologie
 publish: true
 created: 2025-04-10T16:31
-modified: 2025-06-12T22:56
+modified: 2026-04-04T22:33
 ---
 = inflammatie n. II
 

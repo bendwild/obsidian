@@ -4,7 +4,7 @@ tags:
   - Ethics
 publish: true
 created: 2025-10-21T21:45
-modified: 2025-10-21T21:57
+modified: 2026-04-04T22:33
 ---
 > [!INFO] Definition of Global Health Ethics
 > = field of applied ethics, inquiry and practice including the following elements

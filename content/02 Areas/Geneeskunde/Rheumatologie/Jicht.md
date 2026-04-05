@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T13:26
-modified: 2025-05-14T10:20
+modified: 2026-04-04T22:33
 ---
 = vorm van kristalarthropathie ten gevolge van neerslag van kristallen met secundair inflammatoire en degeneratieve verschijnselen
 = meest frequente vorm van kristalarthritis

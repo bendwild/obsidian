@@ -3,7 +3,7 @@ tags:
   - Ethics
 publish: true
 created: 2025-10-21T22:05
-modified: 2025-10-21T22:47
+modified: 2026-04-04T22:33
 ---
 
 |          | Bioethics                                                     | Human rights                                                                 | Uitilitarianism                                                                                                    | Virtue                                                                             |

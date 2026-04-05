@@ -3,10 +3,11 @@ tags:
   - Oftalmologie
 publish: true
 created: 2026-04-04T21:47
-modified: 2026-04-04T21:53
+modified: 2026-04-04T22:44
 ---
 > = disease of the optic nerve
 
+![[Glaucoom.png]] 
 # Symptoms
 Causes defects in **peripheral vision**
 

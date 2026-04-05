@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-11-03T11:50
-modified: 2025-11-03T23:03
+modified: 2026-04-04T22:33
 ---
 # Data collection methods
 

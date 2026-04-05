@@ -4,7 +4,7 @@ tags:
   - Pneumologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-04-04T22:33
 ---
 # Pathologie
 = chronische inflammatie (=/= infectie) van de lagere luchtwegen

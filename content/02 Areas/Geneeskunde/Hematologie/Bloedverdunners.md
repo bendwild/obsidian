@@ -5,7 +5,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-04-21T13:57
-modified: 2025-06-12T23:11
+modified: 2026-04-04T22:33
 ---
 = middelen om risico op bloedklonters te verminderen
 

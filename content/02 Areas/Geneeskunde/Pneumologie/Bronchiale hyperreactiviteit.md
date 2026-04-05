@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-11T13:44
-modified: 2025-06-12T22:56
+modified: 2026-04-04T22:33
 ---
  = de eigenschap van de luchtwegen om met een versterkte bronchusobstructie te reageren op de niet-allergische prikkels waarop mensen zonder [[astma]] niet of nauwelijks reageren
 

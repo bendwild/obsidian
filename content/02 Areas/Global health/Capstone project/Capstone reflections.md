@@ -2,7 +2,7 @@
 tags:
 publish: true
 created: 2025-09-15T22:22
-modified: 2025-09-23T13:36
+modified: 2026-04-04T22:33
 ---
 Mixed-method → impossible for time period, rather focus on qualitative
 Depending on depth or breadth, think of cooper vs other one

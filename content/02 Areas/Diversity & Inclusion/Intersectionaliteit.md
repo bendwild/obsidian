@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-12T09:34
+modified: 2026-04-04T22:33
 ---
 Intersectionaliteit < feministische theorie
 

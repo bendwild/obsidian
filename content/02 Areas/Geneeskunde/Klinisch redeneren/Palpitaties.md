@@ -5,7 +5,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-10T11:50
+modified: 2026-04-04T22:33
 ---
 
 | **ANAMNESE**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **KLINISCH ONDERZOEK**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

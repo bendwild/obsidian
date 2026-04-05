@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-22T18:15
-modified: 2026-04-03T18:10
+modified: 2026-04-04T22:33
 ---
 = a form of development [[economics]] which evaluates and promotes interventions that can be tested by randomised controlled trials
 

@@ -5,7 +5,7 @@ tags:
   - Bewegingsstelsel
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-20T15:59
+modified: 2026-04-04T22:33
 ---
 
 |                   | **Systemic onset**                                                                                                                                                                                                    | **Poly-articular onset**                                                                                                                                                                                           | **Pauci-articular onset**                                                                                                                                                                                                                                                                                         |

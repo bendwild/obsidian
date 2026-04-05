@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-08T13:53
-modified: 2025-05-11T15:56
+modified: 2026-04-04T22:33
 ---
 cytopenie =/= aplasie (= tekort 3 cellijnen EN tekort voorlopercellen)
 

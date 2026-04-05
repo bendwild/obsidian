@@ -4,7 +4,7 @@ tags:
   - Infectiologie
 publish: true
 created: 2026-02-24T14:24
-modified: 2026-03-04T14:28
+modified: 2026-04-04T22:33
 ---
 # Overall impact
 ## Increased incidence, morbidity & mortality

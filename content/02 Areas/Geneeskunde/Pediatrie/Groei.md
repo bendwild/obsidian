@@ -4,7 +4,7 @@ tags:
   - Pediatrie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-11T21:43
+modified: 2026-04-04T22:33
 ---
 # Kleine gestalte
 -> L< P3 of >2SD onder gemiddelde leeftijd/geslacht/populatie

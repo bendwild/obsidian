@@ -4,7 +4,7 @@ tags:
   - Quartz
   - level-5🪱
 created: 2025-06-12T15:07
-modified: 2026-02-12T10:25
+modified: 2026-04-04T22:33
 publish: true
 ---
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.ts` or changing [[Layout|the layout]] in `quartz.layout.ts`.

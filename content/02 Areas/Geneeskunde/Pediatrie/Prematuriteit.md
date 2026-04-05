@@ -5,7 +5,7 @@ tags:
   - Verloskunde
 publish: true
 created: 2025-03-19T20:35
-modified: 2025-06-12T22:56
+modified: 2026-04-04T22:33
 ---
 = geboren <37w
 =/= [[dysmaturiteit]] (GGW < P10 voor de ZS duur)

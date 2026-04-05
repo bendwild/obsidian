@@ -5,7 +5,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-05-14T10:31
-modified: 2025-06-12T22:56
+modified: 2026-04-04T22:33
 ---
 # Etiologie
 Ernstige gevallen van serotoninesyndroom worden meestal gezien bij inname van **twee of meer serotonerge geneesmiddelen**, waarvan meestal één **MAO-A-inhibitor of een niet-selectieve MAO-inhibitor**

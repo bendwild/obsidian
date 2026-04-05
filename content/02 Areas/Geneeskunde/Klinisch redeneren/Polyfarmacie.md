@@ -6,7 +6,7 @@ tags:
   - Farmacologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-11T23:12
+modified: 2026-04-04T22:33
 ---
 -> polyfarmacie vergt **standaard medicatiebeoordeling** indien:
 - >65j
