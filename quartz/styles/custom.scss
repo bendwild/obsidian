@@ -698,3 +698,28 @@ main {
     padding-inline: 1rem;
   }
 }
+
+.note-heatmap__root {
+  overflow-x: auto;
+  overflow-y: visible;
+  padding-top: 0.25rem;
+}
+
+.note-heatmap-svg {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.note-heatmap-month,
+.note-heatmap-weekday {
+  font-size: 10px;
+  fill: currentColor;
+  opacity: 0.7;
+  paint-order: stroke;
+  stroke: var(--paper);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
