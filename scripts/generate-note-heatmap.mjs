@@ -52,10 +52,7 @@ async function main() {
     const { data } = matter(raw)
 
     const modifiedDate = parseModifiedDate(data.modified)
-
-    if (!modifiedDate) {
-      continue
-    }
+    if (!modifiedDate) continue
 
     const day = toDayKey(modifiedDate)
     counts[day] = (counts[day] || 0) + 1
