@@ -40,9 +40,11 @@
   --border: rgba(59, 122, 74, 0.34);
   --border-strong: rgba(59, 122, 74, 0.65);
   --shadow: rgba(38, 48, 38, 0.12);
+  --shadow-strong: rgba(59, 122, 74, 0.22);
 
   --radius-lg: 18px;
   --radius-md: 14px;
+  --content-width: 70ch;
 }
 
 /* ==========================================================================
@@ -52,36 +54,185 @@
 html,
 body {
   margin: 0;
+  min-height: 100%;
   font-family: "Kalam", cursive;
   background: var(--bg);
   color: var(--text);
   line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 
   background-image:
-    linear-gradient(to right, rgba(102,153,102,0.07) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(102,153,102,0.07) 1px, transparent 1px);
+    linear-gradient(to right, rgba(102, 153, 102, 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(102, 153, 102, 0.07) 1px, transparent 1px);
   background-size: 40px 40px;
+  background-attachment: fixed;
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(900px 420px at 8% 18%, rgba(137, 199, 127, 0.12), transparent 72%),
+    radial-gradient(700px 360px at 90% 82%, rgba(179, 226, 182, 0.1), transparent 72%);
+  z-index: -2;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    to right,
+    transparent 0,
+    transparent 58px,
+    rgba(102, 153, 102, 0.18) 58px,
+    rgba(102, 153, 102, 0.18) 60px,
+    transparent 60px
+  );
+  z-index: -1;
+  opacity: 0.75;
+}
+
+::selection {
+  background: rgba(137, 199, 127, 0.25);
+}
+
+/* ==========================================================================
+   Layout / structure
+   ========================================================================== */
+
+.page,
+#quartz-body,
+.center,
+article {
+  min-width: 0;
+}
+
+article {
+  max-width: var(--content-width);
+}
+
+.center {
+  padding-top: 1rem;
+  padding-bottom: 2.5rem;
+}
+
+@media (min-width: 1200px) {
+  body.full-width .page {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  body.full-width #quartz-body {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body.full-width #quartz-body > .sidebar.left,
+  body.full-width #quartz-body > .sidebar.right {
+    display: none !important;
+  }
+
+  body.full-width #quartz-body > .page-header,
+  body.full-width #quartz-body > .center,
+  body.full-width #quartz-body > .center > article {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    box-sizing: border-box !important;
+  }
+
+  body.full-width #quartz-body > .center {
+    margin: 0 !important;
+    padding-inline: clamp(1rem, 2vw, 2rem) !important;
+  }
 }
 
 /* ==========================================================================
    Typography
    ========================================================================== */
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-family: "Permanent Marker", cursive;
   color: var(--green-900);
+  letter-spacing: 0.2px;
+  margin-top: 1.35em;
+  margin-bottom: 0.45em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: clamp(2rem, 3vw, 2.9rem);
+}
+
+h2 {
+  font-size: clamp(1.5rem, 2.3vw, 2rem);
+}
+
+h3 {
+  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+}
+
+h4,
+h5 {
+  font-size: 1.05rem;
 }
 
 h1::after {
   content: "";
   display: block;
   height: 4px;
-  margin-top: 6px;
+  margin-top: 8px;
+  border-radius: 999px;
   background: linear-gradient(
     90deg,
-    rgba(137,199,127,0.5),
-    transparent
+    rgba(137, 199, 127, 0.5),
+    rgba(137, 199, 127, 0.18),
+    transparent 90%
   );
+}
+
+p,
+li,
+dd,
+dt {
+  color: var(--text);
+}
+
+p {
+  margin: 0 0 1rem;
+  max-width: 68ch;
+}
+
+small,
+figcaption,
+.muted,
+.secondary {
+  color: var(--text-muted);
+}
+
+hr {
+  border: 0;
+  border-top: 1.5px dashed var(--border);
+  margin: 2rem 0;
 }
 
 /* ==========================================================================
@@ -90,45 +241,312 @@ h1::after {
 
 a {
   color: var(--green-700);
-  text-decoration: underline wavy;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1.3px;
+  text-underline-offset: 0.14em;
+  transition: color 0.16s ease, opacity 0.16s ease, transform 0.16s ease;
 }
 
 a:hover {
   color: var(--green-500);
 }
 
+a:focus-visible {
+  outline: 2px solid var(--green-500);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
 /* ==========================================================================
-   Cards
+   Surface components
    ========================================================================== */
 
 .card,
+.callout,
+blockquote,
 .note,
+pre,
+table,
 .note-heatmap {
   background: var(--bg-elevated);
   border: 1.5px solid var(--border);
   border-radius: var(--radius-lg);
   box-shadow: 0 10px 30px var(--shadow);
+  backdrop-filter: blur(8px);
+}
+
+.card {
+  padding: 1.15rem;
+}
+
+.card:hover {
+  border-color: var(--border-strong);
+}
+
+.callout,
+blockquote {
+  padding: 1rem 1.1rem;
+}
+
+blockquote {
+  margin: 1rem 0;
+  border-left: 4px solid var(--border-strong);
+}
+
+.note {
+  padding: 1rem 1.05rem;
+  margin: 1rem 0;
+  background: linear-gradient(180deg, var(--paper), #ffffff);
+}
+
+.tag,
+.tags .tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.58rem;
+  margin-right: 0.3rem;
+  margin-bottom: 0.25rem;
+  border-radius: 999px;
+  border: 1px solid rgba(137, 199, 127, 0.16);
+  background: rgba(137, 199, 127, 0.16);
+  color: var(--green-900);
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+body.dark .tag,
+body.dark .tags .tag {
+  background: rgba(109, 176, 111, 0.14);
+  color: var(--green-500);
+  border-color: rgba(109, 176, 111, 0.2);
 }
 
 /* ==========================================================================
-   Navbar / footer
+   Header / footer / navigation
    ========================================================================== */
 
 .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 0.8rem 1.4rem;
-  background: rgba(247,252,243,0.9);
-  border-bottom: 1px solid var(--border);
+  background-color: rgba(247, 252, 243, 0.86);
+  border-bottom: 1.5px solid var(--border);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(10px);
 }
 
 .footer {
   margin-top: 3rem;
   padding: 1.4rem;
-  border-top: 1px dashed var(--border);
+  border-top: 1.5px dashed var(--border);
   color: var(--text-muted);
+  font-size: 0.94rem;
+  text-align: center;
+  background-color: rgba(247, 252, 243, 0.65);
 }
 
 /* ==========================================================================
-   Heatmap (FIXED)
+   Sidebar / explorer / search
+   ========================================================================== */
+
+.sidebar {
+  color: var(--text);
+}
+
+.sidebar .page-title,
+.sidebar .search,
+.sidebar .explorer,
+.sidebar .backlinks,
+.sidebar .graph {
+  margin-bottom: 1rem;
+}
+
+.sidebar a {
+  text-decoration-thickness: 1px;
+}
+
+.page-title {
+  color: var(--green-800);
+}
+
+/* Search alignment */
+.sidebar .search {
+  width: 100%;
+  margin-top: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar .search,
+.sidebar #search {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.sidebar .search form,
+.sidebar .search > div,
+.sidebar .search label {
+  width: 100%;
+}
+
+.sidebar .search input,
+.sidebar input[type="search"] {
+  width: 100%;
+  height: 2.8rem;
+  box-sizing: border-box;
+  display: block;
+  padding: 0 0.9rem 0 2.6rem;
+  border-radius: var(--radius-md);
+  border: 1.5px solid var(--border);
+  background: var(--paper);
+  color: var(--text);
+  line-height: 2.8rem;
+}
+
+.sidebar .search input::placeholder,
+.sidebar input[type="search"]::placeholder {
+  color: var(--text-muted);
+  opacity: 0.8;
+}
+
+.sidebar .search svg,
+.sidebar .search .icon {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Generic form controls */
+input,
+textarea,
+select {
+  font: inherit;
+  color: var(--text);
+  background: var(--paper);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: var(--green-500);
+  box-shadow: 0 0 0 3px rgba(137, 199, 127, 0.16);
+}
+
+/* ==========================================================================
+   Code / tables / embeds
+   ========================================================================== */
+
+pre,
+code {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  background: rgba(137, 199, 127, 0.12);
+  border: 1px solid rgba(137, 199, 127, 0.12);
+  border-radius: 6px;
+  padding: 0.08rem 0.28rem;
+}
+
+pre code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+
+th,
+td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.65rem 0.8rem;
+  text-align: left;
+}
+
+thead th {
+  color: var(--green-800);
+  background: rgba(137, 199, 127, 0.08);
+}
+
+iframe[src*=".pdf"],
+embed[src*=".pdf"] {
+  width: 100% !important;
+  height: 90vh !important;
+  max-width: 100% !important;
+  border: none;
+  display: block;
+  margin: 1rem 0;
+}
+
+.quartz-embed,
+.quartz-embed iframe,
+.quartz-embed embed {
+  width: 100% !important;
+}
+
+@media (max-width: 768px) {
+  iframe[src*=".pdf"],
+  embed[src*=".pdf"] {
+    height: 70vh;
+  }
+}
+
+/* ==========================================================================
+   Full width toggle
+   ========================================================================== */
+
+#full-width-toggle {
+  position: fixed;
+  top: 1.1rem;
+  right: 1.1rem;
+  z-index: 9999;
+
+  width: 2.55rem;
+  height: 2.55rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.15rem;
+  line-height: 1;
+  color: var(--green-800);
+
+  background: var(--paper);
+  border: 1.5px dashed var(--border-strong);
+  border-radius: 12px;
+  box-shadow: 0 8px 20px var(--shadow);
+  cursor: pointer;
+  transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+}
+
+#full-width-toggle:hover {
+  transform: translate(-2px, -2px) rotate(-1deg);
+  box-shadow: 0 12px 26px var(--shadow-strong);
+}
+
+#full-width-toggle:active {
+  transform: translate(1px, 1px);
+}
+
+/* ==========================================================================
+   Note heatmap
    ========================================================================== */
 
 .note-heatmap {
@@ -155,27 +573,25 @@ a:hover {
 .note-heatmap-svg {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
   overflow: visible;
 }
 
-/* labels */
 .note-heatmap-month,
 .note-heatmap-weekday {
   font-size: 10px;
-  opacity: 0.7;
   fill: currentColor;
-
-  /* improves readability */
+  opacity: 0.7;
   paint-order: stroke;
   stroke: var(--paper);
   stroke-width: 3px;
+  stroke-linejoin: round;
 }
 
-/* CELLS — FIXED (no transform) */
 .note-heatmap-cell {
-  transition: opacity 0.12s ease, filter 0.12s ease, stroke 0.12s ease;
   cursor: pointer;
+  transition: opacity 0.12s ease, filter 0.12s ease, stroke 0.12s ease;
 }
 
 .note-heatmap-cell:hover {
@@ -194,6 +610,62 @@ main {
 }
 
 @keyframes fade {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ==========================================================================
+   Small-screen tuning
+   ========================================================================== */
+
+@media (max-width: 900px) {
+  html,
+  body {
+    font-size: 0.98rem;
+    background-size: 32px 32px;
+  }
+
+  body::after {
+    inset: 0;
+    background: linear-gradient(
+      to right,
+      transparent 0,
+      transparent 28px,
+      rgba(102, 153, 102, 0.14) 28px,
+      rgba(102, 153, 102, 0.14) 30px,
+      transparent 30px
+    );
+  }
+
+  .card,
+  .note,
+  .note-heatmap {
+    border-radius: 16px;
+  }
+
+  .navbar {
+    padding-inline: 1rem;
+  }
+
+  .sidebar .search input,
+  .sidebar input[type="search"] {
+    height: 2.65rem;
+    padding-left: 2.5rem;
+  }
 }
