@@ -22,7 +22,7 @@ NoteHeatmap.afterDOMLoaded = `
   const root = document.getElementById("note-heatmap-root")
   if (!root) return
 
-  const heatmapUrl = new URL("static/note-heatmap.json", document.baseURI).toString()
+  const heatmapUrl = "/obsidian/static/note-heatmap.json"
   console.log("Heatmap URL:", heatmapUrl)
 
   fetch(heatmapUrl)
