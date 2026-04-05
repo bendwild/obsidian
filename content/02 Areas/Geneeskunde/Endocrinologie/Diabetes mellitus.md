@@ -4,7 +4,7 @@ tags:
   - Endocrinologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2026-04-04T21:43
 ---
 # Pathofysiologie?
 ![[image-78.png]]
@@ -460,7 +460,7 @@ Hyperglycemie bij infecties
 - voldoende ondersteuning door mantelzorg/verpleging noodzakelijk
 
 Oculaire problemen
-- naast diabetische retinopathie ook vaker subscapulaire cataract en refractiestoornissen
+- naast diabetische retinopathie ook vaker subscapulaire [[Cataract]] en refractiestoornissen
 
 Medico-sociale problemen
 - studie- en beroepskeuze, rijbewijs, verzekeringen…

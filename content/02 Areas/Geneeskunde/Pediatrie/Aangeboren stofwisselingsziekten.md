@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-18T17:09
-modified: 2025-10-28T12:46
+modified: 2026-04-04T21:43
 ---
 *zeldzaam* -> denk eraan bij neonaten die: 
 - acuut ernstig ziek zijn na korte periode van schijnbaar normale evolutie
@@ -19,7 +19,7 @@ modified: 2025-10-28T12:46
 
 | Aminozuren                                                                                                 | Koolhydraten                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Fenylketonurie (AR)<br>- mentale retardatie                                                                | Galactosemie (AR)<br>- symptomen bij introductie lactosebevattende voeding (braken, [[icterus]], hepatomegalie, leverfalen, cataract) |
+| Fenylketonurie (AR)<br>- mentale retardatie                                                                | Galactosemie (AR)<br>- symptomen bij introductie lactosebevattende voeding (braken, [[icterus]], hepatomegalie, leverfalen, [[Cataract]]) |
 | Tyrosinemie (AR)<br>- leverfalen<br>- tubulopathie                                                         | Glycogeenopstapelingziekten (deficiënt enzym)<br>- abnormale opslag van glycogeen in lever en spier                               |
 | Homocystinurie (AR)<br>- progressieve mentale retardatie<br>- convulsies<br>- thrombo-embolische processen |                                                                                                                                   |
 

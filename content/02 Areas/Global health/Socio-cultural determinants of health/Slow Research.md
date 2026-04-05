@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-01-12T23:37
-modified: 2026-03-04T14:28
+modified: 2026-04-04T21:43
 title: "Slow Research: Thoughts for a Movement in Global Health"
 ---
 # Reflections
@@ -55,7 +55,7 @@ title: "Slow Research: Thoughts for a Movement in Global Health"
 > > We can also think of temporality here in terms of the celebration of speed. As Mike Fortun (1998) has argued, speed has become a value associated with success. In the intersection of mar- kets and sciences—from medicine to technologies to the life sciences—the rhetoric of speed is ubiquitous and ubiquitously embraced as positive
 
 > [!PDF|234, 82, 82] [[Slow Research  Thoughts for a Movement in Global Health.pdf#page=11&annotation=343R|Slow Research  Thoughts for a Movement in Global Health, p.1]]
-> > One is also reminded of the now old critiques of heroic medicine, exempliﬁed in charity groups which provide ‘free’ cataract and cleft palate surgeries in poor communities. These generous efforts, often by volunteer physicians, are extremely successful and deeply appreciated by those who receive surgeries at no cost. However, they are also often criticized by local physicians and health bureaus for their temporal shortcomings. Arriving and remaining for only short periods of time, these surgical teams offer no long-term care for patients, and they frequently undermine the credibility of local physicians and health workers. Moreover, they often cost local hospitals signiﬁcant amounts of money, and create large gaps in expectation levels of clients.
+> > One is also reminded of the now old critiques of heroic medicine, exempliﬁed in charity groups which provide ‘free’ [[Cataract]] and cleft palate surgeries in poor communities. These generous efforts, often by volunteer physicians, are extremely successful and deeply appreciated by those who receive surgeries at no cost. However, they are also often criticized by local physicians and health bureaus for their temporal shortcomings. Arriving and remaining for only short periods of time, these surgical teams offer no long-term care for patients, and they frequently undermine the credibility of local physicians and health workers. Moreover, they often cost local hospitals signiﬁcant amounts of money, and create large gaps in expectation levels of clients.
 
 > [!PDF|234, 82, 82] [[Slow Research  Thoughts for a Movement in Global Health.pdf#page=12&annotation=346R|Slow Research  Thoughts for a Movement in Global Health, p.1]]
 > > Slow research suggests the opposite: that hypothesis-driven methods, and many of the quantitative metrics on which they insist, are in their own way counterfactual, since, by the logic of anticipation, they create speciﬁc types of data and must ignore other types of data that do not ﬁt the hypothesis-organized design.

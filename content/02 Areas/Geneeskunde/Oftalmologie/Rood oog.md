@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-15T17:23
-modified: 2025-06-12T23:03
+modified: 2026-04-04T21:43
 ---
 # Anamnese
 - pijn? ongemak? pijnloos?
@@ -54,7 +54,7 @@ modified: 2025-06-12T23:03
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | **Cornea [[ulcus]]**     | - uitgesproken pijn<br>- zichtbaar op **fluoresceïne test**<br>- ciliaire injectie<br>- hypopion beeld                                                                         | - >> contactlenzen (verkeerd gebruik)<br>- [[Diabetes mellitus]]<br>- immuunsupressie<br>- trauma<br>- dry eye<br>- voorbestaande corneale afwijkingen               | Onmiddelijk doorverwijzen naar oogarts<br><br>**GEEN** cortisone<br><br>(hou contactlenzen bij vr eventuele kweek)                                                                                               | ![[Rood oog.png]]                    |
 | **Iritis/iridocyclitis** | - fotofobie<br>- vervormde pupil<br>- pijn<br>- verminderd zicht                                                                                                               | - 30% idiopatisch                                                                                                                                                    | - onderliggend lijden behandelen/uitsluiten<br>- topische steroiden (afbouwen)<br>- atropine / cyclogyl 2x/dd<br>                                                                                                | ![[Pasted image 20250316171424.png]] |
-| **Acuut [[Glaucoom]]**   | - hard oog (>unilateraal, kan bilateraal)<br>- >50j, >F<br>- nausea, [[Braken]]<br>- pijn +++<br>- [[Visusdaling]]<br>- irisischemie door hoge druk met **mydriase** (<-> uveïtis) | - iritis/iridocyclitis kan secundair [[Glaucoom]] geven<br><br>Risicofactoren: <br>- hoge leeftijd<br>- hypermetropie (+ bril)<br>- gevorderde cataract (dikke lens) | URGENTIE! -> doorverwijzen naar spoed ASAP<br><br>-> therapeutische YAG-iridotomie zo snel mogelijk<br>-> preventieve YAG-iridotomie in andere oog<br>-> drukverlagende therapie<br>-> electieve cataractingreep | ![[Rood oog-1.png]]                  |
+| **Acuut [[Glaucoom]]**   | - hard oog (>unilateraal, kan bilateraal)<br>- >50j, >F<br>- nausea, [[Braken]]<br>- pijn +++<br>- [[Visusdaling]]<br>- irisischemie door hoge druk met **mydriase** (<-> uveïtis) | - iritis/iridocyclitis kan secundair [[Glaucoom]] geven<br><br>Risicofactoren: <br>- hoge leeftijd<br>- hypermetropie (+ bril)<br>- gevorderde [[Cataract]] (dikke lens) | URGENTIE! -> doorverwijzen naar spoed ASAP<br><br>-> therapeutische YAG-iridotomie zo snel mogelijk<br>-> preventieve YAG-iridotomie in andere oog<br>-> drukverlagende therapie<br>-> electieve cataractingreep | ![[Rood oog-1.png]]                  |
 
 > [!attention] 's nachts met lenzen slapen geeft **20x meer risico op ooginfecties!**
 

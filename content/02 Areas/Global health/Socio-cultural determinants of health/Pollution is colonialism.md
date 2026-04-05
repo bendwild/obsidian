@@ -5,7 +5,7 @@ tags:
   - Books
 publish: true
 created: 2026-03-09T16:48
-modified: 2026-03-09T17:25
+modified: 2026-04-04T19:21
 ---
 # Reflections
 
@@ -27,7 +27,7 @@ modified: 2026-03-09T17:25
 > > Third, I show how methodologies—whether scientific, writerly, readerly, or otherwise—are always already part of Land relations and thus are a key site in which to enact good rela- tions (sometimes called ethics).
 
 > [!PDF|234, 82, 82] [[Pollution is Colonialism.pdf#page=22&annotation=275R|Pollution is Colonialism, p.11]]
-> > While there are different types of colonialism—settler colonialism, extractive colonialism, internal colonialism, external colonialism, neoimperialism  —  they have some things in common. Colonialism is a way to describe relationships characterized by conquest and genocide that grant colonialists and settlers “on- going state access to land and resources that contradictorily provide the mate- rial and spiritual [[sustenance]] of Indigenous societies on the one hand, and the foundation of colonial state-formation, settlement, and capitalist development on the other.”
+> > While there are different types of colonialism—settler colonialism, extractive colonialism, internal colonialism, external colonialism, neoimperialism  —  they have some things in common. Colonialism is a way to describe relationships characterized by conquest and genocide that grant colonialists and settlers “on- going state access to land and resources that contradictorily provide the mate- rial and spiritual [[Sustenance]] of Indigenous societies on the one hand, and the foundation of colonial state-formation, settlement, and capitalist development on the other.”
 
  > [!PDF|234, 82, 82] [[Pollution is Colonialism.pdf#page=25&annotation=278R|Pollution is Colonialism, p.14]]
 > > The way that environmental crises and their solutions maintain rather than change existing power structures is central to the scholarship of anthropologist Joseph Masco (settler), who points out that “crisis,” environmental and other- wise, has “become a counterrevolutionary idiom in the twenty-first century, a means of stabilizing an existing condition rather than minimizing forms of vi- olence across militarisms, economy, and the environment

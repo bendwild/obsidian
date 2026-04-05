@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-09T11:38
-modified: 2026-02-03T13:30
+modified: 2026-04-04T21:43
 ---
 # Indicaties
 - auto-immune of inflammatoire aandoeningen
@@ -39,7 +39,7 @@ modified: 2026-02-03T13:30
 - hyperglycemie
 - verminderde weerstand tegen infectie (ook atypische bacteriën en schimmels)
 - [[osteoporose]]
-- cataract, open-hoekglaucoom
+- [[Cataract]], open-hoekglaucoom
 - groeistilstand bij langdurig gebruik kind
 
 ## Lokaal
