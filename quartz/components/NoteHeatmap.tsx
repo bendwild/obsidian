@@ -10,11 +10,6 @@ export default (() => {
         </div>
 
         <div id="note-heatmap-root" className="note-heatmap__root" />
-
-        <div className="note-heatmap__legend">
-          <span>Low</span>
-          <span>High</span>
-        </div>
       </section>
     )
   }
@@ -37,7 +32,7 @@ export default (() => {
         today.setHours(0, 0, 0, 0)
 
         const days = []
-        for (let i = 364; i >= 0; i--) {
+        for (let i = 219; i >= 0; i--) {
           const d = new Date(today)
           d.setDate(today.getDate() - i)
           days.push(d)
@@ -46,17 +41,15 @@ export default (() => {
         const max = Math.max(...Object.values(counts), 1)
         const cell = 11
         const gap = 3
+        const leftPad = 44
+        const topPad = 24
         const weekCount = Math.ceil(days.length / 7)
-        const leftPad = 28
-        const topPad = 18
         const width = leftPad + weekCount * (cell + gap) - gap
         const height = topPad + 7 * (cell + gap) - gap + 18
 
         const levelForCount = (count) => {
           if (count <= 0 || max === 0) return 0
-
           const ratio = Math.log1p(count) / Math.log1p(max)
-
           if (ratio > 0.8) return 4
           if (ratio > 0.6) return 3
           if (ratio > 0.35) return 2
@@ -96,14 +89,14 @@ export default (() => {
         monthLabels.forEach((m) => {
           const x = leftPad + m.weekIndex * (cell + gap)
           svg += \`
-            <text class="note-heatmap-month" x="\${x}" y="11">\${m.label}</text>
+            <text class="note-heatmap-month" x="\${x}" y="14" dominant-baseline="hanging">\${m.label}</text>
           \`
         })
 
         weekdayLabels.forEach((w) => {
           const y = topPad + w.row * (cell + gap) + 9
           svg += \`
-            <text class="note-heatmap-weekday" x="0" y="\${y}">\${w.label}</text>
+            <text class="note-heatmap-weekday" x="4" y="\${y}" dominant-baseline="middle">\${w.label}</text>
           \`
         })
 
