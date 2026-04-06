@@ -1,0 +1,15 @@
+---
+tags:
+  - Biostatistics
+publish: true
+created: 2026-04-06T10:37
+modified: 2026-04-06T11:36
+---
+> = inferring information about a population or underlying mechanism based on a sample
+
+# Describing **population** statistics
+
+| Point estimate                                                                                                                                     | Standard error                                                                                                                                                                                                                                                                                                                                                                                            | Confidence interval                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| = **sample** statistic serves as the point estimate of the **population** statistic (assuming that our sample is representative of the population) | = measure of the variability of a sample statistic in our population                                                                                                                                                                                                                                                                                                                                      | = if we collected many samples from our population, 95 percent of the 95% confidence intervals will contain the true population statistic                                |
+|                                                                                                                                                    | Bootstrapping<br>1. Draw 100-300 resamples from our sample<br>2. Calculate the sample statistic (e.g. mean, any statistic you are interested in) of each resample<br>3. Double check that the distribution of the sample statistics ins normally distributed (thanks to central limit theorem this is usually true)<br>4. The standard deviation of the sample statistic is our population standard error | If normal distribution: <br>- point estimate +/- 1.96*standard error<br><br>If non-normal distribution:<br>- [[bias]]-corrected and accelerated (BCa) bootstrap interval |
