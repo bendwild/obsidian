@@ -8,31 +8,26 @@
 @font-face {
   font-family: "Kalam";
   src: url("https://fonts.gstatic.com/s/kalam/v17/YA9dr0Wd4kDdMtD6WnZB.woff2") format("woff2");
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Kalam";
   src: url("https://fonts.gstatic.com/s/kalam/v17/YA9Yr0Wd4kDdMtD6WnJmUg.woff2") format("woff2");
-  font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: "Permanent Marker";
   src: url("https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2M.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 400;
 }
 
 /* ==========================================================================
-   Theme tokens
+   Tokens
    ========================================================================== */
 
 :root {
   --bg: #f6fbf3;
   --bg-elevated: rgba(253, 254, 249, 0.92);
   --paper: #fdfef9;
-  --paper-strong: #fffdf4;
 
   --text: #263026;
   --text-muted: rgba(38, 48, 38, 0.72);
@@ -40,11 +35,7 @@
   --green-900: #23402b;
   --green-800: #2f5a39;
   --green-700: #3b7a4a;
-  --green-600: #5c9b67;
   --green-500: #89c77f;
-  --green-300: #b9e6b3;
-  --green-200: #d9f2d4;
-  --green-100: #edf8ea;
 
   --border: rgba(59, 122, 74, 0.34);
   --border-strong: rgba(59, 122, 74, 0.65);
@@ -53,33 +44,7 @@
 
   --radius-lg: 18px;
   --radius-md: 14px;
-  --radius-sm: 10px;
-
   --content-width: 70ch;
-}
-
-body.dark {
-  --bg: #171b17;
-  --bg-elevated: rgba(28, 33, 28, 0.92);
-  --paper: #1d231d;
-  --paper-strong: #202720;
-
-  --text: #e8fbe4;
-  --text-muted: rgba(232, 251, 228, 0.74);
-
-  --green-900: #d8f2d3;
-  --green-800: #c6ebbf;
-  --green-700: #b8e8b2;
-  --green-600: #8fcb90;
-  --green-500: #6db06f;
-  --green-300: #4f7a52;
-  --green-200: #36503a;
-  --green-100: #2a342b;
-
-  --border: rgba(137, 199, 127, 0.28);
-  --border-strong: rgba(137, 199, 127, 0.56);
-  --shadow: rgba(0, 0, 0, 0.28);
-  --shadow-strong: rgba(137, 199, 127, 0.16);
 }
 
 /* ==========================================================================
@@ -88,15 +53,15 @@ body.dark {
 
 html,
 body {
-  min-height: 100%;
   margin: 0;
-  color: var(--text);
-  background-color: var(--bg);
+  min-height: 100%;
   font-family: "Kalam", cursive;
-  line-height: 1.72;
-  font-size: 1.03rem;
-  text-rendering: optimizeLegibility;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+
   background-image:
     linear-gradient(to right, rgba(102, 153, 102, 0.07) 1px, transparent 1px),
     linear-gradient(to bottom, rgba(102, 153, 102, 0.07) 1px, transparent 1px);
@@ -116,7 +81,7 @@ body::before {
   pointer-events: none;
   background:
     radial-gradient(900px 420px at 8% 18%, rgba(137, 199, 127, 0.12), transparent 72%),
-    radial-gradient(700px 360px at 90% 82%, rgba(179, 226, 182, 0.10), transparent 72%);
+    radial-gradient(700px 360px at 90% 82%, rgba(179, 226, 182, 0.1), transparent 72%);
   z-index: -2;
 }
 
@@ -139,10 +104,6 @@ body::after {
 
 ::selection {
   background: rgba(137, 199, 127, 0.25);
-}
-
-body.dark ::selection {
-  background: rgba(137, 199, 127, 0.22);
 }
 
 /* ==========================================================================
@@ -218,14 +179,6 @@ h5 {
   text-wrap: balance;
 }
 
-body.dark h1,
-body.dark h2,
-body.dark h3,
-body.dark h4,
-body.dark h5 {
-  color: var(--green-700);
-}
-
 h1 {
   font-size: clamp(2rem, 3vw, 2.9rem);
 }
@@ -241,6 +194,20 @@ h3 {
 h4,
 h5 {
   font-size: 1.05rem;
+}
+
+h1::after {
+  content: "";
+  display: block;
+  height: 4px;
+  margin-top: 8px;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    rgba(137, 199, 127, 0.5),
+    rgba(137, 199, 127, 0.18),
+    transparent 90%
+  );
 }
 
 p,
@@ -266,20 +233,6 @@ hr {
   border: 0;
   border-top: 1.5px dashed var(--border);
   margin: 2rem 0;
-}
-
-h1::after {
-  content: "";
-  display: block;
-  height: 4px;
-  margin-top: 8px;
-  background: linear-gradient(
-    90deg,
-    rgba(137, 199, 127, 0.5),
-    rgba(137, 199, 127, 0.18),
-    transparent 90%
-  );
-  border-radius: 999px;
 }
 
 /* ==========================================================================
@@ -344,7 +297,7 @@ blockquote {
 .note {
   padding: 1rem 1.05rem;
   margin: 1rem 0;
-  background: linear-gradient(180deg, var(--paper-strong), var(--paper));
+  background: linear-gradient(180deg, var(--paper), #ffffff);
 }
 
 .tag,
@@ -352,20 +305,20 @@ blockquote {
   display: inline-flex;
   align-items: center;
   padding: 0.18rem 0.58rem;
-  border-radius: 999px;
-  font-size: 0.78rem;
-  background: rgba(137, 199, 127, 0.16);
-  color: var(--green-900);
-  border: 1px solid rgba(137, 199, 127, 0.16);
   margin-right: 0.3rem;
   margin-bottom: 0.25rem;
+  border-radius: 999px;
+  border: 1px solid rgba(137, 199, 127, 0.16);
+  background: rgba(137, 199, 127, 0.16);
+  color: var(--green-900);
+  font-size: 0.78rem;
   text-decoration: none;
 }
 
 body.dark .tag,
 body.dark .tags .tag {
   background: rgba(109, 176, 111, 0.14);
-  color: var(--green-700);
+  color: var(--green-500);
   border-color: rgba(109, 176, 111, 0.2);
 }
 
@@ -387,36 +340,14 @@ body.dark .tags .tag {
   backdrop-filter: blur(10px);
 }
 
-body.dark .navbar {
-  background-color: rgba(27, 31, 27, 0.9);
-}
-
-.navbar a {
-  font-family: "Kalam", cursive;
-  color: var(--green-700);
-  font-weight: 700;
-  text-decoration: none;
-  margin: 0 0.7rem;
-}
-
-.navbar a:hover {
-  color: var(--green-500);
-  text-decoration: underline;
-  text-decoration-style: wavy;
-}
-
 .footer {
-  text-align: center;
-  padding: 1.4rem;
   margin-top: 3rem;
+  padding: 1.4rem;
+  border-top: 1.5px dashed var(--border);
   color: var(--text-muted);
   font-size: 0.94rem;
-  border-top: 1.5px dashed var(--border);
+  text-align: center;
   background-color: rgba(247, 252, 243, 0.65);
-}
-
-body.dark .footer {
-  background-color: rgba(27, 31, 27, 0.65);
 }
 
 /* ==========================================================================
@@ -439,11 +370,12 @@ body.dark .footer {
   text-decoration-thickness: 1px;
 }
 
-#search,
-.search {
-  border-radius: var(--radius-md);
+.page-title {
+  color: var(--green-800);
 }
 
+
+/* Generic form controls */
 input,
 textarea,
 select {
@@ -460,10 +392,6 @@ select:focus {
   outline: none;
   border-color: var(--green-500);
   box-shadow: 0 0 0 3px rgba(137, 199, 127, 0.16);
-}
-
-.page-title {
-  color: var(--green-800);
 }
 
 /* ==========================================================================
@@ -573,23 +501,17 @@ embed[src*=".pdf"] {
   transform: translate(1px, 1px);
 }
 
-body.dark #full-width-toggle {
-  color: var(--green-700);
-  background: var(--paper);
-}
-
 /* ==========================================================================
    Note heatmap
    ========================================================================== */
 
 .note-heatmap {
   margin: 1.5rem 0 2rem;
-  padding: 1rem 1.1rem 0.9rem;
+  padding: 1rem 1.1rem;
 }
 
 .note-heatmap__header h3 {
-  margin-top: 0;
-  margin-bottom: 0.2rem;
+  margin: 0 0 0.2rem;
 }
 
 .note-heatmap__header p {
@@ -600,8 +522,8 @@ body.dark #full-width-toggle {
 
 .note-heatmap__root {
   overflow-x: auto;
-  overflow-y: hidden;
-  padding-bottom: 0.5rem;
+  overflow-y: visible;
+  padding-top: 0.25rem;
 }
 
 .note-heatmap-svg {
@@ -609,31 +531,30 @@ body.dark #full-width-toggle {
   width: 100%;
   max-width: 100%;
   height: auto;
+  overflow: visible;
 }
 
 .note-heatmap-month,
 .note-heatmap-weekday {
   font-size: 10px;
   fill: currentColor;
-  opacity: 0.65;
+  opacity: 0.7;
+  paint-order: stroke;
+  stroke: var(--paper);
+  stroke-width: 3px;
+  stroke-linejoin: round;
 }
 
 .note-heatmap-cell {
-  transition: transform 0.12s ease, opacity 0.12s ease;
+  cursor: pointer;
+  transition: opacity 0.12s ease, filter 0.12s ease, stroke 0.12s ease;
 }
 
 .note-heatmap-cell:hover {
-  transform: scale(1.08);
-  opacity: 0.95;
-  transform-origin: center;
-}
-
-.note-heatmap__legend {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 0.75rem;
-  font-size: 0.85rem;
-  color: var(--text-muted);
+  opacity: 0.88;
+  filter: brightness(1.08);
+  stroke: var(--green-700);
+  stroke-width: 0.6px;
 }
 
 /* ==========================================================================
@@ -641,10 +562,10 @@ body.dark #full-width-toggle {
    ========================================================================== */
 
 main {
-  animation: pageFade 0.24s ease;
+  animation: fade 0.25s ease;
 }
 
-@keyframes pageFade {
+@keyframes fade {
   from {
     opacity: 0;
     transform: translateY(6px);
@@ -696,5 +617,11 @@ main {
 
   .navbar {
     padding-inline: 1rem;
+  }
+
+  .sidebar .search input,
+  .sidebar input[type="search"] {
+    height: 2.65rem;
+    padding-left: 2.5rem;
   }
 }
