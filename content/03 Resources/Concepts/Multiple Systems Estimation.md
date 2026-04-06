@@ -5,7 +5,7 @@ tags:
   - Human-rights
 publish: true
 created: 2026-01-14T17:38
-modified: 2026-01-14T17:48
+modified: 2026-04-04T23:13
 ---
 Multiple systems estimation, or MSE, is a family of techniques for _[[statistical inference]]_. MSE uses the overlaps between several incomplete lists of human rights violations to determine the total number of violations. In this blogpost, and four more to follow, I’ll answer both conceptual and practical questions about this important method. (In posts to follow, questions that refer to specific statistical procedures or debates will be marked, “In depth.”)
 

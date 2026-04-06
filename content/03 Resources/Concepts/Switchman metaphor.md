@@ -5,7 +5,7 @@ tags:
   - Politics
 publish: true
 created: 2026-01-28T13:37
-modified: 2026-04-03T18:10
+modified: 2026-04-04T23:13
 ---
 [[@Max Weber]]
 

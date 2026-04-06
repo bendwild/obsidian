@@ -4,7 +4,7 @@ tags:
   - Economics
 publish: true
 created: 2026-01-20T21:32
-modified: 2026-03-31T13:54
+modified: 2026-04-05T20:47
 ---
 = tendency for insurance against loss to **reduce incentives to prevent or minimize the cost of loss**
 = inefficient
@@ -17,3 +17,4 @@ modified: 2026-03-31T13:54
 > [!IMPORTANT] Moral hazard is a misleading term for a rational response that **DOES** follow market dynamics
 
 > Solution = cost sharing
+> - Example: The Rand [[Health Insurance]] experiment, CAVE both reduced necessary and unnecessary care
