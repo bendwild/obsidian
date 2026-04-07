@@ -5,7 +5,7 @@ tags:
   - Human-rights
 publish: true
 created: 2026-01-14T17:38
-modified: 2026-04-04T23:13
+modified: 2026-04-06T17:19
 ---
 Multiple systems estimation, or MSE, is a family of techniques for _[[statistical inference]]_. MSE uses the overlaps between several incomplete lists of human rights violations to determine the total number of violations. In this blogpost, and four more to follow, I’ll answer both conceptual and practical questions about this important method. (In posts to follow, questions that refer to specific statistical procedures or debates will be marked, “In depth.”)
 
@@ -35,7 +35,7 @@ While analysis may be simpler when our team advises [[data collection]] and codi
 
 # Do you include unnamed or anonymous victims in the matching process?
 
-We do not use unnamed or anonymous reports for MSE, but we do use such information for other purposes. We often receive data in which some victims are unnamed. If other information about the victim is available (e.g., sex, location, etc.) then these anonymous records can still be used as the basis of descriptive statistics. However, while it is theoretically possible to match anonymous records when enough other information exists, it is not practically feasible. (For example, if each of two reports refers to an unnamed group of victims—say, one group of five victims and one group of seven—we can never be sure if one victim group is a subset of the other, if they share some but not all victims, or if they refer to completely different events. Therefore, while we occasionally include anonymous victims in descriptive statistics (or even comparisons of datasets), **we never include anonymous victims in MSE estimates, because we cannot include them in the matching process.**
+We do not use unnamed or anonymous reports for MSE, but we do use such information for other purposes. We often receive data in which some victims are unnamed. If other information about the victim is available (e.g., sex, location, etc.) then these anonymous records can still be used as the basis of [[descriptive statistics]]. However, while it is theoretically possible to match anonymous records when enough other information exists, it is not practically feasible. (For example, if each of two reports refers to an unnamed group of victims—say, one group of five victims and one group of seven—we can never be sure if one victim group is a subset of the other, if they share some but not all victims, or if they refer to completely different events. Therefore, while we occasionally include anonymous victims in [[descriptive statistics]] (or even comparisons of datasets), **we never include anonymous victims in MSE estimates, because we cannot include them in the matching process.**
 
 # What do you mean by “cleaning” and “canonicalization”?
 
