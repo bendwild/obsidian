@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-02-17T20:41
-modified: 2026-02-17T22:19
+modified: 2026-04-07T13:31
 ---
 # Reflections
 
@@ -64,7 +64,7 @@ Six sufficient and generally necessary conditions for the effective implementati
 
 # Bottom-up approaches: the Promised Land?
 > [!PDF|187, 97, 229] [[Sabatier PA. Top-down and Bottom-up Approaches to Implementation Research.pdf#page=12&annotation=290R|Sabatier PA. Top-down and Bottom-up Approaches to Implementation Research, p.12]]
-> > In contrast to the top-down approach -  which starts from a policy decision and focuses on the extent to which its objectives are attained over time and why - the bottom-up approach of Hjern et al. starts by identi- fying the network of actors involved in service delivery in one or more local areas and asks them about their goals, strategies, activities, and contacts.
+> > In contrast to the top-down approach -  which starts from a policy decision and focuses on the extent to which its objectives are attained over time and why - the bottom-up approach of Hjern et al. starts by identi- fying the network of actors involved in [[service delivery]] in one or more local areas and asks them about their goals, strategies, activities, and contacts.
 
 > [!PDF|234, 82, 82] [[Sabatier PA. Top-down and Bottom-up Approaches to Implementation Research.pdf#page=13&annotation=293R|Sabatier PA. Top-down and Bottom-up Approaches to Implementation Research, p.13]]
 > > First, they have developed an explicit and replicable methodology for identifying  a  policy network ('implementation structure  1  )
