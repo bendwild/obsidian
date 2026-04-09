@@ -5,6 +5,7 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-06-12T22:56
+updated: 2026-04-09T13:16
 ---
 *Voldoende gevoelige seksuele anamnese
 - vooral pijn tijdens en na seksueel contact
@@ -55,7 +56,7 @@ Symptomen
 - problemen van de urinewegen
 - problemen tijdens menstruatie
 - chronische infecties kleine bekken
-- problemen met conceptie en zwangerschap
+- problemen met conceptie en [[zwangerschap]]
 - seksuele problemen
 
 Ook een sterke psychosociale impact!

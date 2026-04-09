@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-03-27T22:31
-modified: 2026-02-12T09:34
+modified: 2026-04-08T10:14
 ---
  
 Revolt against the absurd

@@ -1,6 +1,6 @@
 ---
 created: 2026-04-06T23:24
-modified: 2026-04-06T23:26
+modified: 2026-04-08T10:14
 tags:
   - Filosofie
 publish: true

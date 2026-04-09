@@ -3,7 +3,7 @@ tags:
   - Vocabulary
 publish: true
 created: 2026-01-30T12:39
-modified: 2026-04-04T19:21
+modified: 2026-04-08T10:14
 ---
 “The word ‘sustainability’ has its origins in ‘sustenance’, which in its etymology connects with the Latin word sustinere, which in turn means to furnish with support for survival.
 
