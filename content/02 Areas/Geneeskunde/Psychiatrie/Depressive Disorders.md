@@ -4,7 +4,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Depressieve stoornis & aanverwanten
 |              | **Depressieve klachten**                                                                        | **(Majeure) depressieve stoornis** (=[[Depressie]]])                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Persisterende depressieve (dysthyme) stoornis**                           | **Premenstruele stemmingsstoornis**                                                                                               | **Disruptive Mood Dysregulation Disorder** | **Depressieve stemmingsstoornis < somatische aandoening**                                                                       | **Depressieve stemmingsstoornis < middel of medicatie**                                                                                     |

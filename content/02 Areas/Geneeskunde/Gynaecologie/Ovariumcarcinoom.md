@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-04T21:05
-modified: 2025-05-05T20:41
+modified: 2025-10-28T12:46
 ---
 # Epitheliale tumoren
 -> **9O%**!!

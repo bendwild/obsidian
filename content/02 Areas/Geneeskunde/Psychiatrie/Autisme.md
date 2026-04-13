@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Essentie
 Stoornis in de *verwerking en integratie* van informatie aanwezig vanaf de *vroege kinderleeftijd*, met beperkingen in *sociaal communicatief gedrag* en *beperkte repetitive gedragingen en interesses* die leiden tot *beperkingen in het functioneren.*

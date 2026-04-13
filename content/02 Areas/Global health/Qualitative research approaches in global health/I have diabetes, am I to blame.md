@@ -4,7 +4,7 @@ tags:
   - Endocrinologie
 publish: true
 created: 2025-10-20T15:14
-modified: 2025-10-20T15:58
+modified: 2025-10-28T12:46
 title: I have Diabetes. Am I to Blame?
 ---
 # Reflections

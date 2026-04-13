@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-02T13:50
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Pathofysiologie
 Normaal -> hoge flow & lage weerstand in pulmonale circulatie

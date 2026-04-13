@@ -4,7 +4,7 @@ tags:
   - Dermatologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-27T14:38
+modified: 2025-10-28T12:46
 ---
 = roodheid huid en/of slijmvliezen die volledig wegdrukbaar is (tgv **vaatverwijding**)
 =/= exantheem (soort opbloeiing huid oiv infectiziekte)

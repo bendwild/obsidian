@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-20T16:35
+modified: 2025-10-28T12:46
 ---
 - Kliniek CKD
     - Tekenen van nierschade / GFR <60 gedurende minstens 3 maand

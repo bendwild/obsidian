@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-02-02T11:45
-modified: 2025-05-31T15:17
+modified: 2025-10-28T12:46
 ---
 = scheur van de intima en binnenste laag van de media met progressieve longitudinale separatie (ante- en retrograad) resulterend in een **echt** en een **vals** lumen
 

@@ -9,6 +9,7 @@ description: A right to health requires that everyone have access to good qualit
 tags:
   - clippings
 updated: 2026-04-09T23:18
+modified: 2026-04-09T23:18
 ---
 ![](https://www.youtube.com/watch?v=DxlnHdEkB_U)
 

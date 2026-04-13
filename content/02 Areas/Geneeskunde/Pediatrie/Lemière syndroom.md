@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-04T23:24
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = [[Thromboflebitis]] van de vena jugularis interna secundair na een recente NKO-infectie
 - sterk geassocieerd met Fusobacterium necrophorum, een gram-negatieve kiem

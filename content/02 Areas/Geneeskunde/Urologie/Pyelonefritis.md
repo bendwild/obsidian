@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-06T14:18
-modified: 2025-05-14T10:20
+modified: 2025-10-28T12:46
 ---
 -> pyelitis: ontsteking beperkt tot nierbekken
 -> pyelonefritis: ontsteking van zowel nierbekken en nierparenchym

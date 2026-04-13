@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-05T10:40
-modified: 2025-05-09T16:27
+modified: 2025-10-28T12:46
 ---
 
 | Cancer Type               | Main Sites of Metastasis                      |

@@ -6,7 +6,7 @@ tags:
   - Bewegingsstelsel
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Etiologie
 Artrose maakt deel uit van het normale verouderingsproces maar kan ook te wijten zijn aan heel veel andere factoren:

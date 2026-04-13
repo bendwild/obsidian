@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-12T11:21
-modified: 2025-05-01T22:08
+modified: 2025-10-28T12:46
 ---
 = acute trombose van oppervlakkige ader met inflammatoire symptomen
 

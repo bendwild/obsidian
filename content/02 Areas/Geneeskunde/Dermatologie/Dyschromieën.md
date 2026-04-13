@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-24T11:30
-modified: 2025-05-27T14:30
+modified: 2025-10-28T12:46
 ---
 = huidverkleuringen die niet het gevolg zijn van vaatverwijding (erytheem)
 

@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-02T11:37
-modified: 2025-06-13T13:41
+modified: 2025-10-28T12:46
 ---
 = permanente verbreding diameter bloedvat *>50%*
 - aorta descendens >4.5 cm

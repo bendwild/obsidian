@@ -4,6 +4,8 @@ publish: true
 title: '"{{title | escape}}"'
 Year: '{{date | format("YYYY")}}'
 Authors: "{{authors}}"
+created: 2026-04-12T17:35
+modified: 2025-10-28T12:46
 ---
 Zotero PDF Link: {{pdfZoteroLink}} 
 Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 

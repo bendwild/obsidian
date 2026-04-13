@@ -2,6 +2,8 @@
 title: Assets
 tags:
   - plugin/emitter
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 This plugin emits all non-Markdown static assets in your content folder (like images, videos, HTML, etc). The plugin respects the `ignorePatterns` in the global [[configuration]].

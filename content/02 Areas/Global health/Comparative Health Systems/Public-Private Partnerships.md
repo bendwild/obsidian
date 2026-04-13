@@ -3,14 +3,26 @@ tags:
   - Health-systems
 publish: true
 created: 2026-04-08T10:00
-modified: 2026-04-08T10:03
+modified: 2026-04-13T11:23
 ---
-> = a long-term contract between a private party and a government entity, for providing a public asset or service, in which the private party bears significant risk and management responsibility (World Bank)
+> = a long-term contract between a private party and a government entity, for providing a public asset or service, in which the private party bears significant risk and management responsibility (*World Bank*)
 
 Three elements that must all be present (not just purchasing):
 - Formal contractual arrangement
 - Risk sharing between public and private
 - Private management of a public function
+
+# Examples of PPPs
+
+*from minimal to deep private involvement*
+
+| Type                       | What the private sector does                           | Example                                                   |
+| -------------------------- | ------------------------------------------------------ | --------------------------------------------------------- |
+| Service contract           | Provides specific non-clinical service                 | Private company runs hospital laundry                     |
+| Management contract        | Manages a public facility                              | Private operator runs a district hospital                 |
+| Clinical services contract | Delivers clinical services to public patients          | Government contracts private surgeons                     |
+| Build-operate-transfer     | Finances, builds, operates, then transfers             | Private hospital built and run, then handed to government |
+| Full concession            | Private entity runs entire facility for defined period | Private management of national referral hospital          |
 
 # Why use PPPs?
 
@@ -29,3 +41,6 @@ Three elements that must all be present (not just purchasing):
 - Equity provisions are explicitly written into the contract
 - Exit costs for the public sector are manageable if the partnership fails
 - The service being contracted is measurable (quality can be verified)
+
+
+

@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-28T15:31
-modified: 2025-06-05T10:25
+modified: 2025-10-28T12:46
 ---
 # Pathofysiologie
 ## Elektrische cascade

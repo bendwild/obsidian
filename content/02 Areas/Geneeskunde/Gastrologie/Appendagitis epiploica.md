@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-29T12:35
-modified: 2025-06-12T23:03
+modified: 2025-10-28T12:46
 ---
 = inflammation & necrosis of the epiploic appendages (small, fat-filled pouches that line the colon) caused by torsion or spontaneous thrombosis/embolism
 

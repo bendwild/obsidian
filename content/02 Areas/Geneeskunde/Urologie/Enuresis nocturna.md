@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-24T12:30
-modified: 2025-05-24T22:17
+modified: 2025-10-28T12:46
 ---
 = intermittente [[incontinentie]] gedurende slaap
 = monosymptomatisch (geen andere LUTS) of niet-monosymptomatisch

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-26T19:50
-modified: 2025-05-27T13:04
+modified: 2025-10-28T12:46
 ---
 # Epidemiologie
 - vrl tijdens [[content/02 Areas/Geneeskunde/Pediatrie/Puberteit|puberteit]], kan doorlopen tot leeftijd van 24j

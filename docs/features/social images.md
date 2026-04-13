@@ -1,5 +1,7 @@
 ---
-title: "Social Media Preview Cards"
+title: Social Media Preview Cards
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description).

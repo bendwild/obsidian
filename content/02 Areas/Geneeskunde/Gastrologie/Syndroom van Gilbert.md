@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-15T19:55
-modified: 2025-04-08T23:33
+modified: 2025-10-28T12:46
 ---
 = autosomaal **recessieve** aandoening met een verminderde activiteit van het **glucuronyl transferase** enzym
 ![[Pasted image 20241226234317.png]]

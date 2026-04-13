@@ -1,5 +1,7 @@
 ---
 title: Setting up your GitHub repository
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 First, make sure you have Quartz [[index#🪴 Get Started|cloned and setup locally]].

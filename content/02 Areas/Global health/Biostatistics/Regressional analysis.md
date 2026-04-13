@@ -4,6 +4,7 @@ updated: 2026-04-11T22:04
 tags:
   - Biostatistics
 publish: true
+modified: 2026-04-13T10:55
 ---
 > = predict & describe the dependent variable based on the independent variables
 

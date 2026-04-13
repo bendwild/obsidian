@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-13T21:50
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = zeldzame maar potentieel lethale auto-immuun gemedieerde **polyradiculoneuropathie**
 ![[Guillain-Barré.png]]

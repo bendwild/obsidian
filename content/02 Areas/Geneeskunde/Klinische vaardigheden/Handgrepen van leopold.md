@@ -5,7 +5,7 @@ tags:
   - Klinische-vaardigheden
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-20T15:15
+modified: 2025-10-28T12:46
 ---
 - **Voorbereiding**
 	- “Hallo, ik ben Karolien, ik ben vroedvrouw, ik ga even voelen aan je buik om te bepalen hoe de baby ligt en ik ga ook eens luisteren naar de harttonen van de baby.”

@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-13T21:10
-modified: 2025-05-01T11:47
+modified: 2025-10-28T12:46
 ---
 = eerste stadium van [[Ziekte van Lyme]]
 

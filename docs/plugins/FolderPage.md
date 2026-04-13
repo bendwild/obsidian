@@ -2,6 +2,8 @@
 title: FolderPage
 tags:
   - plugin/emitter
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 This plugin generates index pages for folders, creating a listing page for each folder that contains multiple content files. See [[folder and tag listings]] for more information.

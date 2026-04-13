@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-14T10:20
+modified: 2025-10-28T12:46
 ---
 = GFR <60 ml/min gedurende >3m
 

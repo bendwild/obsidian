@@ -5,7 +5,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-10-19T21:57
-modified: 2025-10-20T14:17
+modified: 2025-10-28T12:46
 ---
 # Reflections
 - composed in advance a non-exhaustive list of orientating topics and research questions < - > [[Grounded theory]] 

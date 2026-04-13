@@ -5,7 +5,7 @@ tags:
   - Genetica
 publish: true
 created: 2025-01-26T22:07
-modified: 2025-05-31T16:54
+modified: 2025-10-28T12:46
 ---
 # Primaire CMP
 ![[image-213.png]]

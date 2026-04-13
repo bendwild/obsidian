@@ -5,7 +5,7 @@ tags:
   - Bewegingsstelsel
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T23:11
+modified: 2025-10-28T12:46
 ---
 
 | SLE<br>(= systemic lupus erythematosus)                                                                                                                                                                                                                                                                    | [[Ziekte van Sjögren]]                                                                                                                                                                                                             | IIM<br>(= idiopathic inflammatory myopathy)                                                                                                                                                                                                 | [[Systeemsclerose]]                                                                                                                                                                                                                                                                                                                                                  | Anti-phospholipiden syndroom                                                                                                                                                                                                              | PMR<br>(= [[Polymyalgia rheumatica]])                                                                                                                |

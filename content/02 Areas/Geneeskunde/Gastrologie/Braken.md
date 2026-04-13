@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-01T20:58
-modified: 2025-06-12T23:02
+modified: 2025-10-28T12:46
 ---
 1. Is er een reden waarom ik **niet** aan gastro-enteritis moet denken?
 	- **geïsoleerd braken** (intracraniële pathologie, intoxicatie, heelkundige urgenties)

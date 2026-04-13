@@ -5,7 +5,7 @@ tags:
   - Klinische-vaardigheden
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-17T23:59
+modified: 2025-10-28T12:46
 ---
 # Positionering
 1. Tafel voldoende omhoog

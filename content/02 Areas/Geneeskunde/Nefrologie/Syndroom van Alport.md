@@ -5,7 +5,7 @@ tags:
   - Genetica
 publish: true
 created: 2025-04-09T14:45
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = genmutatie dat codeert voor **collageen type IV**
 = hereditaire nefritis

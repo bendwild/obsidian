@@ -4,7 +4,7 @@ tags:
   - Papers
 publish: true
 created: 2025-09-21T16:36
-modified: 2025-10-08T13:34
+modified: 2025-10-28T12:46
 ---
 # Reflections
 2 datasets, one about protests, one general survey of youth, linked by district, makes it ecological? individual data?

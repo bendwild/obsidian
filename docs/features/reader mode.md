@@ -2,6 +2,8 @@
 title: Reader Mode
 tags:
   - component
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 Reader Mode is a feature that allows users to focus on the content by hiding the sidebars and other UI elements. When enabled, it provides a clean, distraction-free reading experience.

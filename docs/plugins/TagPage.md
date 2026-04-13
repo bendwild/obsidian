@@ -2,6 +2,8 @@
 title: TagPage
 tags:
   - plugin/emitter
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 This plugin emits dedicated pages for each tag used in the content. See [[folder and tag listings]] for more information.

@@ -3,7 +3,7 @@ tags:
   - Qualitative-research
 publish: true
 created: 2025-10-05T12:38
-modified: 2025-10-12T12:45
+modified: 2025-10-28T12:46
 ---
 # Reflections
 ![[Pasted image 20251006104210.png]]

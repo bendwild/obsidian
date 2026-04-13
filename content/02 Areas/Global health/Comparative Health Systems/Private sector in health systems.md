@@ -1,10 +1,16 @@
 ---
 created: 2026-04-08T09:43
-modified: 2026-04-08T10:00
+modified: 2026-04-13T11:30
 tags:
   - Health-systems
 publish: true
 ---
+# Types of private actors in health systems
+
+| For-profit private                                                            | Non-profit private                     | Informal private                                                  |
+| ----------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------- |
+| - private hospitals<br>- clinical groups<br>- pharmacies<br>- diagnostic labs | - NGO’s<br>- faith-based organizations | - drug sellers<br>- traditional healers<br>- unlicensed providers |
+
 # Why does the private sector exist in health systems?
 
 1. Supply gap
@@ -29,7 +35,10 @@ publish: true
 > The private sector is not necessarily the problem or the solution, it’s a fact in global health
 
 However, you need to be smart with it: 
-
 1. Regulate (set and enforce standards for private providers)
 2. Contract (purchase private services on behalf of public payers, [[public-private partnerships]])
 3. Integrate (bring private providers into referral pathways and information systems)
+
+> [!ATTENTION] Remember: 
+> The private sector reacts to demand, not need
+l

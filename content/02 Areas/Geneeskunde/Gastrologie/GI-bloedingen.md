@@ -4,7 +4,7 @@ tags:
   - Gastrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T23:03
+modified: 2025-10-28T12:46
 ---
 [https://miro.com/app/board/uXjVMUpT2HY=/?share_link_id=878881129471](https://miro.com/app/board/uXjVMUpT2HY=/?share_link_id=878881129471)
 

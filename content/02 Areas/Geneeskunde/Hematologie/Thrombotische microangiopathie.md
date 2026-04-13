@@ -5,7 +5,7 @@ tags:
   - Hematologie
 publish: true
 created: 2025-01-24T12:11
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = groep van aandoeningen gekenmerkt door de *obstructie van de microcirculatie* door trombi 
 

@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-04T16:15
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Fysiologie
 Arbeid = proces van **gecoördineerde, regelmatige uteriene contracties** leidend tot **ontsluiting** met de geboorte van het kind tot gevolg

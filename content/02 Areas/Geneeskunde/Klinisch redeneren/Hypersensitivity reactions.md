@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-24T21:30
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Type 1 - *immediate reaction mediated by IgE antibodies*
 = **immediate reaction** within minutes

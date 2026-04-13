@@ -5,7 +5,7 @@ tags:
   - Klinisch-redeneren
 publish: true
 created: 2025-05-07T22:43
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = manier van beschrijven om letsels systematisch te benaderen
 

@@ -5,7 +5,7 @@ tags:
   - Heelkunde
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-11T09:45
+modified: 2025-10-28T12:46
 ---
 Coronair lijden (vaatwandaantasting coronairen) vormt wereldwijd een groot probleem. De effecten kunnen gaan van **[[Angor]] pectoris** (retrosternale pijnklachten) tot een [[ACS]] (onstabiele [[Angor]], STEMI, NSTEMI) tot zelfs **ischemisch [[Hartfalen]]** (globale hartspierdysfunctie door coronair lijden).
 

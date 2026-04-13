@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-09-15T11:01
-modified: 2025-10-19T23:09
+modified: 2025-10-28T12:46
 ---
 # Definition
 Epidemiology is the study of **how disease is distributed in populations and the factors that influence or determine this distribution.** Basically; “Why does a disease develop in some people and not in others?”

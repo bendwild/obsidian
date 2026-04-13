@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T19:54
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = aantasting witte stof (myeline) van het centraal zenuwstelsel (hersenen & [[Ruggenmerg]]) 
 -> verminderde neuronale geleidingssnelheid

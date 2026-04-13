@@ -1,9 +1,10 @@
 ---
 created: 2026-04-07T13:29
-modified: 2026-04-08T09:43
+modified: 2026-04-13T10:37
 tags:
   - Health-systems
 publish: true
+updated: 2026-04-13T10:37
 ---
 > = how care is organized and provided
 
@@ -15,6 +16,9 @@ publish: true
 | **Secondary level** | - district hospital<br>- regional hospital           | - specialist physician<br>- surgeon                            | - conditions requiring specialist diagnosis or intervention<br>- referrals from primary level                       |
 | **Tertiary level**  | - teaching hospital<br>- national referral hospital  | - sub-specialist<br>- multi-disciplinary teams                 | - complex, rare, or technically demanding (e.g. advanced surgery, oncology, ICU, organ transplant)                  |
 
+> [!INFO] Organization of healthcare services
+> ![[Pasted image 20260413103733.png]]
+
 # Models of delivery
 ![[Pasted image 20260407133804.png]]
 
@@ -25,7 +29,7 @@ publish: true
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Characteristics** | - government owns and operates facilities at all levels<br>- providers are salaried employees<br>- **integrated system** (purchaser and provider are the same entity) | - government role is regulatory and payer (through insurance), **not provider**<br>- most care purchased from private providers | - public and private providers coexist<br>- government may regulate, contract, or subsidize private providers |
 | **Strength**        | - equity (coverage by design)                                                                                                                                         | - high efficiency                                                                                                               | - competition can drive quality *if regulated*                                                                |
-| **Risk**            | - weak incentives<br>- bureaucratic rigidity                                                                                                                          | - high equity risk without strong insurance coverage<br>- administrative costs substantial                                      | - private supply concentrates in urban/wealthy areas (CAVE two-tiered system)                                 |
+| **Risk**            | - weak incentives<br>- bureaucratic rigidity                                                                                                                          | - high equity risk without strong insurance coverage<br>- administrative costs substantial                                      | - private supply concentrates in urban/wealthy areas (CAVE two-tiered system)<br>- more complex system        |
 | **Examples**        | - Cuba<br>- Early NHS                                                                                                                                                 | - US<br>- parts of Germany                                                                                                      | - India<br>- Kenya<br>- most LMIC in practice                                                                 |
 
 > [!attention] Delivery model ≠ Performance of [[healthcare system]]

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-06-01T14:54
-modified: 2025-06-04T10:51
+modified: 2025-10-28T12:46
 ---
 = trauma + 1 v/d MIST criteria (CAVE deze definitie heeft ook zijn eigen performantie)
 - **M** echanism of injury/illness

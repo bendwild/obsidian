@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-03-28T13:53
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # What's in a name
 **NEURODIVERSITY** = erkenning van de diversiteit in the human experience; evolution has created specialist thinkers to bring a variety of expertise to humanity

@@ -5,7 +5,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-03-08T16:52
-modified: 2025-05-26T16:27
+modified: 2025-10-28T12:46
 ---
 # Epidemiologie
 - meest voorkomende tumor bij de man

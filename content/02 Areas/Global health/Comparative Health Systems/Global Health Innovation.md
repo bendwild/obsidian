@@ -3,6 +3,7 @@ tags:
 publish:
 created: 2026-04-08T10:16
 updated: 2026-04-08T10:18
+modified: 2026-04-08T10:18
 ---
 # The structural problem
 1. Donor-funded

@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-01T17:43
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = disbalans tussen de hoeveelheid gefilterd eiwit thv de glomerulus en de terugresorptie/afbraak thv de tubuli
 

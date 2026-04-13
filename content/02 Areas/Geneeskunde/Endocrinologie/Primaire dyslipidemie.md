@@ -6,7 +6,7 @@ tags:
   - Huisarts
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Etiologie
 o **Levensstijl**: sedentair, hoge koolhydraten intake (westers dieet)

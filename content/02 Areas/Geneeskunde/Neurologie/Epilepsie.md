@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-23T01:02
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = stoornis van het gedrag en/of bewustzijn en/of emoties tgv een neurofysiologische stoornis thv de hersenschors/cortex
 

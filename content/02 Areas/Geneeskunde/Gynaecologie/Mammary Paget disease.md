@@ -5,7 +5,7 @@ tags:
   - Dermatologie
 publish: true
 created: 2025-04-27T20:48
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 **Paget disease of the breast** 
 - zeldzame vorm van [[borstkanker]]

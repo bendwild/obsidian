@@ -4,7 +4,7 @@ tags:
   - NKO
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-13T00:27
+modified: 2025-10-28T12:46
 ---
 # Epidemiologie
 - 30/1000 patiënten per jaar bij de huisarts

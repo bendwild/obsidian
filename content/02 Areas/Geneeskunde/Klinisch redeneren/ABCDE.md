@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-26T16:02
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 > [!DANGER] Treat what kills first
 > - vermijd Gestalt' perceptie -> whole is more than the sum of its part (~~tunnelzicht~~)

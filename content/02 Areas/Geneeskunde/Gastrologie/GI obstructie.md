@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-31T23:32
-modified: 2025-06-03T15:57
+modified: 2025-10-28T12:46
 ---
 # Aanpak
 Conservatief (obstructie **zonder peritoneale prikkeling**) 

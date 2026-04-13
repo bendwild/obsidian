@@ -5,7 +5,7 @@ tags:
   - Bewegingsstelsel
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T21:22
+modified: 2025-10-28T12:46
 ---
 # Carpal tunnel syndroom
 -> **meest frequente zenuwcompressie in bovenste lidmaat,** wegens beperking ruimte carpale tunnel

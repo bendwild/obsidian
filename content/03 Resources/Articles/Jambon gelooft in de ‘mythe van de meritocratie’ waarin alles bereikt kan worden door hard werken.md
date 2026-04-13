@@ -3,7 +3,7 @@ tags:
   - Articles
 publish: true
 created: 2025-04-13T13:33
-modified: 2025-10-11T21:17
+modified: 2025-10-28T12:46
 source: https://www.demorgen.be/meningen/jambon-gelooft-in-de-mythe-van-de-meritocratie-waarin-alles-bereikt-kan-worden-door-hard-werken~bbe94f7e/
 ---
 [[@ Viktor Swillens]] is sociaal-cultureel pedagoog aan het Leuvense Laboratorium voor Educatie en Samenleving.

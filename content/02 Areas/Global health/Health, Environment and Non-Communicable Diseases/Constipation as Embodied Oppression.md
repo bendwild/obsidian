@@ -7,7 +7,7 @@ tags:
   - Social-determinants
 publish: true
 created: 2026-04-05T19:49
-modified: 2026-04-05T20:09
+modified: 2026-04-11T15:12
 title: "Constipation as Embodied Oppression: Using Structural Competency in Community Health"
 updated: 2026-04-11T15:12
 ---

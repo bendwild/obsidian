@@ -3,8 +3,9 @@ tags:
   - Health-systems
 publish: true
 created: 2026-04-07T14:05
-modified: 2026-04-07T14:16
+modified: 2026-04-13T10:52
 title: "Medicine’s Dilemmas: Infinite Needs Versus Finite Resources"
+updated: 2026-04-13T10:52
 ---
 ![[Pasted image 20260407141027.png]]
 # Access
@@ -35,4 +36,8 @@ title: "Medicine’s Dilemmas: Infinite Needs Versus Finite Resources"
 
 > [!ATTENTION] The **effective coverage** problem
 > Access without quality = coverage that does not produce health
+
+> [!INFO] HAQ index
+> - the HAQ index measures a health system's ability to deliver effective care by looking at **mortality from conditions that should not be fatal if treated properly**
+> - the underlying assumption: if a country has good access to quality care, deaths from treatable conditions should be low
 

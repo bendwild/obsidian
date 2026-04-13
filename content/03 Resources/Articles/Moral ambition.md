@@ -9,7 +9,7 @@ tags:
   - clippings
   - Articles
   - Professional-growth
-modified: 2025-10-11T21:17
+modified: 2025-10-28T12:46
 publish: true
 ---
 Most working people can be put into one of three categories, from idealistic yet unambitious to greedy and immoral. But there is another option …

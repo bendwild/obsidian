@@ -6,7 +6,7 @@ tags:
   - Rheumatologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-07T22:17
+modified: 2025-10-28T12:46
 ---
 
 |               | Septische [[arthritis]]                                                                                                                                                                                                                                                                                                                         | Tuberculeuze [[arthritis]]                                                                                                                                                                     | Infectieuze/septische spondylodiscitis                                                                                                                                                                                                                                                                  | Tuberculeuze spondylodiscitis                                                                                                                                                                                                             |

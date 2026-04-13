@@ -5,7 +5,7 @@ tags:
   - Genetica
 publish: true
 created: 2025-01-18T14:16
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = meest frequente **AR** aandoening
 	- obv mutaties in **CFTR** gen op chromosoom 7 -> stoornis in **epitheliaal Cl-kanaal** -> verstoorde Na/Cl balans -> bepaalt *viscositeit van secreties* (bronchiaal, intestinaal, pancreas, vas deferens...)

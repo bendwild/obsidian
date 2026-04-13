@@ -6,7 +6,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-18T18:34
-modified: 2025-06-12T23:11
+modified: 2025-10-28T12:46
 ---
 # Kanker bij kinderen
 -> zeldzaam ++ (<1% van alle kankers in België)

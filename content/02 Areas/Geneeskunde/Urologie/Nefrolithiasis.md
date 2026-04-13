@@ -5,7 +5,7 @@ tags:
   - Nefrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-12T00:12
+modified: 2025-10-28T12:46
 ---
 # Etiologie
 -> vorming van kristallen in de urine

@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-23T17:42
+modified: 2025-10-28T12:46
 ---
 # Basic life support
 ## BLS bij volwassene

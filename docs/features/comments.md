@@ -2,6 +2,8 @@
 title: Comments
 tags:
   - component
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 Quartz also has the ability to hook into various providers to enable readers to leave comments on your site.

@@ -4,7 +4,7 @@ tags:
   - Writing
 publish: true
 created: 2025-10-19T21:13
-modified: 2025-10-19T21:57
+modified: 2025-10-28T12:46
 ---
 # Reflections
 - one narrative style does not fit all

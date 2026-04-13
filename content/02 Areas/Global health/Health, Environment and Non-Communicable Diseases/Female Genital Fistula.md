@@ -4,6 +4,7 @@ tags:
 publish: true
 created: 2026-04-09T13:14
 updated: 2026-04-09T13:36
+modified: 2026-04-09T13:36
 ---
 # Etiology
 - Obstructed labor → obstructive fistula

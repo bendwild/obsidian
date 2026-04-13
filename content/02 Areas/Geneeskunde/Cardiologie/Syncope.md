@@ -5,7 +5,7 @@ tags:
   - Klinisch-redeneren
 publish: true
 created: 2025-01-30T09:16
-modified: 2025-06-12T23:03
+modified: 2025-10-28T12:46
 ---
 = transiënte bewustzijnsverlies door **globale cerebrale hypoperfusie**
 - snel begin

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-15T15:10
-modified: 2025-05-11T15:20
+modified: 2025-10-28T12:46
 ---
 = laatste spontane menstruatie (indien retrospectief geen menses gedurende 12m)
 

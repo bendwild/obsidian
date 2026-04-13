@@ -5,7 +5,7 @@ tags:
   - level-6🐛
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-02T17:00
+modified: 2025-10-28T12:46
 ---
 # Differentiaal diagnose
 ## Behandeling

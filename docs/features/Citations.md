@@ -2,6 +2,8 @@
 title: Citations
 tags:
   - feature/transformer
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 Quartz uses [rehype-citation](https://github.com/timlrx/rehype-citation) to support parsing of a BibTex bibliography file.

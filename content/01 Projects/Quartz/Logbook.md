@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-24T22:56
-modified: 2026-02-11T14:52
+modified: 2026-02-12T09:37
 ---
 # 1. Installation 
 

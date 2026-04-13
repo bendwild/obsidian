@@ -5,7 +5,7 @@ tags:
   - Verloskunde
 publish: true
 created: 2025-05-04T15:44
-modified: 2025-05-11T14:34
+modified: 2025-10-28T12:46
 ---
 = acute fatty liver of pregnancy
 = zwangerschapscomplicatie in het **derde trimester** gekenmerkt door **hepatische steatose en acuut leverfalen** 

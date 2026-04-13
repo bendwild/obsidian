@@ -6,7 +6,7 @@ tags:
   - Farmacologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-13T00:41
+modified: 2025-10-28T12:46
 ---
 # Vragen voor opstart antimicrobiële therapie
 1. Heeft de patiënt een infectie?

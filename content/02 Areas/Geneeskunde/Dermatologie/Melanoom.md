@@ -5,7 +5,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-04-27T17:22
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Epidemiologie
 - in België 1000 nieuwe gevallen/j

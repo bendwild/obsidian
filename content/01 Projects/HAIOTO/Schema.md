@@ -3,6 +3,7 @@ created: 2026-04-11T09:25
 updated: 2026-04-11T09:25
 tags:
 publish:
+modified: 2026-04-11T09:25
 ---
 ## WEEK 1 (nu starten) — Oriëntatie + patroonherkenning
 

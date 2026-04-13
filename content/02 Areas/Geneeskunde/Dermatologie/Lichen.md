@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-23T16:38
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 
 |             | Lichen simplex chronicus<br>(= neurodermitis)                                                                                                                                           | Lichen ruber planus                                                                                                                                                                                                                                                                                                                               | Lichen sclerosus et atrophicus                                                                                                                                                                                                 |

@@ -3,7 +3,7 @@ tags:
   - Articles
 publish: true
 created: 2025-04-13T13:55
-modified: 2025-10-11T21:55
+modified: 2025-10-28T12:46
 source: https://www.ravishly.com/2016/06/16/your-obsession-travel-sure-feels-classist-me
 ---
 [[@ David Minerva Clover]]  

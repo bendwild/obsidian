@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-14T21:47
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 = hyperaldosteronisme tgv **aldosteron secreterend bijnier adenoom**
 ![[image-43.png]]

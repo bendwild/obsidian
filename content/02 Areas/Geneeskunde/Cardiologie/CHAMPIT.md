@@ -3,7 +3,7 @@ tags:
   - "#Cardiologie"
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-08T23:33
+modified: 2025-10-28T12:46
 ---
 Acronym for most common etiologies van [[Hartfalen]]:
 - acute **C**oronary syndrome

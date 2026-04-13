@@ -1,7 +1,9 @@
 ---
-title: "Explorer"
+title: Explorer
 tags:
   - component
+created: 2026-02-01T21:47
+modified: 2026-02-01T21:47
 ---
 
 Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.

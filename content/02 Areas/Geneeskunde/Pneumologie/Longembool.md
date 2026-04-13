@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-02-02T13:22
-modified: 2025-06-12T23:09
+modified: 2025-10-28T12:46
 ---
 # Pathofysiologie
 = treedt voornamelijk op als **verwikkeling van een [[DVT]] (40-50% bij patiënten met [[DVT]] OL -> LE)

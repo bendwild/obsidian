@@ -3,7 +3,7 @@ tags:
   - Epidemiology
 publish: true
 created: 2025-09-21T17:01
-modified: 2025-10-21T11:35
+modified: 2025-10-28T12:46
 ---
 > [!info] Base question
 > Were cases more likely to have been exposed than controls?

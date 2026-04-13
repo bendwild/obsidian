@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T16:33
-modified: 2025-05-06T23:13
+modified: 2025-10-28T12:46
 ---
 = a pathophysiologic disorder of the heart and kidneys whereby acute or chronic dysfunction of 1 organ (heart/kidneys) may induce acute or chronic dysfunction of the other organ
 

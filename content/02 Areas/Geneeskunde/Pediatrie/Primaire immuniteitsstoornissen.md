@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-18T15:16
-modified: 2025-06-12T22:56
+modified: 2025-10-28T12:46
 ---
 # Alarmsymptomen
 - ≥4x/j [[Otitis media]] met nood aan AB

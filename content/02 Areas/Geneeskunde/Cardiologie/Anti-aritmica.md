@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-03T16:15
-modified: 2025-05-10T12:10
+modified: 2025-10-28T12:46
 ---
 
 |                  | Klasse I                                                                            | Klasse II                                                                                               | Klasse III                                                                                   | Klasse IV                                                                                 | Klasse V                                                     |

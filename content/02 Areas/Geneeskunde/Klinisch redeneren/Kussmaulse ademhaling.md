@@ -5,7 +5,7 @@ tags:
   - Endocrinologie
 publish: true
 created: 2025-03-16T15:16
-modified: 2025-04-22T16:42
+modified: 2025-10-28T12:46
 media_link: https://www.youtube.com/watch?v=SL-Rwr2e6V8
 ---
 ![[Kussmaulse ademhaling.png]]
