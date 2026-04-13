@@ -3,9 +3,14 @@ tags:
   - level-3🌴
   - "#Cardiologie"
   - Acute-zorg
+  - review
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-06-12T23:03
+updated: 2026-04-11T09:30
+sr-due: 2026-04-14
+sr-interval: 3
+sr-ease: 250
 ---
 Acute Coronary Syndrome is an umbrella term for a spectrum of disease caused by ischaemia of the myocardium. Imagine it like a spectrum, with unstable angina at the less severe of the scale end, and STEMI at the other.
 - GEEN on-off fenomeen -> langzame progressief proces

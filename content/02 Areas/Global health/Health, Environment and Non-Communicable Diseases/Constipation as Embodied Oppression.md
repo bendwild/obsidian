@@ -9,11 +9,12 @@ publish: true
 created: 2026-04-05T19:49
 modified: 2026-04-05T20:09
 title: "Constipation as Embodied Oppression: Using Structural Competency in Community Health"
+updated: 2026-04-11T15:12
 ---
 # Reflections
 
 > [!PDF|255, 208, 0] [[Constipation as Embodied Oppression_26_04_04_09_16_51.pdf#page=2&annotation=20124R|Constipation as Embodied Oppression_26_04_04_09_16_51, p.2]]
-> > [[[[Structural competency]]|[[Structural competen]]cy]] is a concept developed by Jonathan Metzl and Helena Hansen, which they define as “the trained ability to discern how a host of issues defined clinically as symptoms, attitudes, or diseases… also represent the down- stream implications of a number of upstream decisions about such matters as health care and food delivery systems, zoning laws, urban and rural infrastructures, medi- calization, or even about the very definitions of illness and health”
+> > [[Structural competency]] is a concept developed by Jonathan Metzl and Helena Hansen, which they define as “the trained ability to discern how a host of issues defined clinically as symptoms, attitudes, or diseases… also represent the down- stream implications of a number of upstream decisions about such matters as health care and food delivery systems, zoning laws, urban and rural infrastructures, medi- calization, or even about the very definitions of illness and health”
 > 
 > 
 
