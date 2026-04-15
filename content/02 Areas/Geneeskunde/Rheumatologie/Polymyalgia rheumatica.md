@@ -1,10 +1,14 @@
 ---
 created: 2025-04-20T18:12
-modified: 2026-04-04T22:33
+modified: 2026-04-14T09:18
 tags:
   - Rheumatologie
   - level-1🌱
+  - review
 publish: true
+sr-due: 2026-04-16
+sr-interval: 3
+sr-ease: 250
 ---
 ![[image-87.png]]
 # Epidemiologie
@@ -12,7 +16,7 @@ publish: true
 - associatie met **arteritis temporalis** (giant cell arteritis)
 	-> 5-15% van de patiënten met PMR heeft ook GCA
 
-# Kliniek
+# Kliniek 
 ## Symptomen
 - **inflammatoire spierpijn [[schouder]]- en bekkengordel** (pijn op de voorgrond <-> spierzwakte bij myositis)
 	- nachtelijke pijn
@@ -31,7 +35,7 @@ publish: true
 - soms [[Anemie]] tgv chronische inflammatie
 
 ## Diagnostische criteria
-- > 50 jaar
+- +50 jaar
 - bilaterale schouderpijn
 - abnormale ESR en/of CRP waardes
 - ochtendstijfheid > 45min
