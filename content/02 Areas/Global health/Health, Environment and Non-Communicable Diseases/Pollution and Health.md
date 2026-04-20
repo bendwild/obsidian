@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-03-25T16:48
-modified: 2026-03-25T18:21
+modified: 2026-04-19T16:34
 title: "Pollution and Health: a progress update"
 ---
 # Reflections
@@ -28,7 +28,7 @@ title: "Pollution and Health: a progress update"
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=1&annotation=973R|Pollution and health a progress update, p.e535]]
 > > it is increasingly clear that pollution is a planetary threat, and that its drivers, its dispersion, and its effects on health transcend local boundaries and demand a global response. Global action on all major modern pollutants is needed.
-> > - key areas to focus on include air pollution, lead posioning, and chemical pollution
+> > - key areas to focus on include [[air pollution]], lead posioning, and chemical pollution
 
 ## Commission findings on pollution and health
 > [!PDF|187, 97, 229] [[Pollution and health a progress update.pdf#page=1&annotation=976R|Pollution and health a progress update, p.e535]]
@@ -38,13 +38,13 @@ title: "Pollution and Health: a progress update"
 
 ## Death and disease due to pollution in 2019
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=2&annotation=979R|Pollution and health a progress update, p.e536]]
-> > Men are more likely to die from exposure to ambient air pollution, lead pollution,  and  occupational  pollutants  than  women
+> > Men are more likely to die from exposure to ambient [[air pollution]], lead pollution,  and  occupational  pollutants  than  women
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=2&annotation=982R|Pollution and health a progress update, p.e536]]
 > > A comparison of the effects of pollution on morbidity and mortality with those of other risk factors on morbidity and mortality shows that pollution continues to be one of the largest risk factors for disease and premature death globally. The impact of pollution on health remains much greater than that of war, terrorism, [[malaria]], [[HIV]], [[tuberculosis]], drugs, and alcohol, and the number of deaths caused by pollution are on par with those caused by smoking
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=2&annotation=985R|Pollution and health a progress update, p.e536]]
-> > The  decline  in  deaths  from  traditional  pollution (ie, household air pollution from solid fuels and unsafe water, sanitation, and hand washing) is most evident in Africa, where improvements in water supply, sanitation, antibiotics, treatments, and cleaner fuels have made measurable inroads in mortality statistics (figure  2).6 Deaths from the modern forms of pollution (ie, ambient particulate matter air pollution, ambient ozone pollution, lead  exposure,  occupational  carcinogens,  occupational particulate  matter,  gases,  fumes,  and  environmental chemical pollution) have increased substantially over the past 20 years on a global scale.
+> > The  decline  in  deaths  from  traditional  pollution (ie, household [[air pollution]] from solid fuels and unsafe water, sanitation, and hand washing) is most evident in Africa, where improvements in water supply, sanitation, antibiotics, treatments, and cleaner fuels have made measurable inroads in mortality statistics (figure  2).6 Deaths from the modern forms of pollution (ie, ambient particulate matter [[air pollution]], ambient ozone pollution, lead  exposure,  occupational  carcinogens,  occupational particulate  matter,  gases,  fumes,  and  environmental chemical pollution) have increased substantially over the past 20 years on a global scale.
 
 ## Pollution issues of growing concern
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=3&annotation=988R|Pollution and health a progress update, p.e537]]
@@ -59,7 +59,7 @@ title: "Pollution and Health: a progress update"
 > > Today, the principal sources of lead exposure include unsound recycling of lead–acid batteries and e  waste without pollution controls;16–18  spices that are contaminated with lead, pottery glazed with lead salts, which leach out into acidic foods, and lead in paint and other consumer products. 
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=4&annotation=1000R|Pollution and health a progress update, p.e538]]
-> > Air pollution is entwined with climate change because the  emissions  driving  both  development  problems come largely from the same sources
+> > [[Air pollution]] is entwined with climate change because the  emissions  driving  both  development  problems come largely from the same sources
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=4&annotation=1003R|Pollution and health a progress update, p.e538]]
 > > Policies that do not simultaneously optimise climate change  mitigation  and  air  quality  run  the  risk  of causing unanticipated trade  offs or so  called win–lose outcomes, but policies that do can result in synergies that benefit both climate and health
@@ -73,7 +73,7 @@ title: "Pollution and Health: a progress update"
 > > Although most pollution remains near pollution sources in countries of origin, a growing body of evidence shows that transboundary pollutants can travel long distances in  wind,  in  water,  through  the  food  chain,  and  in consumer products
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=5&annotation=1012R|Pollution and health a progress update, p.e539]]
-> > Economic losses associated with 2015 pollution were equal to 6∙2% of world GDP, and 82% of these economic losses  were  attributed  to  ambient  air  pollution  and household air pollution.
+> > Economic losses associated with 2015 pollution were equal to 6∙2% of world GDP, and 82% of these economic losses  were  attributed  to  ambient  air  pollution  and household [[air pollution]].
 > 
 > 
 
@@ -108,7 +108,7 @@ Pillars of pollution response
 > > International organisations and national governments need to continue expanding the focus on pollution as one of  the  triumvirate  of  global  environmental  issues, alongside climate change and biodiversity
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=10&annotation=1030R|Pollution and health a progress update, p.e544]]
-> > Affected countries must focus resources on addressing air pollution, lead pollution, and chemical pollution, which are the key issues in modern pollution.
+> > Affected countries must focus resources on addressing [[air pollution]], lead pollution, and chemical pollution, which are the key issues in modern pollution.
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=10&annotation=1033R|Pollution and health a progress update, p.e544]]
 > > Private  and  government  donors  need  to  allocate funding for pollution management to support HPAP prioritisation processes, monitoring, and programme implementation.
@@ -117,7 +117,7 @@ Pillars of pollution response
 > > All sectors need to integrate pollution control into plans  to  address  other  key  threats  such  as  climate, biodiversity, food, and agriculture
 
 > [!PDF|234, 82, 82] [[Pollution and health a progress update.pdf#page=10&annotation=1039R|Pollution and health a progress update, p.e544]]
-> > International organisations need to establish an SPI for pollution, similar to those for climate and biodiversity, initially for chemicals, waste, and air pollution. International organisations need to revise pollution tracking for the SDGs to correctly represent the effect of  chemicals  pollution  including  heavy  metals
+> > International organisations need to establish an SPI for pollution, similar to those for climate and biodiversity, initially for chemicals, waste, and [[air pollution]]. International organisations need to revise pollution tracking for the SDGs to correctly represent the effect of  chemicals  pollution  including  heavy  metals
 > 
 > 
 

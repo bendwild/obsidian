@@ -4,12 +4,13 @@ tags:
   - global-health
 publish: true
 created: 2026-03-28T13:35
-modified: 2026-04-07T13:31
+modified: 2026-04-19T10:23
 ---
 > = all organizations, people, and actions whose primary intent is to promote, restore, or maintain health (WHO 2000)
 > ≠ health
 > ≠ healthcare
 
+![[Pasted image 20260419102347.png]]
 # Goals
 Health systems decide
 - who gets care

@@ -1,6 +1,6 @@
 ---
 created: 2026-02-12T09:34
-modified: 2026-02-24T23:42
+modified: 2026-04-19T16:11
 tags:
   - Economics
   - Psychologie
@@ -30,7 +30,7 @@ publish: true
 
 | Concept                                    | Explanation                                                                                    | Example                                                                                                     | Counteract                                                                              |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **Present [[bias]]**                       | Discounting future benefits in favor of immediate satisfaction                                 | Binge-eating, postponing tobacco quits to tomorrow (procrastination), underusing preventive care (vaccines) | - Use small incentives when there are big payoffs to be had<br>- Use commitment devices |
+| **Present [[bias]]**                       | Discounting future benefits in favor of immediate satisfaction                                 | Binge-eating, postponing [[tobacco]] quits to tomorrow (procrastination), underusing preventive care (vaccines) | - Use small incentives when there are big payoffs to be had<br>- Use commitment devices |
 | **Cognitive depletion & decision fatigue** | Being drained can deplete our cognitive resources and significantly affect our decision-making | Antibiotics prescription by tired doctors                                                                   |                                                                                         |
 | **Choice overload**                        |                                                                                                |                                                                                                             |                                                                                         |
 | **Hassle factor**                          |                                                                                                |                                                                                                             |                                                                                         |

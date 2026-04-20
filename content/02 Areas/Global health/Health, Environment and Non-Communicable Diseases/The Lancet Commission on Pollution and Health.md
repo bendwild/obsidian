@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-03-25T16:47
-modified: 2026-03-25T17:37
+modified: 2026-04-19T15:56
 ---
 # Reflections
 
@@ -19,7 +19,7 @@ modified: 2026-03-25T17:37
 > > Despite its substantial effects on human health, the economy,  and  the  environment,  pollution  has  been neglected, especially in low-income and middle-income countries, and the health effects of pollution are under- estimated in calculations of the global burden of disease.
 
 > [!PDF|255, 208, 0] [[The Lancet Commission on pollution and health.pdf#page=1&annotation=517R|The Lancet Commission on pollution and health, p.462]]
-> > Although  more  than  70%  of  the  diseases caused by pollution are [[non-communicable diseases]], interventions against pollution are barely mentioned in the Global Action Plan for the Prevention and Control of [[Non-Communicable Diseases]]
+> > Although  more  than  70%  of  the  diseases caused by pollution are [[non-communicable diseases]], interventions against pollution are barely mentioned in the Global Action Plan for the Prevention and Control of [[non-communicable diseases]]. 
 
 > [!PDF|234, 82, 82] [[The Lancet Commission on pollution and health.pdf#page=1&annotation=520R|The Lancet Commission on pollution and health, p.462]]
 > > Pollution is costly. Pollution-related diseases cause productivity losses that reduce gross domestic product (GDP) in low-income to middle-income countries by up to 2% per year. Pollution-related disease also results in health-care  costs  that  are  responsible  for  1·7%  of annual health spending in high-income countries and for up to 7% of health spending in middle-income countries  that  are  heavily  polluted  and  rapidly developing.
@@ -43,10 +43,6 @@ modified: 2026-03-25T17:37
 
 > [!PDF|234, 82, 82] [[The Lancet Commission on pollution and health.pdf#page=2&annotation=538R|The Lancet Commission on pollution and health, p.463]]
 > > Many of the pollution control strategies that have proven cost-effective in high-income and middle-income countries can be exported and adapted by cities and countries at every level of income.
-
-Key recommendations: 
-1. 
-
 
 # Source
 ![[The Lancet Commission on pollution and health.pdf]]

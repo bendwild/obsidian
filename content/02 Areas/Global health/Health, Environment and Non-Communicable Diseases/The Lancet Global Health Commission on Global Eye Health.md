@@ -5,7 +5,7 @@ tags:
   - Papers
 publish: true
 created: 2026-03-31T09:21
-modified: 2026-04-04T21:58
+modified: 2026-04-20T10:12
 title: "The Lancet Global Health Commission on Global Eye Health: vision beyond 2020"
 ---
 # Reflections
@@ -21,7 +21,7 @@ title: "The Lancet Global Health Commission on Global Eye Health: vision beyond 
 > 
 
 > [!PDF|255, 208, 0] [[The Lancet Global Health Commission on Global Eye Health-3.pdf#page=1&annotation=775R|The Lancet Global Health Commission on Global Eye Health-3, p.1]]
-> > [[Cataract]], uncorrected refractive error, [[Glaucoma]], age- related macular degeneration, and [[Diabetic retinopathy]] are  responsible  for  most  global  vision  impairment.
+> > [[Cataract]], uncorrected [[Refractive error]], [[Glaucoma]], age- related macular degeneration, and [[Diabetic retinopathy]] are  responsible  for  most  global  vision  impairment.
 > 
 > 
 

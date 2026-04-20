@@ -4,7 +4,7 @@ tags:
   - Economics
 publish: true
 created: 2026-03-08T15:49
-modified: 2026-03-08T16:33
+modified: 2026-04-19T15:29
 ---
 = principal-agent problem (*for whose interest are health providers working for?*)
 
@@ -23,8 +23,6 @@ Healthcare providers do not work in a [[perfect competition]]
 |                      | - renumeration<br>- management<br>- non-financial incentives<br>- regulations |
 
 **Provider behavior is affected by payments**
-
-
 
 |                                | What?                                                                                                                                      | Pro                                                                                                                                                         | Con                                                                                                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

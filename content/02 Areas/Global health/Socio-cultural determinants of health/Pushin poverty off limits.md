@@ -6,7 +6,7 @@ tags:
   - Papers
 publish: true
 created: 2026-01-24T19:42
-modified: 2026-01-26T15:59
+modified: 2026-04-19T10:23
 title: "Pushing poverty off limits: quality improvements and the architecture of healthcare values"
 ---
 # Reflections
@@ -52,7 +52,7 @@ title: "Pushing poverty off limits: quality improvements and the architecture of
 > 
 
 > [!PDF|234, 82, 82] [[Mitchell et al 2021- Pushing poverty off limits- quality improvement and the architecture of healthcare values.pdf#page=7&annotation=392R|Mitchell et al 2021- Pushing poverty off limits- quality improvement and the architecture of healthcare values, p.7]]
-> > From the perspective of patients and families, the success of the PSI need not depend on it reducing the resource burden on the healthcare system, let alone a particular part of it, nor need it necessarily depend on its having health-specific personal benefits. While better health and fewer hospital readmissions or healthcare visits may very well be perceived as good outcomes by patients and fami- lies, they are not the only or primary things of value that patients and families stand to gain from engaging with local resources designed to help alleviate poverty and social deprivation.
+> > From the perspective of patients and families, the success of the PSI need not depend on it reducing the resource burden on the [[healthcare system]], let alone a particular part of it, nor need it necessarily depend on its having health-specific personal benefits. While better health and fewer hospital readmissions or healthcare visits may very well be perceived as good outcomes by patients and fami- lies, they are not the only or primary things of value that patients and families stand to gain from engaging with local resources designed to help alleviate poverty and social deprivation.
 > 
 > 
 

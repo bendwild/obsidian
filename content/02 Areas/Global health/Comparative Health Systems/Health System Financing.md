@@ -4,7 +4,7 @@ tags:
   - global-health
 publish: true
 created: 2026-03-25T11:01
-modified: 2026-03-31T14:33
+modified: 2026-04-19T16:11
 ---
 > = how money is collected, pooled, and used to purchase health services
 > - revenue collection
@@ -30,7 +30,7 @@ Every health system can be characterized along two fundamental axes:
 | **Out-of-pocket**                                | Private | Patient pays directly at the point of care                               | - public and private providers<br>- access depends on ability to pay          | Pay when sick<br>- no pre-payment, no pooling<br>- least equitable (the sick pay most at the worst time)<br>- ability to pay                                                                                                                                                                                           | ![[Pasted image 20260325111253.png]] | - often dominant system in many LMIC              |
 | **Donor funds/aid**                              | Other   |                                                                          |                                                                               |                                                                                                                                                                                                                                                                                                                        |                                      |                                                   |
 | **Medical saving accounts**                      | Other   |                                                                          |                                                                               |                                                                                                                                                                                                                                                                                                                        |                                      |                                                   |
-| **Hypothecated taxes (alcohol, sugar, tobacco)** | Other   |                                                                          |                                                                               |                                                                                                                                                                                                                                                                                                                        |                                      |                                                   |
+| **Hypothecated taxes (alcohol, sugar, [[tobacco]])** | Other   |                                                                          |                                                                               |                                                                                                                                                                                                                                                                                                                        |                                      |                                                   |
 
 ![[Pasted image 20260325111306.png]]
 

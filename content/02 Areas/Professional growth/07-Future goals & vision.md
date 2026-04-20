@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-04T23:50
-modified: 2026-04-11T09:14
+modified: 2026-04-15T16:51
 updated: 2026-04-11T09:14
 ---
 *A brief look at the path ahead, to infinity and beyond*
@@ -44,6 +44,7 @@ updated: 2026-04-11T09:14
 	- jonge academie
 	- belgian leadership project
 	- European Health Forum Gastein
+- https://hsph.harvard.edu/research/climate-health-c-change/education/
 - Einstein fellowship
 - Internships WHO/Unicef?
 - Young leaders for the SDG -> 2027-2029 cohort

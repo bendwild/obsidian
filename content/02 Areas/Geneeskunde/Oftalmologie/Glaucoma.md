@@ -3,7 +3,7 @@ tags:
   - Oftalmologie
 publish: true
 created: 2026-04-04T21:47
-modified: 2026-04-04T22:44
+modified: 2026-04-20T10:14
 ---
 > = disease of the optic nerve
 
@@ -19,6 +19,7 @@ Causes defects in **peripheral vision**
 - intraocular pressure
 - visualization of optic nerve **(vertical cup-to-disk ratio)**
 	- ophthalmoscopy (direct observation)
+		- ![[Pasted image 20260420101410.png]]
 	- photography
 	- optical coherence tomography
 - structural tests to assess optic nerve
