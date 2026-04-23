@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08T09:43
-modified: 2026-04-13T11:30
+modified: 2026-04-21T23:55
 tags:
   - Health-systems
 publish: true
@@ -35,10 +35,9 @@ publish: true
 > The private sector is not necessarily the problem or the solution, it’s a fact in global health
 
 However, you need to be smart with it: 
-1. Regulate (set and enforce standards for private providers)
-2. Contract (purchase private services on behalf of public payers, [[public-private partnerships]])
-3. Integrate (bring private providers into referral pathways and information systems)
+1. **Regulate** (set and enforce standards for private providers)
+2. **Contract** (purchase private services on behalf of public payers, [[public-private partnerships]])
+3. **Integrate** (bring private providers into referral pathways and information systems)
 
 > [!ATTENTION] Remember: 
 > The private sector reacts to demand, not need
-l

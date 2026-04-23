@@ -1,6 +1,6 @@
 ---
 created: 2026-04-07T13:29
-modified: 2026-04-13T10:37
+modified: 2026-04-20T12:36
 tags:
   - Health-systems
 publish: true
@@ -32,7 +32,7 @@ updated: 2026-04-13T10:37
 | **Risk**            | - weak incentives<br>- bureaucratic rigidity                                                                                                                          | - high equity risk without strong insurance coverage<br>- administrative costs substantial                                      | - private supply concentrates in urban/wealthy areas (CAVE two-tiered system)<br>- more complex system        |
 | **Examples**        | - Cuba<br>- Early NHS                                                                                                                                                 | - US<br>- parts of Germany                                                                                                      | - India<br>- Kenya<br>- most LMIC in practice                                                                 |
 
-> [!attention] Delivery model ≠ Performance of [[healthcare system]]
+> [!attention] Delivery model ≠ Performance of **[[healthcare system]]**
 > What predicts performance is not the ownership model but: 
 > - strong primary care 
 > - organized referral pathways 

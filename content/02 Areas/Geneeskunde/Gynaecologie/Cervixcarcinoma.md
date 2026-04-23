@@ -3,9 +3,10 @@ tags:
   - Gynaecologie
   - level-2🌿
   - Oncologie
+  - Cancer
 publish: true
 created: 2025-03-12T13:26
-modified: 2025-10-28T12:46
+modified: 2026-04-23T10:39
 ---
 # Epidemiologie
 - gemiddelde diagnose -> **54j**

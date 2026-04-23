@@ -3,7 +3,7 @@ tags:
   - Health-systems
 publish: true
 created: 2026-04-08T10:00
-modified: 2026-04-13T11:23
+modified: 2026-04-22T10:14
 ---
 > = a long-term contract between a private party and a government entity, for providing a public asset or service, in which the private party bears significant risk and management responsibility (*World Bank*)
 
@@ -14,8 +14,6 @@ Three elements that must all be present (not just purchasing):
 
 # Examples of PPPs
 
-*from minimal to deep private involvement*
-
 | Type                       | What the private sector does                           | Example                                                   |
 | -------------------------- | ------------------------------------------------------ | --------------------------------------------------------- |
 | Service contract           | Provides specific non-clinical service                 | Private company runs hospital laundry                     |
@@ -23,7 +21,7 @@ Three elements that must all be present (not just purchasing):
 | Clinical services contract | Delivers clinical services to public patients          | Government contracts private surgeons                     |
 | Build-operate-transfer     | Finances, builds, operates, then transfers             | Private hospital built and run, then handed to government |
 | Full concession            | Private entity runs entire facility for defined period | Private management of national referral hospital          |
-
+*from minimal to deep private involvement*
 # Why use PPPs?
 
 1. Fiscal

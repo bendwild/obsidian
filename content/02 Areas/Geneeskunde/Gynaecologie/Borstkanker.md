@@ -4,9 +4,10 @@ tags:
   - level-2🌿
   - Preventie
   - Oncologie
+  - Cancer
 publish: true
 created: 2025-03-14T15:52
-modified: 2025-10-28T12:46
+modified: 2026-04-23T10:39
 ---
 # Epidemiologie
 - 2.5/1000 vrouwen/j

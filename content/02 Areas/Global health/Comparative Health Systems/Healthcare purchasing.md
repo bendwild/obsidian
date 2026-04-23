@@ -4,7 +4,7 @@ tags:
   - global-health
 publish: true
 created: 2026-03-31T14:26
-modified: 2026-04-05T20:52
+modified: 2026-04-22T09:18
 ---
 > = the process by which pooled funds are used to pay providers to deliver health services on behalf of a defined population
 
@@ -17,7 +17,6 @@ modified: 2026-04-05T20:52
 | No accountability        | Contracts, monitoring         |
 
 ## What strategic purchasing requires
-
 
 | Benefit specification                                                                         | Contracting                                                                         | **[[Provider payment mechanisms]]**                                                                      | Performance monitoring               |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------ |

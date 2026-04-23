@@ -3,9 +3,10 @@ tags:
   - Urologie
   - level-3🌴
   - Oncologie
+  - Cancer
 publish: true
 created: 2025-03-08T16:52
-modified: 2025-10-28T12:46
+modified: 2026-04-23T10:38
 ---
 # Epidemiologie
 - meest voorkomende tumor bij de man

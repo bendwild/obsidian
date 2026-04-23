@@ -4,7 +4,7 @@ tags:
   - global-health
 publish: true
 created: 2026-03-31T13:29
-modified: 2026-04-05T20:55
+modified: 2026-04-22T09:11
 ---
 > = a system in which individuals or groups **prepay** into a **pooled** fund that finances health services when needed
 > - prepayment = before illness occurs
@@ -21,11 +21,12 @@ Four key concepts for why insurance (private & public) **fail without regulation
 1. [[Moral hazard]]
 2. [[Adverse selection]] (death spiral)
 3. Externalities
-	1. CAVE markets will under-provide services with positive externalities!
+	1. = unintended, uncompensated social or economic impacts caused by one person's health decisions on others
+	2. CAVE markets will under-provide services with positive externalities!
 4. Merit goods  (= goods that society judges should be consumed regardless of individual ability or willingness to pay)
 
 > Insurance markets fail without policy
-> - mandates
-> - regulation
+> - mandates (mandatory enrolment)
+> - regulation 
 > - risk adjustment
 > - ….
