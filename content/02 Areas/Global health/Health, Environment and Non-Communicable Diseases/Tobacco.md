@@ -4,10 +4,10 @@ tags:
   - NCD
 publish: true
 created: 2026-04-12T17:35
-modified: 2026-04-19T16:21
+modified: 2026-04-23T20:41
 ---
 > Factsheet: 
-> - around 80% of the world's 1.3 billion tobacco users live in lowand middle-income countries
+> - around 80% of the world's 1.3 billion tobacco users live in low_and middle-income countries
 > - tobacco kills up to half of its users who don’t quit
 > - tobacco kills more than 7 million people each year (including an estimated 1.6 million non-smokers exposed to second-hand smoke)
 > - tobacco costs over $1.4 trillion USD / year, close to 2% of the global GDP ( 40% of costs in LMIC)

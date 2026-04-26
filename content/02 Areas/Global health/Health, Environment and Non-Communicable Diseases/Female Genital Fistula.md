@@ -4,7 +4,7 @@ tags:
 publish: true
 created: 2026-04-09T13:14
 updated: 2026-04-09T13:36
-modified: 2026-04-20T10:52
+modified: 2026-04-23T23:11
 ---
 > = a severe childbirth injury, usually caused by **prolonged obstructed labor**
 > - results in an abnormal connection (fistula) between:
@@ -38,6 +38,7 @@ Occurs when the baby cannot pass through the birth canal despite contractions.
 - **Fistula repair surgery** is the main treatment.
 - Access to surgery has improved globally.
 - However, surgery alone is **not sufficient for full recovery**.
+	- Reintegration vs Rehabilitation
 
 ## Post-surgery recovery
 ### Persistent issues:
@@ -59,7 +60,6 @@ Occurs when the baby cannot pass through the birth canal despite contractions.
 - Social support
 - Economic empowerment (skills, income)
 
-
 > [!ATTENTION] Programmatic gaps
 > - Limited evidence on what works best
 > - Most programs:
@@ -70,11 +70,6 @@ Occurs when the baby cannot pass through the birth canal despite contractions.
 > 	- Weak coordination
 > 	- Limited research and data
 
-Evidence suggests:
-- ↑ Self-esteem, knowledge, emotional wellbeing
-- ↓ Depression and stigma
-- ↑ Quality of life and physical strength
-- Modest improvements in economic status
 # [[Global health priorities]]
 
 ## Research:
@@ -91,6 +86,6 @@ Evidence suggests:
 
 > [!important] Main take-aways
 > - Fistula is **preventable** but persists due to weak health systems.
-> - It is not just a medical issue—**social and economic dimensions are critical**.
+> - It is not just a medical issue → **social and economic dimensions are critical**.
 > - Surgery is necessary but **not sufficient** → long-term rehabilitation is essential.
 > - There is a major **gap in evidence-based reintegration programs**.
