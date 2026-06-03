@@ -8,7 +8,9 @@ export const sharedPageComponents: SharedLayout = {
       components: [{ Component: Component.FullWidth() }],
     }),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.MediumZoom(),
+  ],
   footer: Component.Footer({
     links: {
       LinkedIn: "https://www.linkedin.com/in/benjamindewilde/",
@@ -24,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ConditionalRender({
-  component: Component.NoteHeatmap(),
-  condition: (page) => page.fileData.slug === "index",
+      component: Component.NoteHeatmap(),
+      condition: (page) => page.fileData.slug === "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
