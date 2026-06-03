@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FullWidth from "./FullWidth"
 import NoteHeatmap from "./NoteHeatmap"
+import MediumZoom from "./MediumZoom"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   FullWidth,
   NoteHeatmap,
+  MediumZoom,
 }
