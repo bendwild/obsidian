@@ -1,10 +1,13 @@
 import mediumZoom from "medium-zoom"
 
-document.addEventListener("nav", () => {
-  const zoom = mediumZoom("article img", {
-    margin: 24,
-    background: "rgba(0,0,0,0.85)",
-  })
+let zoom: ReturnType<typeof mediumZoom> | undefined
 
-  window.addCleanup?.(() => zoom.detach())
-})
+const setup = () => {
+  zoom?.detach()
+  zoom = mediumZoom("article img", {
+    margin: 24,
+    background: "rgba(0, 0, 0, 0.85)",
+  })
+}
+
+document.addEventListener("nav", setup)
