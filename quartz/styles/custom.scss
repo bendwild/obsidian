@@ -47,8 +47,16 @@ body {
   text-rendering: optimizeLegibility;
 
   background-image:
-    linear-gradient(to right, rgba(102, 153, 102, 0.07) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(102, 153, 102, 0.07) 1px, transparent 1px);
+    linear-gradient(
+      to right,
+      rgba(102, 153, 102, 0.07) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      to bottom,
+      rgba(102, 153, 102, 0.07) 1px,
+      transparent 1px
+    );
   background-size: 40px 40px;
   background-attachment: fixed;
 }
@@ -64,8 +72,16 @@ body::before {
   inset: 0;
   pointer-events: none;
   background:
-    radial-gradient(900px 420px at 8% 18%, rgba(137, 199, 127, 0.12), transparent 72%),
-    radial-gradient(700px 360px at 90% 82%, rgba(179, 226, 182, 0.1), transparent 72%);
+    radial-gradient(
+      900px 420px at 8% 18%,
+      rgba(137, 199, 127, 0.12),
+      transparent 72%
+    ),
+    radial-gradient(
+      700px 360px at 90% 82%,
+      rgba(179, 226, 182, 0.1),
+      transparent 72%
+    );
   z-index: -2;
 }
 
@@ -229,7 +245,10 @@ a {
   text-decoration-style: wavy;
   text-decoration-thickness: 1.3px;
   text-underline-offset: 0.14em;
-  transition: color 0.16s ease, opacity 0.16s ease, transform 0.16s ease;
+  transition:
+    color 0.16s ease,
+    opacity 0.16s ease,
+    transform 0.16s ease;
 }
 
 a:hover {
@@ -335,7 +354,7 @@ body.dark .tags .tag {
 }
 
 /* ==========================================================================
-   Sidebar / explorer / search
+   Sidebar / explorer / search / graph / table of contents
    ========================================================================== */
 
 .sidebar {
@@ -346,7 +365,8 @@ body.dark .tags .tag {
 .sidebar .search,
 .sidebar .explorer,
 .sidebar .backlinks,
-.sidebar .graph {
+.sidebar .graph,
+.sidebar .toc {
   margin-bottom: 1rem;
 }
 
@@ -358,7 +378,152 @@ body.dark .tags .tag {
   color: var(--green-800);
 }
 
-/* Generic form controls */
+/* --------------------------------------------------------------------------
+   Explorer
+   -------------------------------------------------------------------------- */
+
+.sidebar .explorer,
+.sidebar .explorer a,
+.sidebar .explorer .folder-title,
+.sidebar .explorer .folder-container,
+.sidebar .explorer .explorer-content {
+  color: var(--text) !important;
+  opacity: 1 !important;
+}
+
+.sidebar .explorer a {
+  color: var(--green-800) !important;
+}
+
+.sidebar .explorer a:hover,
+.sidebar .explorer .folder-title:hover {
+  color: var(--green-700) !important;
+}
+
+/* Prevent nested explorer items from becoming excessively faint. */
+.sidebar .explorer .folder-container,
+.sidebar .explorer .folder-container a {
+  opacity: 1 !important;
+}
+
+/* --------------------------------------------------------------------------
+   Table of contents
+   -------------------------------------------------------------------------- */
+
+.sidebar .toc,
+.sidebar .toc a,
+.sidebar .toc .depth-0,
+.sidebar .toc .depth-1,
+.sidebar .toc .depth-2,
+.sidebar .toc .depth-3 {
+  color: var(--text) !important;
+  opacity: 1 !important;
+}
+
+.sidebar .toc a {
+  color: var(--green-800) !important;
+}
+
+.sidebar .toc a:hover {
+  color: var(--green-700) !important;
+}
+
+/* --------------------------------------------------------------------------
+   Search
+   -------------------------------------------------------------------------- */
+
+/*
+   Override the generic input styling below specifically for Quartz search.
+   The search box should visually disappear into the page background.
+*/
+
+.sidebar .search {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.sidebar .search input,
+.sidebar input[type="search"] {
+  font: inherit;
+  color: var(--text) !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+  caret-color: var(--green-700);
+}
+
+.sidebar .search input:focus,
+.sidebar input[type="search"]:focus {
+  color: var(--text) !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.sidebar .search input::placeholder,
+.sidebar input[type="search"]::placeholder {
+  color: var(--text-muted) !important;
+  opacity: 1;
+}
+
+/*
+   Keep the search icon itself subtle and theme-consistent where Quartz
+   exposes it as an SVG.
+*/
+.sidebar .search svg {
+  color: var(--text-muted);
+  stroke: currentColor;
+}
+
+/* --------------------------------------------------------------------------
+   Graph
+   -------------------------------------------------------------------------- */
+
+/*
+   Remove the card-like treatment so Graph View sits directly on the
+   notebook background.
+*/
+
+.sidebar .graph,
+.sidebar .graph-container {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Prevent a nested graph surface from introducing another background. */
+.sidebar .graph canvas,
+.sidebar .graph svg {
+  background: transparent !important;
+}
+
+/*
+   Theme the graph text and visible SVG elements toward the same palette
+   used by the rest of the notebook.
+*/
+.sidebar .graph text,
+.sidebar .graph .node-label {
+  fill: var(--green-800) !important;
+  color: var(--green-800) !important;
+}
+
+.sidebar .graph .link {
+  stroke: var(--border) !important;
+}
+
+.sidebar .graph .node {
+  fill: var(--green-500) !important;
+  stroke: var(--green-700) !important;
+}
+
+/* --------------------------------------------------------------------------
+   Generic form controls
+   -------------------------------------------------------------------------- */
+
 input,
 textarea,
 select {
@@ -472,7 +637,10 @@ embed[src*=".pdf"] {
   border-radius: 12px;
   box-shadow: 0 8px 20px var(--shadow);
   cursor: pointer;
-  transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+  transition:
+    transform 0.16s ease,
+    box-shadow 0.16s ease,
+    border-color 0.16s ease;
 }
 
 #full-width-toggle:hover {
@@ -530,7 +698,10 @@ embed[src*=".pdf"] {
 
 .note-heatmap-cell {
   cursor: pointer;
-  transition: opacity 0.12s ease, filter 0.12s ease, stroke 0.12s ease;
+  transition:
+    opacity 0.12s ease,
+    filter 0.12s ease,
+    stroke 0.12s ease;
 }
 
 .note-heatmap-cell:hover {
@@ -553,6 +724,7 @@ main {
     opacity: 0;
     transform: translateY(6px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);

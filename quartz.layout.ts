@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
       components: [{ Component: Component.FullWidth() }],
     }),
   ],
-  afterBody: [
-    Component.MediumZoom(),
+    afterBody: [
   ],
   footer: Component.Footer({
     links: {
