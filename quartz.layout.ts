@@ -8,6 +8,8 @@ export const sharedPageComponents: SharedLayout = {
       components: [{ Component: Component.FullWidth() }],
     }),
   ],
+    afterBody: [
+  ],
   footer: Component.Footer({
     links: {
       LinkedIn: "https://www.linkedin.com/in/benjamindewilde/",
