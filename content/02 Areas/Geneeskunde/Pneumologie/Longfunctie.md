@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-3🌴
   - Klinisch-redeneren
 publish: true
 created: 2025-02-02T12:05

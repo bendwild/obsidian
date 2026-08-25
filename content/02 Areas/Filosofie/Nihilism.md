@@ -1,7 +1,6 @@
 ---
 tags:
   - Filosofie
-  - level-1🌱
 publish: true
 created: 2025-01-21T22:37
 modified: 2026-02-12T09:34

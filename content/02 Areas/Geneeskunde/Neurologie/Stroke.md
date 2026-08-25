@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Neurologie
   - Acute-zorg
 publish: true

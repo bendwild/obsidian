@@ -1,7 +1,6 @@
 ---
 tags:
   - Oftalmologie
-  - level-2🌿
   - Neurologie
 publish: true
 created: 2025-04-10T16:31

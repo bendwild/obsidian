@@ -6,6 +6,5 @@ tags:
   - Huisarts
   - thegooddoctor
   - Papers
-  - level-6🐛
 ---
 ![[bmj.l5978.full.pdf]]

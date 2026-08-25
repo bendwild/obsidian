@@ -2,7 +2,6 @@
 tags:
   - Orthopedie
   - Bewegingsstelsel
-  - level-2🌿
 publish: true
 created: 2025-02-22T18:00
 modified: 2025-10-28T12:46

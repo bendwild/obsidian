@@ -5,6 +5,5 @@ modified: 2026-04-08T10:14
 tags:
   - thegooddoctor
   - Knowledge-production
-  - level-0🫘
   - Quotes
 ---

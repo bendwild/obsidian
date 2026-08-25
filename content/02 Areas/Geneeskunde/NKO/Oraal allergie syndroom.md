@@ -1,7 +1,6 @@
 ---
 tags:
   - NKO
-  - level-2🌿
 publish: true
 created: 2025-05-24T23:02
 modified: 2026-03-04T14:28

@@ -3,8 +3,7 @@ tags:
   - Research
 publish: true
 created: 2026-04-08T13:39
-updated: 2026-04-08T13:41
-modified: 2026-04-08T13:41
+modified: 2026-08-26T00:24:19+02:00
 ---
 
 | Title                                | What                                                                                                                                                                                                                                                             | Link                          |

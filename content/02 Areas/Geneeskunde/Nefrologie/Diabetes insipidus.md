@@ -2,7 +2,6 @@
 tags:
   - Endocrinologie
   - Nefrologie
-  - level-2🌿
 publish: true
 created: 2025-04-12T10:28
 modified: 2025-10-28T12:46

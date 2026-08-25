@@ -1,7 +1,6 @@
 ---
 tags:
   - Orthopedie
-  - level-3🌴
   - Bewegingsstelsel
 publish: true
 created: 2025-02-18T21:45

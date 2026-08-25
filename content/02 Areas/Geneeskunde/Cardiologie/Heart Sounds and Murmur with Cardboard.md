@@ -7,8 +7,7 @@ created: 2024-12-27
 description: "This video explains about #heart sounds and #murmur using a #cardboard box."
 tags:
   - clippings
-  - "#Cardiologie"
-  - level-3🌴
+  - Cardiologie
 publish: true
 modified: 2026-03-04T14:28
 ---

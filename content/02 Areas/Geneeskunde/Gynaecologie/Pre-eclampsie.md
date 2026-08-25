@@ -1,7 +1,6 @@
 ---
 tags:
   - Gynaecologie
-  - level-2🌿
   - Verloskunde
 publish: true
 created: 2025-03-02T23:07

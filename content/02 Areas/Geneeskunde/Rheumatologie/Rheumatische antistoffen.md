@@ -2,7 +2,6 @@
 tags:
   - Rheumatologie
   - Bewegingsstelsel
-  - level-1🌱
 publish: true
 created: 2025-04-20T17:58
 modified: 2025-10-28T12:46

@@ -2,7 +2,6 @@
 tags:
   - Urologie
   - Nefrologie
-  - level-2🌿
 publish: true
 created: 2025-05-06T14:18
 modified: 2025-10-28T12:46

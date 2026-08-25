@@ -1,7 +1,6 @@
 ---
 tags:
   - Huisarts
-  - level-1🌱
 publish: true
 created: 2025-02-22T19:22
 modified: 2025-10-28T12:46

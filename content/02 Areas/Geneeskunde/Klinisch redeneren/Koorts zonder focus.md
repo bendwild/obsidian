@@ -1,7 +1,6 @@
 ---
 tags:
   - Klinisch-redeneren
-  - level-1🌱
   - Infectiologie
 publish: true
 created: 2025-06-01T12:25

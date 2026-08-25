@@ -4,7 +4,6 @@ modified: 2026-04-04T22:33
 tags:
   - Acute-zorg
   - Pneumologie
-  - level-2🌿
 publish: true
 ---
 # Hypersensitivity reactions

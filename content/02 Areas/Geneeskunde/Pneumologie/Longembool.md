@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-3🌴
   - Acute-zorg
 publish: true
 created: 2025-02-02T13:22

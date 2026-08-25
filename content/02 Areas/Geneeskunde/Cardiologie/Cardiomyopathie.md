@@ -1,7 +1,6 @@
 ---
 tags:
   - Cardiologie
-  - level-3🌴
   - Genetica
 publish: true
 created: 2025-01-26T22:07

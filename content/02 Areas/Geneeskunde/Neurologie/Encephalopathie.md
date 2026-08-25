@@ -1,7 +1,6 @@
 ---
 tags:
   - Neurologie
-  - level-2🌿
   - Gastrologie
 publish: true
 created: 2025-04-23T22:32

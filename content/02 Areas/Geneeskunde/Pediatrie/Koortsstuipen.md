@@ -2,7 +2,6 @@
 tags:
   - Neurologie
   - Pediatrie
-  - level-1🌱
 publish: true
 created: 2025-03-23T21:57
 modified: 2025-10-28T12:46

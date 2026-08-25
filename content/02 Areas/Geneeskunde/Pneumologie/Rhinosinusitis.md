@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Pneumologie
   - NKO
 publish: true

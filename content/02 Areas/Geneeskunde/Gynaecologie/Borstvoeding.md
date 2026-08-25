@@ -2,7 +2,6 @@
 tags:
   - Gynaecologie
   - Huisarts
-  - level-2🌿
   - Pediatrie
 publish: true
 created: 2025-02-24T12:40

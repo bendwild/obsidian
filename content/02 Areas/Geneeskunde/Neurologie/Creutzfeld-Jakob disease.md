@@ -1,7 +1,6 @@
 ---
 tags:
   - Neurologie
-  - level-2🌿
 publish: true
 created: 2025-03-16T15:16
 modified: 2025-10-28T12:46

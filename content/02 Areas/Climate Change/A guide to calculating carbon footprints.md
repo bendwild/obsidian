@@ -4,7 +4,6 @@ modified: 2026-02-02T13:31
 publish: true
 tags:
   - climate-change
-  - level-0🫘
 ---
 # 1. Goal and boundaries
 - what we are measuring 

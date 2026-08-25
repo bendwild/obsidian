@@ -1,7 +1,6 @@
 ---
 tags:
   - Gynaecologie
-  - level-1🌱
   - Verloskunde
   - Hematologie
 publish: true

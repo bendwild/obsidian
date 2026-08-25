@@ -1,7 +1,6 @@
 ---
 tags:
   - Farmacologie
-  - level-1🌱
   - Cardiologie
 publish: true
 created: 2025-04-21T13:57

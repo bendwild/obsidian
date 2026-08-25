@@ -2,7 +2,6 @@
 tags:
   - Personal-growth
   - Filosofie
-  - level-1🌱
   - Ethics
 publish: true
 created: 2025-04-14T12:29

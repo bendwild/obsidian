@@ -1,7 +1,6 @@
 ---
 tags:
   - Ethics
-  - level-1🌱
   - Filosofie
 publish:
 created: 2025-04-23T13:09

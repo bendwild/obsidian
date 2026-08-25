@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-2🌿
 publish: true
 created: 2025-05-08T16:31
 modified: 2025-10-28T12:46

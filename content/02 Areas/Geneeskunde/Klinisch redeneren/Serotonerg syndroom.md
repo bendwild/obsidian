@@ -1,7 +1,6 @@
 ---
 tags:
   - Farmacologie
-  - level-2🌿
   - Psychiatrie
 publish: true
 created: 2025-05-14T10:31

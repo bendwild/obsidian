@@ -1,7 +1,6 @@
 ---
 tags:
   - Urologie
-  - level-1🌱
 publish: true
 created: 2025-05-06T21:08
 modified: 2025-10-28T12:46

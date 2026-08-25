@@ -3,7 +3,6 @@ created: 2025-04-30T23:19
 modified: 2025-10-28T12:46
 tags:
   - Neurologie
-  - level-3🌴
 publish: true
 ---
 = degeneratieve aandoening van het **extra-pyramidaal** systeem

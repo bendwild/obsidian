@@ -2,7 +2,6 @@
 tags:
   - Klinische-vaardigheden
   - Pediatrie
-  - level-2🌿
 publish: true
 created: 2025-05-14T21:36
 modified: 2025-10-28T12:46

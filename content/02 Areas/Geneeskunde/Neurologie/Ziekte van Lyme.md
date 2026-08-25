@@ -1,7 +1,6 @@
 ---
 tags:
   - Infectiologie
-  - level-1🌱
   - Neurologie
 publish: true
 created: 2025-03-13T21:22

@@ -1,7 +1,6 @@
 ---
 tags:
   - Hematologie
-  - level-2🌿
 publish: true
 created: 2025-05-08T13:53
 modified: 2026-04-04T22:33

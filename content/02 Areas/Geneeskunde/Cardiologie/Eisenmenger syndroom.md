@@ -2,7 +2,6 @@
 tags:
   - Cardiologie
   - Pediatrie
-  - level-1🌱
 publish: true
 created: 2025-05-02T19:41
 modified: 2025-10-28T12:46

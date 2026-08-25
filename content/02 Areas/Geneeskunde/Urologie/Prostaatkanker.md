@@ -1,7 +1,6 @@
 ---
 tags:
   - Urologie
-  - level-3🌴
   - Oncologie
   - Cancer
 publish: true

@@ -1,7 +1,6 @@
 ---
 tags:
   - Genetica
-  - level-1🌱
   - Bewegingsstelsel
   - Cardiologie
 publish: true

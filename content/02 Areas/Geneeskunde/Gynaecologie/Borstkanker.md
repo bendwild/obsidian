@@ -1,7 +1,6 @@
 ---
 tags:
   - Gynaecologie
-  - level-2🌿
   - Preventie
   - Oncologie
   - Cancer

@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Pediatrie
   - Infectiologie
 publish: true

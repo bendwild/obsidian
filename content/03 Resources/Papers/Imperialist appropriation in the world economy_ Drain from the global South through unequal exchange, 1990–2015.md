@@ -2,7 +2,6 @@
 tags:
   - global-health
   - Imperialisme
-  - level-6🐛
   - Articles
 publish: true
 created: 2025-04-15T22:08

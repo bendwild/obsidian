@@ -1,7 +1,6 @@
 ---
 tags:
   - Rheumatologie
-  - level-1🌱
 publish: true
 created: 2025-03-13T22:05
 modified: 2025-10-28T12:46

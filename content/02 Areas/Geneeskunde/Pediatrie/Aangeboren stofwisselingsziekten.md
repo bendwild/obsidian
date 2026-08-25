@@ -2,7 +2,6 @@
 tags:
   - Pediatrie
   - Endocrinologie
-  - level-2🌿
 publish: true
 created: 2025-01-18T17:09
 modified: 2026-04-04T21:43

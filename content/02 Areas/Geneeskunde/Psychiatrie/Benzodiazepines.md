@@ -2,7 +2,6 @@
 tags:
   - Farmacologie
   - Huisarts
-  - level-1🌱
   - Psychiatrie
 publish: true
 created: 2025-02-14T17:09

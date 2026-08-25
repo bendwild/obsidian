@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-5🪱
   - Epidemiology
 publish: true
 created: 2025-09-13T21:16

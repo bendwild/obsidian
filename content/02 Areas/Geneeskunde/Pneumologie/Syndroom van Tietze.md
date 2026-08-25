@@ -1,7 +1,6 @@
 ---
 tags:
   - Bewegingsstelsel
-  - level-1🌱
   - Pneumologie
 publish: true
 created: 2025-03-15T17:10

@@ -2,7 +2,6 @@
 tags:
   - Nefrologie
   - Farmacologie
-  - level-1🌱
 publish: true
 created: 2025-05-06T22:49
 modified: 2025-10-28T12:46

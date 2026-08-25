@@ -2,7 +2,6 @@
 tags:
   - Cardiologie
   - Huisarts
-  - level-2🌿
   - Preventie
 publish: true
 created: 2025-01-29T20:46

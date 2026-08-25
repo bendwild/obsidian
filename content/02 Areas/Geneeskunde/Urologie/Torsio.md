@@ -2,7 +2,6 @@
 tags:
   - Gynaecologie
   - Urologie
-  - level-2🌿
   - Acute-zorg
 publish: true
 created: 2025-05-01T22:42

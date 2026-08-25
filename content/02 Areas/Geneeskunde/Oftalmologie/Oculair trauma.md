@@ -1,7 +1,6 @@
 ---
 tags:
   - Oftalmologie
-  - level-1🌱
   - Acute-zorg
 publish: true
 created: 2025-04-25T15:51

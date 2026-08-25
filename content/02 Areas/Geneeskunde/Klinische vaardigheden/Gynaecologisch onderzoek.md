@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Gynaecologie
   - Klinische-vaardigheden
 publish: true

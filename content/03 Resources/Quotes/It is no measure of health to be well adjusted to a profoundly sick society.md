@@ -5,7 +5,6 @@ modified: 2026-02-02T13:31
 tags:
   - thegooddoctor
   - global-health
-  - level-0🫘
   - Quotes
 person:
 ---

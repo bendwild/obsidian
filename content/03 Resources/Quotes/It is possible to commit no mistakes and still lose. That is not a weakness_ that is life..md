@@ -5,6 +5,5 @@ modified: 2026-04-08T10:14
 tags:
   - Quotes
   - Personal-growth
-  - level-0🫘
 ---
 [[@ Jean Picard]]

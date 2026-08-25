@@ -2,7 +2,6 @@
 tags:
   - Concepts
   - Ethics
-  - level-1🌱
 publish: true
 created: 2025-04-22T18:15
 modified: 2026-04-04T23:13

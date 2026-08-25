@@ -2,7 +2,6 @@
 tags:
   - Pneumologie
   - Huisarts
-  - level-2🌿
 publish: true
 created: 2025-02-24T21:30
 modified: 2025-10-28T12:46

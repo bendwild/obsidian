@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-3🌴
   - Genetica
 publish: true
 created: 2025-01-18T14:16

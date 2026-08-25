@@ -2,7 +2,6 @@
 tags:
   - Dermatologie
   - Oftalmologie
-  - level-3🌴
   - Pediatrie
 publish: true
 created: 2025-03-13T22:04

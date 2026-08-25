@@ -1,7 +1,6 @@
 ---
 tags:
   - Nefrologie
-  - level-3🌴
   - Genetica
 publish: true
 created: 2025-03-13T21:45

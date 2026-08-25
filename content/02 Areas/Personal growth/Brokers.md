@@ -1,7 +1,6 @@
 ---
 tags:
   - Finance
-  - level-2🌿
 publish: true
 created: 2025-04-15T11:13
 modified: 2026-02-12T09:34

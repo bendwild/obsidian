@@ -2,7 +2,6 @@
 tags:
   - Nefrologie
   - Oncologie
-  - level-1🌱
 publish: true
 created: 2025-05-06T15:17
 modified: 2025-10-28T12:46

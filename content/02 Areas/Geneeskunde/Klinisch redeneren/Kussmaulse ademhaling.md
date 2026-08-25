@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-1🌱
   - Endocrinologie
 publish: true
 created: 2025-03-16T15:16

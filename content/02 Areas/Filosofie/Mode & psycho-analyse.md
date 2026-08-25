@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-0🫘
   - Psychologie
 publish: true
 created: 2025-01-16T22:12

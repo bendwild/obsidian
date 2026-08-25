@@ -2,7 +2,6 @@
 tags:
   - Finance
   - Ethics
-  - level-1🌱
 publish: true
 created: 2025-04-15T11:04
 modified: 2026-04-08T10:14

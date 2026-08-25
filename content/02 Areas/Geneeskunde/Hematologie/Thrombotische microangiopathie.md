@@ -1,7 +1,6 @@
 ---
 tags:
   - Nefrologie
-  - level-2🌿
   - Hematologie
 publish: true
 created: 2025-01-24T12:11

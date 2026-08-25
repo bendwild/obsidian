@@ -1,7 +1,6 @@
 ---
 tags:
   - Cardiologie
-  - level-3🌴
 publish: true
 created: 2025-01-26T20:01
 modified: 2026-02-03T14:10

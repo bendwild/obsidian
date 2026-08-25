@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-1🌱
   - Gynaecologie
   - Dermatologie
 publish: true

@@ -1,7 +1,6 @@
 ---
 tags:
   - NKO
-  - level-2🌿
   - Pediatrie
 publish: true
 created: 2025-03-16T15:16

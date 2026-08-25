@@ -1,7 +1,6 @@
 ---
 tags:
   - Neurologie
-  - level-6🐛
 publish: true
 created: 2025-04-25T11:36
 modified: 2025-10-28T12:46

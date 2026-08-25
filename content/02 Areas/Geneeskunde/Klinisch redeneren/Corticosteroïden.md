@@ -1,7 +1,6 @@
 ---
 tags:
   - Farmacologie
-  - level-2🌿
 publish: true
 created: 2025-05-09T11:38
 modified: 2026-04-04T21:43

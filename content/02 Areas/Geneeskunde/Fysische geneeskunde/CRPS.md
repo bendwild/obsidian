@@ -1,7 +1,6 @@
 ---
 tags:
   - Bewegingsstelsel
-  - level-2🌿
   - Fysische-geneeskunde
 publish: true
 created: 2025-03-13T21:44

@@ -2,7 +2,6 @@
 tags:
   - Acute-zorg
   - Neurologie
-  - level-1🌱
 publish: true
 created: 2025-04-30T15:12
 modified: 2025-11-03T23:39

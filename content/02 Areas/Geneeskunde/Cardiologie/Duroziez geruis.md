@@ -1,7 +1,6 @@
 ---
 tags:
   - Cardiologie
-  - level-1🌱
   - Klinische-vaardigheden
 publish: true
 created: 2025-04-09T23:23

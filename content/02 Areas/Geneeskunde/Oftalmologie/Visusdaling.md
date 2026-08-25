@@ -1,7 +1,6 @@
 ---
 tags:
   - Oftalmologie
-  - level-1🌱
 publish: true
 created: 2025-04-25T15:58
 modified: 2026-04-23T22:43

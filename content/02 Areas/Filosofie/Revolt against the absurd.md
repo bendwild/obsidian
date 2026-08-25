@@ -2,7 +2,6 @@
 tags:
   - Filosofie
   - Personal-growth
-  - level-1🌱
 publish: true
 created: 2025-03-27T22:31
 modified: 2026-04-08T10:14

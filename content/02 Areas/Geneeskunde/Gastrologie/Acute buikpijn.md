@@ -2,7 +2,6 @@
 tags:
   - Gastrologie
   - Klinisch-redeneren
-  - level-1🌱
   - Acute-zorg
 publish: true
 created: 2025-04-29T09:14

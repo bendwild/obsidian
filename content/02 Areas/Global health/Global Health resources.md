@@ -1,7 +1,6 @@
 ---
 tags:
   - global-health
-  - level-1🌱
 publish: true
 created: 2025-07-05T00:23
 modified: 2026-04-08T10:14

@@ -1,7 +1,6 @@
 ---
 tags:
   - Klinisch-redeneren
-  - level-2🌿
 publish: true
 created: 2025-05-10T15:36
 modified: 2025-10-28T12:46

@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-1🌱
   - Endocrinologie
   - Bewegingsstelsel
   - Orthopedie

@@ -1,7 +1,6 @@
 ---
 tags:
   - Concepts
-  - level-2🌿
 publish: true
 created: 2025-04-05T15:44
 modified: 2026-02-18T09:41

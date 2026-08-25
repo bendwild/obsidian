@@ -2,7 +2,6 @@
 tags:
   - global-health
   - climate-change
-  - level-1🌱
 publish: true
 created: 2025-06-13T14:17
 modified: 2026-04-08T10:14

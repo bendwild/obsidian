@@ -2,7 +2,6 @@
 tags:
   - Cardiologie
   - Nefrologie
-  - level-2🌿
 publish: true
 created: 2025-03-15T16:33
 modified: 2025-10-28T12:46

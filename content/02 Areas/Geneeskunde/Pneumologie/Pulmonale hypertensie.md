@@ -2,7 +2,6 @@
 tags:
   - Pneumologie
   - Cardiologie
-  - level-2🌿
 publish: true
 created: 2025-02-02T13:50
 modified: 2025-10-28T12:46

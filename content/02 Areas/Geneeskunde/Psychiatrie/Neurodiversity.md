@@ -2,7 +2,6 @@
 tags:
   - Psychiatrie
   - Psychologie
-  - level-1🌱
 publish: true
 created: 2025-03-28T13:53
 modified: 2025-10-28T12:46

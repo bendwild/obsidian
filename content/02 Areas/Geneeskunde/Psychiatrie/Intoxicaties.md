@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-2🌿
   - Psychiatrie
   - Acute-zorg
 publish: true

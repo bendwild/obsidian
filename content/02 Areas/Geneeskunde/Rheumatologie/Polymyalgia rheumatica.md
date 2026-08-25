@@ -3,7 +3,6 @@ created: 2025-04-20T18:12
 modified: 2026-04-14T09:18
 tags:
   - Rheumatologie
-  - level-1🌱
   - review
 publish: true
 sr-due: 2026-04-16

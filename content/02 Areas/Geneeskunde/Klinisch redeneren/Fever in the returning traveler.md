@@ -1,7 +1,6 @@
 ---
 tags:
   - global-health
-  - level-6🐛
   - Huisarts
 publish: true
 created: 2025-04-30T11:26

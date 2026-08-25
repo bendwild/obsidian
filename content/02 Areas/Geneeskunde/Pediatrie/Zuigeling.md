@@ -2,7 +2,6 @@
 tags:
   - Pediatrie
   - Huisarts
-  - level-2🌿
 publish: true
 created: 2025-02-24T12:51
 modified: 2026-02-12T10:27

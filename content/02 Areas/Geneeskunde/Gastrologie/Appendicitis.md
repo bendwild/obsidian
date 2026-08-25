@@ -1,7 +1,6 @@
 ---
 tags:
   - Gastrologie
-  - level-3🌴
   - Acute-zorg
 publish: true
 created: 2025-03-12T21:29

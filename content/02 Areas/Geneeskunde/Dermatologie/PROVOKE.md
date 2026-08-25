@@ -1,7 +1,6 @@
 ---
 tags:
   - Dermatologie
-  - level-2🌿
   - Klinisch-redeneren
 publish: true
 created: 2025-05-07T22:43

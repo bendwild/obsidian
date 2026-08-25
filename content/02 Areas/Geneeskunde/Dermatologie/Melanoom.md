@@ -1,7 +1,6 @@
 ---
 tags:
   - Dermatologie
-  - level-2🌿
   - Oncologie
 publish: true
 created: 2025-04-27T17:22

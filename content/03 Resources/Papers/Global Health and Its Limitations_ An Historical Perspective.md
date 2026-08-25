@@ -1,7 +1,6 @@
 ---
 tags:
   - Papers
-  - level-6🐛
   - global-health
 publish: true
 created: 2025-04-13T13:30

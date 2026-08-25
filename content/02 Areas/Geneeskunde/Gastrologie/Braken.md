@@ -2,7 +2,6 @@
 tags:
   - Gastrologie
   - Klinisch-redeneren
-  - level-1🌱
 publish: true
 created: 2025-06-01T20:58
 modified: 2025-10-28T12:46

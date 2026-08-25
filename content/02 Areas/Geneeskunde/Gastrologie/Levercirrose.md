@@ -1,7 +1,6 @@
 ---
 tags:
   - Gastrologie
-  - level-2🌿
 publish: true
 created: 2025-03-13T21:47
 modified: 2025-10-28T12:46

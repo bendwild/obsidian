@@ -1,7 +1,6 @@
 ---
 tags:
   - Bewegingsstelsel
-  - level-2🌿
   - Orthopedie
   - Rheumatologie
 publish: true

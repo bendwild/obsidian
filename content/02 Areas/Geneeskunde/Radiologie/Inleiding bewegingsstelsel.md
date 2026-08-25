@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Radiologie
   - Bewegingsstelsel
 publish: true

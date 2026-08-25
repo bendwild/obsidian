@@ -2,7 +2,6 @@
 tags:
   - Infectiologie
   - Acute-zorg
-  - level-1🌱
 publish: true
 created: 2025-04-30T11:03
 modified: 2026-04-04T22:33

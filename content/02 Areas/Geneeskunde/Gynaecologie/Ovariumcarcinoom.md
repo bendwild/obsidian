@@ -2,7 +2,6 @@
 tags:
   - Gynaecologie
   - Oncologie
-  - level-2🌿
 publish: true
 created: 2025-05-04T21:05
 modified: 2025-10-28T12:46

@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Klinische-vaardigheden
   - Gastrologie
 publish: true

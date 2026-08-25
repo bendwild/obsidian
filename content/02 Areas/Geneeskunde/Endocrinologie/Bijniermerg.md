@@ -1,7 +1,6 @@
 ---
 tags:
   - Endocrinologie
-  - level-2🌿
 publish: true
 created: 2025-04-14T23:00
 modified: 2025-10-28T12:46

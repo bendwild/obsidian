@@ -1,7 +1,6 @@
 ---
 tags:
   - Fysische-geneeskunde
-  - level-2🌿
 publish: true
 created: 2025-05-05T14:25
 modified: 2025-10-28T12:46

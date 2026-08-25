@@ -1,7 +1,6 @@
 ---
 tags:
   - Acute-zorg
-  - level-2🌿
 publish: true
 created: 2025-06-01T14:54
 modified: 2025-10-28T12:46

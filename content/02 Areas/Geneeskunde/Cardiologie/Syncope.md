@@ -1,7 +1,6 @@
 ---
 tags:
   - Cardiologie
-  - level-3🌴
   - Klinisch-redeneren
 publish: true
 created: 2025-01-30T09:16

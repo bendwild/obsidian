@@ -1,7 +1,6 @@
 ---
 tags:
   - Huisarts
-  - level-1🌱
   - Preventie
 publish: true
 created: 2025-03-12T13:16

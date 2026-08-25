@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Klinische-vaardigheden
   - Pneumologie
 publish: true

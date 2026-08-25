@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-3🌴
   - Pediatrie
   - Radiologie
 publish: true

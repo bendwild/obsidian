@@ -2,7 +2,6 @@
 publish: true
 tags:
   - Personal-growth
-  - level-0🫘
   - Music
 created: 2025-01-17T11:48
 modified: 2026-04-03T18:10

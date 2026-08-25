@@ -4,7 +4,6 @@ modified: 2026-04-04T22:33
 tags:
   - Papers
   - Cardiologie
-  - level-6🐛
 publish: true
 ---
 ![[13-2-124.pdf]]

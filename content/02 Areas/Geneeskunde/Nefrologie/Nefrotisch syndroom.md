@@ -1,7 +1,6 @@
 ---
 tags:
   - Nefrologie
-  - level-3🌴
 publish: true
 created: 2025-01-18T18:34
 modified: 2026-02-03T14:10

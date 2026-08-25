@@ -1,7 +1,6 @@
 ---
 tags:
   - Gynaecologie
-  - level-3🌴
 publish: true
 created: 2025-02-09T19:50
 modified: 2025-10-28T12:46

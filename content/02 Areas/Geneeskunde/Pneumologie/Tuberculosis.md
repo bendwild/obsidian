@@ -1,7 +1,6 @@
 ---
 tags:
   - Pneumologie
-  - level-2🌿
   - Infectiologie
 publish: true
 created: 2025-02-24T21:28

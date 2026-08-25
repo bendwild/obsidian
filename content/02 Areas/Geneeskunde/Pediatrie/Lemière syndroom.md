@@ -1,7 +1,6 @@
 ---
 tags:
   - Pediatrie
-  - level-1🌱
 publish: true
 created: 2025-04-04T23:24
 modified: 2025-10-28T12:46

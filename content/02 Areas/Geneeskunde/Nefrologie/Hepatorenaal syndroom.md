@@ -2,7 +2,6 @@
 tags:
   - Gastrologie
   - Nefrologie
-  - level-2🌿
 publish: true
 created: 2025-04-15T13:41
 modified: 2025-10-28T12:46

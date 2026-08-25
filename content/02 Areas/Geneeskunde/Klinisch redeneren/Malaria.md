@@ -1,6 +1,5 @@
 ---
 tags:
-  - level-0🫘
   - global-health
   - tropical-medicine
 publish: true

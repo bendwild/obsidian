@@ -2,7 +2,6 @@
 title: Configuration
 tags:
   - Quartz
-  - level-5🪱
 created: 2025-06-12T15:07
 modified: 2026-04-04T22:33
 publish: true

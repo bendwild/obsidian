@@ -1,7 +1,6 @@
 ---
 tags:
   - NKO
-  - level-2🌿
   - Oncologie
 publish: true
 created: 2025-05-07T14:48

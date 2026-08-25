@@ -2,7 +2,6 @@
 tags:
   - Nefrologie
   - Pediatrie
-  - level-1🌱
   - Genetica
 publish: true
 created: 2025-04-15T12:26

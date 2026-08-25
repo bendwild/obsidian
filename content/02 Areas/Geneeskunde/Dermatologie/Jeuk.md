@@ -1,7 +1,6 @@
 ---
 tags:
   - Dermatologie
-  - level-1🌱
 publish: true
 created: 2025-02-18T21:11
 modified: 2025-10-28T12:46

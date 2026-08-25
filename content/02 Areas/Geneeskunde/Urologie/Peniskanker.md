@@ -4,7 +4,6 @@ modified: 2025-10-28T12:46
 tags:
   - Urologie
   - Oncologie
-  - level-1🌱
 publish: true
 ---
 # Epidemiologie

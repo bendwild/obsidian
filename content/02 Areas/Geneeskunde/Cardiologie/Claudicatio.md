@@ -2,7 +2,6 @@
 tags:
   - Cardiologie
   - Neurologie
-  - level-3🌴
 publish: true
 created: 2025-01-30T11:38
 modified: 2025-10-28T12:46

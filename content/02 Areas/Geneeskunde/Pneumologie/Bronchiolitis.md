@@ -2,7 +2,6 @@
 tags:
   - Pneumologie
   - Pediatrie
-  - level-2🌿
 publish: true
 created: 2025-05-02T12:29
 modified: 2026-04-04T22:33
