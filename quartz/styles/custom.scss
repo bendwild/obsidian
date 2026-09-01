@@ -10,24 +10,36 @@
 
 :root {
   --bg: #f6fbf3;
-  --bg-elevated: rgba(253, 254, 249, 0.92);
+  --bg-elevated: rgba(253, 254, 249, 0.94);
   --paper: #fdfef9;
 
+  /* Primary text */
   --text: #263026;
-  --text-muted: rgba(38, 48, 38, 0.72);
+  --text-strong: #1f2b22;
+  --text-muted: rgba(38, 48, 38, 0.78);
+  --text-soft: rgba(38, 48, 38, 0.64);
 
-  --green-900: #23402b;
+  /* Green palette */
+  --green-900: #203b27;
   --green-800: #2f5a39;
   --green-700: #3b7a4a;
+  --green-600: #5e9a61;
   --green-500: #89c77f;
+  --green-400: #a8d99e;
+  --green-300: #c8e7c1;
 
-  --border: rgba(59, 122, 74, 0.34);
-  --border-strong: rgba(59, 122, 74, 0.65);
-  --shadow: rgba(38, 48, 38, 0.12);
-  --shadow-strong: rgba(59, 122, 74, 0.22);
+  /* Structural colors */
+  --border: rgba(59, 122, 74, 0.28);
+  --border-strong: rgba(59, 122, 74, 0.52);
+  --border-soft: rgba(59, 122, 74, 0.18);
+
+  --shadow: rgba(38, 48, 38, 0.08);
+  --shadow-strong: rgba(59, 122, 74, 0.18);
 
   --radius-lg: 18px;
   --radius-md: 14px;
+  --radius-sm: 10px;
+
   --content-width: 70ch;
 }
 
@@ -45,6 +57,11 @@ body {
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
 
   background-image:
     linear-gradient(
@@ -57,13 +74,9 @@ body {
       rgba(102, 153, 102, 0.07) 1px,
       transparent 1px
     );
+
   background-size: 40px 40px;
   background-attachment: fixed;
-}
-
-body {
-  position: relative;
-  overflow-x: hidden;
 }
 
 body::before {
@@ -71,6 +84,7 @@ body::before {
   position: fixed;
   inset: 0;
   pointer-events: none;
+
   background:
     radial-gradient(
       900px 420px at 8% 18%,
@@ -79,9 +93,10 @@ body::before {
     ),
     radial-gradient(
       700px 360px at 90% 82%,
-      rgba(179, 226, 182, 0.1),
+      rgba(179, 226, 182, 0.10),
       transparent 72%
     );
+
   z-index: -2;
 }
 
@@ -90,6 +105,7 @@ body::after {
   position: fixed;
   inset: 0;
   pointer-events: none;
+
   background: linear-gradient(
     to right,
     transparent 0,
@@ -98,12 +114,14 @@ body::after {
     rgba(102, 153, 102, 0.18) 60px,
     transparent 60px
   );
+
   z-index: -1;
   opacity: 0.75;
 }
 
 ::selection {
   background: rgba(137, 199, 127, 0.25);
+  color: var(--green-900);
 }
 
 /* ==========================================================================
@@ -165,51 +183,7 @@ article {
    Typography
    ========================================================================== */
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-family: var(--headerFont);
-  color: var(--green-900);
-  letter-spacing: 0.2px;
-  margin-top: 1.35em;
-  margin-bottom: 0.45em;
-  line-height: 1.15;
-  text-wrap: balance;
-}
-
-h1 {
-  font-size: clamp(2rem, 3vw, 2.9rem);
-}
-
-h2 {
-  font-size: clamp(1.5rem, 2.3vw, 2rem);
-}
-
-h3 {
-  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
-}
-
-h4,
-h5 {
-  font-size: 1.05rem;
-}
-
-h1::after {
-  content: "";
-  display: block;
-  height: 4px;
-  margin-top: 8px;
-  border-radius: 999px;
-  background: linear-gradient(
-    90deg,
-    rgba(137, 199, 127, 0.5),
-    rgba(137, 199, 127, 0.18),
-    transparent 90%
-  );
-}
-
+body,
 p,
 li,
 dd,
@@ -217,9 +191,74 @@ dt {
   color: var(--text);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--headerFont);
+  color: var(--green-900);
+
+  letter-spacing: 0.2px;
+  margin-top: 1.35em;
+  margin-bottom: 0.45em;
+
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: clamp(2rem, 3vw, 2.9rem);
+  color: var(--green-900);
+}
+
+h2 {
+  font-size: clamp(1.5rem, 2.3vw, 2rem);
+  color: var(--green-900);
+}
+
+h3 {
+  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+  color: var(--green-800);
+}
+
+h4,
+h5 {
+  font-size: 1.05rem;
+  color: var(--green-800);
+}
+
+h1::after {
+  content: "";
+  display: block;
+
+  height: 4px;
+  margin-top: 8px;
+
+  border-radius: 999px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(137, 199, 127, 0.55),
+    rgba(137, 199, 127, 0.20),
+    transparent 90%
+  );
+}
+
 p {
   margin: 0 0 1rem;
   max-width: 68ch;
+}
+
+strong,
+b {
+  color: var(--text-strong);
+  font-weight: 700;
+}
+
+em,
+i {
+  color: var(--text);
 }
 
 small,
@@ -241,10 +280,12 @@ hr {
 
 a {
   color: var(--green-700);
+
   text-decoration: underline;
   text-decoration-style: wavy;
   text-decoration-thickness: 1.3px;
   text-underline-offset: 0.14em;
+
   transition:
     color 0.16s ease,
     opacity 0.16s ease,
@@ -252,7 +293,7 @@ a {
 }
 
 a:hover {
-  color: var(--green-500);
+  color: var(--green-600);
 }
 
 a:focus-visible {
@@ -273,8 +314,10 @@ pre,
 table,
 .note-heatmap {
   background: var(--bg-elevated);
+
   border: 1.5px solid var(--border);
   border-radius: var(--radius-lg);
+
   box-shadow: 0 10px 30px var(--shadow);
   backdrop-filter: blur(8px);
 }
@@ -300,29 +343,33 @@ blockquote {
 .note {
   padding: 1rem 1.05rem;
   margin: 1rem 0;
-  background: linear-gradient(180deg, var(--paper), #ffffff);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(253, 254, 249, 0.98),
+      rgba(248, 252, 245, 0.96)
+    );
 }
 
 .tag,
 .tags .tag {
   display: inline-flex;
   align-items: center;
+
   padding: 0.18rem 0.58rem;
   margin-right: 0.3rem;
   margin-bottom: 0.25rem;
+
   border-radius: 999px;
-  border: 1px solid rgba(137, 199, 127, 0.16);
-  background: rgba(137, 199, 127, 0.16);
+  border: 1px solid rgba(137, 199, 127, 0.20);
+
+  background: rgba(137, 199, 127, 0.18);
+
   color: var(--green-900);
+
   font-size: 0.78rem;
   text-decoration: none;
-}
-
-body.dark .tag,
-body.dark .tags .tag {
-  background: rgba(109, 176, 111, 0.14);
-  color: var(--green-500);
-  border-color: rgba(109, 176, 111, 0.2);
 }
 
 /* ==========================================================================
@@ -333,28 +380,38 @@ body.dark .tags .tag {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   padding: 0.8rem 1.4rem;
-  background-color: rgba(247, 252, 243, 0.86);
+
+  background-color: rgba(247, 252, 243, 0.88);
+
   border-bottom: 1.5px solid var(--border);
+
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+
   position: sticky;
   top: 0;
   z-index: 20;
+
   backdrop-filter: blur(10px);
 }
 
 .footer {
   margin-top: 3rem;
   padding: 1.4rem;
+
   border-top: 1.5px dashed var(--border);
+
   color: var(--text-muted);
+
   font-size: 0.94rem;
   text-align: center;
-  background-color: rgba(247, 252, 243, 0.65);
+
+  background-color: rgba(247, 252, 243, 0.70);
 }
 
 /* ==========================================================================
-   Sidebar / explorer / search / graph / table of contents
+   Sidebar
    ========================================================================== */
 
 .sidebar {
@@ -378,15 +435,17 @@ body.dark .tags .tag {
   color: var(--green-800);
 }
 
-/* --------------------------------------------------------------------------
+/* ==========================================================================
    Explorer
-   -------------------------------------------------------------------------- */
+   ========================================================================== */
 
 .sidebar .explorer,
 .sidebar .explorer a,
 .sidebar .explorer .folder-title,
 .sidebar .explorer .folder-container,
-.sidebar .explorer .explorer-content {
+.sidebar .explorer .explorer-content,
+.sidebar .explorer .folder-outer,
+.sidebar .explorer .folder-container div {
   color: var(--text) !important;
   opacity: 1 !important;
 }
@@ -400,15 +459,21 @@ body.dark .tags .tag {
   color: var(--green-700) !important;
 }
 
-/* Prevent nested explorer items from becoming excessively faint. */
 .sidebar .explorer .folder-container,
 .sidebar .explorer .folder-container a {
   opacity: 1 !important;
 }
 
-/* --------------------------------------------------------------------------
+.sidebar .explorer .folder-icon,
+.sidebar .explorer svg {
+  color: var(--green-700) !important;
+  stroke: currentColor;
+  opacity: 0.9;
+}
+
+/* ==========================================================================
    Table of contents
-   -------------------------------------------------------------------------- */
+   ========================================================================== */
 
 .sidebar .toc,
 .sidebar .toc a,
@@ -428,108 +493,109 @@ body.dark .tags .tag {
   color: var(--green-700) !important;
 }
 
-/* --------------------------------------------------------------------------
-   Search
-   -------------------------------------------------------------------------- */
+/* ==========================================================================
+   Search — sidebar button
+   ========================================================================== */
 
 /*
-   Override the generic input styling below specifically for Quartz search.
-   The search box should visually disappear into the page background.
+   Quartz's visible sidebar search is a button in current versions.
+   Remove its box so it blends into the notebook background.
 */
 
-.sidebar .search {
+.sidebar .search,
+.sidebar .search-button {
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
 }
 
-.sidebar .search input,
-.sidebar input[type="search"] {
-  font: inherit;
+.sidebar .search-button {
   color: var(--text) !important;
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  outline: none !important;
-  caret-color: var(--green-700);
 }
 
-.sidebar .search input:focus,
-.sidebar input[type="search"]:focus {
+.sidebar .search-button p {
   color: var(--text) !important;
-  background: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
 }
 
-.sidebar .search input::placeholder,
-.sidebar input[type="search"]::placeholder {
+.sidebar .search-button:hover {
+  background: rgba(137, 199, 127, 0.08) !important;
+  color: var(--green-800) !important;
+}
+
+.sidebar .search-button svg {
   color: var(--text-muted) !important;
-  opacity: 1;
+  stroke: currentColor !important;
 }
 
-/*
-   Keep the search icon itself subtle and theme-consistent where Quartz
-   exposes it as an SVG.
-*/
-.sidebar .search svg {
-  color: var(--text-muted);
-  stroke: currentColor;
-}
 
-/* --------------------------------------------------------------------------
+/* ==========================================================================
    Graph
-   -------------------------------------------------------------------------- */
+   ========================================================================== */
 
 /*
-   Remove the card-like treatment so Graph View sits directly on the
-   notebook background.
+   Make the inline graph feel like part of the notebook rather than a
+   separate card.
 */
 
 .sidebar .graph,
-.sidebar .graph-container {
+.sidebar .graph-outer {
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
 }
 
-/* Prevent a nested graph surface from introducing another background. */
+.sidebar .graph-outer {
+  color: var(--text);
+}
+
 .sidebar .graph canvas,
 .sidebar .graph svg {
   background: transparent !important;
 }
 
 /*
-   Theme the graph text and visible SVG elements toward the same palette
-   used by the rest of the notebook.
+   Graph labels / SVG elements.
+   These apply to SVG-based graph implementations where applicable.
 */
-.sidebar .graph text,
-.sidebar .graph .node-label {
+
+.sidebar .graph text {
   fill: var(--green-800) !important;
   color: var(--green-800) !important;
 }
 
 .sidebar .graph .link {
-  stroke: var(--border) !important;
+  stroke: rgba(59, 122, 74, 0.24) !important;
 }
 
 .sidebar .graph .node {
-  fill: var(--green-500) !important;
+  fill: rgba(137, 199, 127, 0.86) !important;
   stroke: var(--green-700) !important;
 }
 
-/* --------------------------------------------------------------------------
+.sidebar .graph .global-graph-icon,
+.sidebar .graph button {
+  color: var(--green-800) !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.sidebar .graph button:hover {
+  background: rgba(137, 199, 127, 0.10) !important;
+}
+
+/* ==========================================================================
    Generic form controls
-   -------------------------------------------------------------------------- */
+   ========================================================================== */
 
 input,
 textarea,
 select {
   font: inherit;
-  color: var(--text);
+  color: var(--text-strong);
+
   background: var(--paper);
+
   border: 1.5px solid var(--border);
   border-radius: var(--radius-md);
 }
@@ -538,12 +604,74 @@ input:focus,
 textarea:focus,
 select:focus {
   outline: none;
+
+  color: var(--text-strong);
+
   border-color: var(--green-500);
-  box-shadow: 0 0 0 3px rgba(137, 199, 127, 0.16);
+
+  box-shadow:
+    0 0 0 3px rgba(137, 199, 127, 0.14);
 }
 
 /* ==========================================================================
-   Code / tables / embeds
+   Tables
+   ========================================================================== */
+
+table {
+  color: var(--text);
+}
+
+thead th {
+  color: var(--green-800) !important;
+  background: rgba(137, 199, 127, 0.10);
+  font-weight: 700;
+}
+
+tbody td,
+tbody th {
+  color: var(--text) !important;
+}
+
+td {
+  color: var(--text) !important;
+}
+
+th {
+  color: var(--green-800) !important;
+}
+
+tr {
+  color: var(--text) !important;
+}
+
+td p,
+th p {
+  color: inherit !important;
+}
+
+table a {
+  color: var(--green-700);
+}
+
+table a:hover {
+  color: var(--green-600);
+}
+
+/* Better table separation without becoming visually heavy. */
+
+th,
+td {
+  border-bottom: 1px solid var(--border-soft);
+  padding: 0.65rem 0.8rem;
+  text-align: left;
+}
+
+tbody tr:hover {
+  background: rgba(137, 199, 127, 0.055);
+}
+
+/* ==========================================================================
+   Code / embeds
    ========================================================================== */
 
 pre,
@@ -554,37 +682,26 @@ code {
 pre {
   padding: 1rem;
   overflow-x: auto;
+
+  color: var(--text-strong);
 }
 
 code {
+  color: var(--green-900);
+
   background: rgba(137, 199, 127, 0.12);
-  border: 1px solid rgba(137, 199, 127, 0.12);
+
+  border: 1px solid rgba(137, 199, 127, 0.14);
+
   border-radius: 6px;
   padding: 0.08rem 0.28rem;
 }
 
 pre code {
+  color: inherit;
   background: transparent;
   border: 0;
   padding: 0;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  overflow: hidden;
-}
-
-th,
-td {
-  border-bottom: 1px solid var(--border);
-  padding: 0.65rem 0.8rem;
-  text-align: left;
-}
-
-thead th {
-  color: var(--green-800);
-  background: rgba(137, 199, 127, 0.08);
 }
 
 iframe[src*=".pdf"],
@@ -592,7 +709,9 @@ embed[src*=".pdf"] {
   width: 100% !important;
   height: 90vh !important;
   max-width: 100% !important;
+
   border: none;
+
   display: block;
   margin: 1rem 0;
 }
@@ -608,6 +727,55 @@ embed[src*=".pdf"] {
   embed[src*=".pdf"] {
     height: 70vh;
   }
+}
+
+/* ==========================================================================
+   Lists
+   ========================================================================== */
+
+ul,
+ol {
+  color: var(--text);
+}
+
+li::marker {
+  color: var(--green-700);
+}
+
+dl,
+dt,
+dd {
+  color: var(--text);
+}
+
+dt {
+  font-weight: 700;
+  color: var(--green-800);
+}
+
+/* ==========================================================================
+   Images / figures
+   ========================================================================== */
+
+img {
+  max-width: 100%;
+}
+
+figcaption {
+  color: var(--text-muted);
+}
+
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+button {
+  font: inherit;
+  color: var(--text);
+}
+
+button:hover {
+  color: var(--green-800);
 }
 
 /* ==========================================================================
@@ -630,13 +798,18 @@ embed[src*=".pdf"] {
   font-family: var(--headerFont);
   font-size: 1.15rem;
   line-height: 1;
+
   color: var(--green-800);
 
   background: var(--paper);
+
   border: 1.5px dashed var(--border-strong);
   border-radius: 12px;
+
   box-shadow: 0 8px 20px var(--shadow);
+
   cursor: pointer;
+
   transition:
     transform 0.16s ease,
     box-shadow 0.16s ease,
@@ -645,7 +818,11 @@ embed[src*=".pdf"] {
 
 #full-width-toggle:hover {
   transform: translate(-2px, -2px) rotate(-1deg);
-  box-shadow: 0 12px 26px var(--shadow-strong);
+
+  box-shadow:
+    0 12px 26px var(--shadow);
+
+  border-color: var(--green-700);
 }
 
 #full-width-toggle:active {
@@ -667,7 +844,9 @@ embed[src*=".pdf"] {
 
 .note-heatmap__header p {
   margin: 0 0 1rem;
+
   color: var(--text-muted);
+
   font-size: 0.95rem;
 }
 
@@ -688,9 +867,13 @@ embed[src*=".pdf"] {
 .note-heatmap-month,
 .note-heatmap-weekday {
   font-size: 10px;
+
   fill: currentColor;
-  opacity: 0.7;
+
+  opacity: 0.76;
+
   paint-order: stroke;
+
   stroke: var(--paper);
   stroke-width: 3px;
   stroke-linejoin: round;
@@ -698,6 +881,7 @@ embed[src*=".pdf"] {
 
 .note-heatmap-cell {
   cursor: pointer;
+
   transition:
     opacity 0.12s ease,
     filter 0.12s ease,
@@ -707,8 +891,31 @@ embed[src*=".pdf"] {
 .note-heatmap-cell:hover {
   opacity: 0.88;
   filter: brightness(1.08);
+
   stroke: var(--green-700);
   stroke-width: 0.6px;
+}
+
+/* ==========================================================================
+   Miscellaneous content
+   ========================================================================== */
+
+mark {
+  background: rgba(137, 199, 127, 0.24);
+  color: var(--green-900);
+  border-radius: 4px;
+  padding: 0.05em 0.2em;
+}
+
+::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
 }
 
 /* ==========================================================================
@@ -754,6 +961,7 @@ main {
 
   body::after {
     inset: 0;
+
     background: linear-gradient(
       to right,
       transparent 0,
@@ -774,9 +982,21 @@ main {
     padding-inline: 1rem;
   }
 
-  .sidebar .search input,
-  .sidebar input[type="search"] {
-    height: 2.65rem;
-    padding-left: 2.5rem;
+  .sidebar .search-button {
+    min-height: 2.65rem;
+  }
+
+  .search-container .search-space {
+    width: calc(100vw - 2rem);
+    max-width: none;
+  }
+
+  .search-container .search-layout {
+    display: block !important;
+  }
+
+  .search-container .preview-container {
+    border-left: none !important;
+    border-top: 1px solid var(--border-soft) !important;
   }
 }
