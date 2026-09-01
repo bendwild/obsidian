@@ -3,13 +3,19 @@ import * as Component from "./quartz/components"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
+
   header: [
     Component.Flex({
-      components: [{ Component: Component.FullWidth() }],
+      components: [
+        {
+          Component: Component.FullWidth(),
+        },
+      ],
     }),
   ],
-    afterBody: [
-  ],
+
+  afterBody: [],
+
   footer: Component.Footer({
     links: {
       LinkedIn: "https://www.linkedin.com/in/benjamindewilde/",
@@ -24,17 +30,24 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+
     Component.ConditionalRender({
       component: Component.NoteHeatmap(),
       condition: (page) => page.fileData.slug === "index",
     }),
+
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
+
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+
+    Component.MobileOnly(
+      Component.Spacer(),
+    ),
+
     Component.Flex({
       components: [
         {
@@ -43,21 +56,36 @@ export const defaultContentPageLayout: PageLayout = {
         },
       ],
     }),
+
     Component.Explorer(),
   ],
+
   right: [
     Component.Graph({
       localGraph: {
         showTags: false,
       },
+
       globalGraph: {
         repelForce: 0.5,
-        removeTags: ["level-0🫘", "level-1🌱", "level-2🌿", "level-3🌴", "level-4🍃", "level-5🪱", "level-6🐛"],
+        removeTags: [
+          "level-0🫘",
+          "level-1🌱",
+          "level-2🌿",
+          "level-3🌴",
+          "level-4🍃",
+          "level-5🪱",
+          "level-6🐛",
+        ],
         showTags: true,
         enableRadial: true,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
+
+    Component.DesktopOnly(
+      Component.TableOfContents(),
+    ),
+
     Component.Backlinks(),
   ],
 }
@@ -68,19 +96,25 @@ export const defaultListPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
+
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+
+    Component.MobileOnly(
+      Component.Spacer(),
+    ),
+
     Component.Flex({
       components: [
         {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
       ],
     }),
+
     Component.Explorer(),
   ],
+
   right: [],
 }
