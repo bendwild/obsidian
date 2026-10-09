@@ -4,7 +4,7 @@ tags:
   - NKO
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-03-04T14:28
+modified: 2026-10-06T15:12:22+02:00
 ---
 # Onderzoek hals
 
@@ -293,7 +293,7 @@ Patiënt heeft neutrale zithouding met hoofd licht in flexie
     Oscillatie, vorm van snelle tremor van de ogen gekenmerkt door **snelle heenslag en trage terugslag**
     1. Naar links, rechts, boven en onder (hier oogleden opheffen) kijken
 
-- Test van Dix-Hallpike
+- Test van Dix-Hallpike (vrij specifiek, weinig sensitief)
     1. Laat patiënt achterover liggen
     2. Draai het hoofd naar links of rechts
     

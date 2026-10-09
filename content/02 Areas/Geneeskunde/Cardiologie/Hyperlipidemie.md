@@ -5,7 +5,7 @@ tags:
   - Preventie
 publish: true
 created: 2025-01-29T21:07
-modified: 2026-03-04T14:28
+modified: 2026-10-06T12:22:28+02:00
 ---
 # LDL
 ## Pathofysiologie
@@ -20,7 +20,7 @@ modified: 2026-03-04T14:28
 	3. [[Diabetes mellitus]]
 	4. [[Familiale dyslipidemie]]
 2. **SCORE2-OP**
-	![[Hyperlipemie-2.png]]
+		![[Pasted image 20261006122217.png]]
 3. Risk modifiers
 	1. Sedentaire levensstijl
 	2. [[Obesitas]] x slaapapneu

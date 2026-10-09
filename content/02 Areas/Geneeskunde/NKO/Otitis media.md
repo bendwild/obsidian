@@ -3,7 +3,7 @@ tags:
   - NKO
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-10-28T12:46
+modified: 2026-10-06T14:41:37+02:00
 ---
 = plots optredende, kortdurende (<3w) besmetting van het middenoor met **ophoping van vocht** en **tekenen van een acute infectie**.
 
@@ -64,5 +64,5 @@ modified: 2025-10-28T12:46
     - **Slecht horen is normaal tot enkele weken na OMA**
 
 -> belangrijkste complicaties: [[Mastoïditis]], [[Meningitis]]
--> alarmsignalen: **afstand oor, roodheid, drukgevoeligheid retro-auriculair (mastoiditis)**, persisterende hoge koorts, verminderde alertheid, [[Duizeligheid]], braken, [[hoofdpijn]], nekstijfheid…
+-> alarmsignalen: **afstand oor, roodheid, drukgevoeligheid retro-auriculair (mastoiditis)**, persisterende hoge koorts, verminderde alertheid, [[Duizeligheid]], [[braken]], [[hoofdpijn]], nekstijfheid…
    
