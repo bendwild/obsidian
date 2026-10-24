@@ -3,6 +3,9 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-vy6t: { hash: qtu6uvic }
+  q-wy6r: { nid: 1791751481727, hash: bhf7atde, sync: zggwzeuu }
 ---
 # Werkingsmechanisme
 
@@ -20,6 +23,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==→ toevoegen beta-lactamase inhibitor==
 - ESBL, carbapenemase
     - ==→ cefalosporines, carbapenems==
+^q-vy6t
 
 **Mutatie aangrijpingspunt (PBP)**
 - [[S. Pneumoniae]]
@@ -29,6 +33,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==→ andere aangrijpingspunten==
 - enterokokken
     - ==→ andere aangrijpingspunten==
+^q-wy6r
 
 **Veranderde permeabiliteit**
 - verminderde doorlaatbaarheid (porineverlies)

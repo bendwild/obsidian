@@ -3,6 +3,8 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-fuh4: { nid: 1791751482858, hash: aui7p3xw, sync: hnhsavj4 }
 ---
 ### Werkingsmechanisme
 
@@ -25,6 +27,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - **==→ toevoegen beta-lactamase inhibitor==**
 - ESBL, carbapenemase
     - **==→ cefalosporines, carbapenems==**
+^q-fuh4
 
   
 

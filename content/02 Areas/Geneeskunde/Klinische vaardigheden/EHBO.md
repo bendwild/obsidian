@@ -5,6 +5,10 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-jy37: { nid: 1791751469123, hash: ze2r5idg, sync: jnqv4feg }
+  q-tv2c: { nid: 1791751469264, hash: 4h9ca2ci, sync: 2tqyvdxc }
+  q-kkf2: { nid: 1791751469341, hash: qu3t26he, sync: 2vbpm6i8 }
 ---
 # Basic life support
 ## BLS bij volwassene
@@ -74,6 +78,7 @@ Zodra AED aanwezig is aanleggen
 2. **Nu pas stekker insteken**
 3. **Geen CPR tijdens analyse**
 4. **Bij schok zorgen dat er niemand contact maakt met het slachtoffer!**
+^q-jy37
 
 > [!INFO] CPR kind
 > **-> 5 initiële beademingen!**
@@ -101,6 +106,7 @@ Zodra AED aanwezig is aanleggen
         3. Het aantal slachtoffers
         4. De situatie van het slachtoffer
         5. Dat u de reanimatie start
+^q-tv2c
 
 > [!INFO] CPR
 > - **In vlindergreep**
@@ -181,6 +187,7 @@ Zodra AED aanwezig is aanleggen
     1. Onmiddelijk ==**10 μg/kg adrenaline**== toedienen
     2. Blijf adrenaline toedienen om de 4 minuten, na 2 AED-checks
     3. Pas wanneer ROSC optreedt kan amiodarone terug gegeven worden na 3de shock
+^q-kkf2
 
 # Verstikking
 

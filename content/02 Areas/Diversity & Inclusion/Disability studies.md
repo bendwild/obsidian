@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-04-04T22:33
+flashcards:
+  q-uxjq: { nid: 1791751483481, hash: yqjjregi, sync: yyprc4mi }
 ---
 > Dynamic **interplay** between disability and context - it’s no measure of health to be well adjusted to a sick society
 
@@ -35,5 +37,6 @@ modified: 2026-04-04T22:33
 - het collectief is essentieel
 - !! je kan de beperking gebruiken als INGANG voor participatie !! - (denk sophie)
 - Actief-passief aanwezig zijn vs simpelweg verwijzen (**hoe** gebeurt die doorverwijzing??) en uit beeld verdwijnen (en-en verhaal) —— ==**ankerfiguur**==
+^q-uxjq
 
 [![](https://media0.giphy.com/media/G6pfZYscvgB8OPb2Cv/giphy.gif?cid=7941fdc6yad10obpjt0pci0ukl3t09p7znc96qqpius5j4ra&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media0.giphy.com/media/G6pfZYscvgB8OPb2Cv/giphy.gif?cid=7941fdc6yad10obpjt0pci0ukl3t09p7znc96qqpius5j4ra&ep=v1_gifs_search&rid=giphy.gif&ct=g)

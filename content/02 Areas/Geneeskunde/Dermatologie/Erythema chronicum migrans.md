@@ -3,7 +3,8 @@ tags:
   - Dermatologie
 publish: true
 created: 2025-03-13T21:10
-modified: 2025-10-28T12:46
+modified: 2026-10-21T21:56:45+02:00
+Created: 2026-10-09T11:40:26+02:00
 ---
 = eerste stadium van [[Ziekte van Lyme]]
 
@@ -21,9 +22,14 @@ modified: 2025-10-28T12:46
 
 ![[Erythema chronicum migrans.png]]
 
+
+> [!ATTENTION] Huiduitslag moet niet perse rondom tekenbeet
+
 ## [[Labo]]
 - Borellia IgM/IgG
 	- CAVE vaak vals-negatief, enkel betrouwbaar indien positief
+
+
 # Behandeling
 1. Doxycicline 100mg 2x/d ged 14d bij volwassenen
 2. Amoxycicline bij kinderen

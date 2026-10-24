@@ -4,7 +4,7 @@ tags:
   - Communicatie
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-03-04T14:28
+modified: 2026-10-24T11:14:41+02:00
 ---
 # Arts gaat gesprek aan
 
@@ -32,6 +32,8 @@ Hoe staat de patiënt momenteel tegenover verandering?
 Hoe kijkt de patiënt naar het gedrag nu?
 
 Hoe is het voor de patiënt om dit met jou te bespreken?
+
+= [[Prochaska's model of behaviour change]]
 
 1. Precontemplatiefase
     - Patiënt ziet weinig nadelen van zijn huidige gedrag

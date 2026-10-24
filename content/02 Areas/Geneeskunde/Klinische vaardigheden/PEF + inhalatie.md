@@ -5,10 +5,13 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-tmef: { nid: 1791751462497, hash: 9rygngsu, sync: ruwfi68d }
 ---
 _Examen: SIP die het fout uitvoert → corrigeren en leren hoe het wel moet_
 
 ==**Eerst uitleggen -> dan zelf demonstreren -> tenslotte vragen aan de patiënt om het zelf uit te voeren (met feedback)**==
+^q-tmef
 
 # Piekstroommeter
 1. Sta rechtop

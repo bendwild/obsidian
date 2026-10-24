@@ -5,6 +5,9 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-f2nj: { nid: 1791751468364, hash: ndv92r4m, sync: 5p5fpu6s }
+  q-7dkw: { nid: 1791751468496, hash: 4zcppfjn, sync: kpjq8kme }
 ---
 # Patiëntenspoor
 - **Introductie**
@@ -32,6 +35,7 @@ modified: 2025-10-28T12:46
     - Bepaal de verdere agenda
     - ==**Inclusief eventueel andere agendapunten**==
         - en stel vervolgens een agenda op voor de consultatie
+^q-f2nj
 
 > [!important]  
 > Ingaan op cues  
@@ -72,6 +76,7 @@ modified: 2025-10-28T12:46
 - **U** SUS
     - **Goed kaderen!**
     - Wat heb je al gedaan ertegen?
+^q-7dkw
 
 > [!important]  
 > Bepaal het [[Diagnostisch landschap]] dat uit de opening kan weerhouden worden‼️ Als [[Diagnostisch landschap]] moeilijk is, doe systeemanamnese van boven naar beneden (denk aan spoed)  

@@ -5,6 +5,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-04-04T22:33
+flashcards:
+  q-6ir8: { nid: 1791751462183, hash: dmec4w6e, sync: drr2t3p8 }
 ---
 # Onderzoek man
 
@@ -157,6 +159,7 @@ Verder: hydrocoeles, cysten, tumoren, varicocoeles
     10. Fixeer de sonde met kleefpleister
         1. ==Man: op de buik==
         2. ==Vrouw: op de dij==    
+^q-6ir8
 
 > [!important]  
 > Voor elke actie zeggen wat je gaat doen

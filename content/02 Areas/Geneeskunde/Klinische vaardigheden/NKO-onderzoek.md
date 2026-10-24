@@ -5,6 +5,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-10-06T15:12:22+02:00
+flashcards:
+  q-236s: { nid: 1791751462586, hash: 7u6mue9q, sync: qmpwktj6 }
 ---
 # Onderzoek hals
 
@@ -192,6 +194,7 @@ Patiënt heeft neutrale zithouding met hoofd licht in flexie
         
         ~ Anterieure neusbloeding → **locus van Kiesselbach** ~
         ~ Posterieure neusbloeding → **A. Sphenopalatina** ~
+^q-236s
 
 > [!ATTENTION] Advies meegeven
 > - rusten 

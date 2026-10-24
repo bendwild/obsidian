@@ -3,6 +3,10 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-vvi9: { hash: xgxi5dx6 }
+  q-27hb: { hash: 2t89pfyp }
+  q-wkj8: { nid: 1791751481912, hash: 4z6mv82k, sync: 6thswqhc }
 ---
 ### Werkingsmechanisme
 
@@ -25,6 +29,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - **==→ toevoegen beta-lactamase inhibitor==**
 - ESBL, carbapenemase
     - **==→ cefalosporines, carbapenems==**
+^q-vvi9
 
   
 
@@ -36,6 +41,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==**→ andere aangrijpingspunten**==
 - enterokokken
     - ==**→ andere aangrijpingspunten**==
+^q-27hb
 
   
 
@@ -60,3 +66,4 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
 - ==[[S. Pyogenes]]==
 - ==[[S. Enterococcus]]==
     - ==e. faecalis==
+^q-wkj8

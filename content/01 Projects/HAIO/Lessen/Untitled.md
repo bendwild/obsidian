@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-08T15:29:49+02:00
+modified: 2026-10-14T16:06:34+02:00
 ---
 Angina nachecken
 Bij wit beslag, wisser nemen
@@ -11,17 +11,3 @@ Galblaas, schouderblad
 Parasiet (reisgeschiedenis)
 
 ozempic medicatie x tuberculose
-
-
-Bellen naar ziekenhuis
-
-KINE
-budenoside voorstellen apart
-duovent
-
-laba + ics / lama
-symbicort (2x+d) + spiriva (1x/d) (duur)
-
-Enezer?
-
-Vragen voor verslag

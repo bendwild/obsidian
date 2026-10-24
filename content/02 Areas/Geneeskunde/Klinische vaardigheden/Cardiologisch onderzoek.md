@@ -5,6 +5,10 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-5fpp: { hash: xudq55nr }
+  q-cihv: { hash: rpvkvtuj }
+  q-kdzb: { hash: i5ftnnqz }
 ---
 # Bloeddruk 
 
@@ -235,6 +239,7 @@ Wordt best gehoord thv mitralispunt (ictus cordis)
 - U-golf
     
     Vlakke positieve deflexie met onduidelijke betekenis
+^q-5fpp
     
 
 1. Elektrische impulsgeleiding ontstaat in de **sinoatriale knoop**
@@ -242,6 +247,7 @@ Wordt best gehoord thv mitralispunt (ictus cordis)
 3. Verder via ==**bundel van His**==
 4. Eindigt bij ==**Purkinje vezels**== en **ventriculaire hartspier**
 5. Repolarisatie
+^q-cihv
 
 ### Kalibratie
 
@@ -280,6 +286,7 @@ Op basis van de standaardwaarden kalibreren op voorhand
 - Buitenzijde onderbenen
     - ==rechts==
     - ==links==
+^q-kdzb
 
 
 > [!EXAMPLE] Rood Rechts, Ferrari op de weg (zwart), de zon (geel) boven het gras (groen)

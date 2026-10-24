@@ -21,7 +21,7 @@ banner: An Imperfect Offering.png
 
 What I want to take with me is how, confronted by this immense unjust suffering, James tells the story of his [[Revolt against the absurd]], and how the only response that made sense is to act from a feeling of shared vulnerability and bear the responsibility of being witness and telling the world. To affirm your own nature in a place that is absent of any meaning, not for any clicks or likes, but from a universal humanity, from [[Ubuntu]], from humility; that is the only *imperfect offering* you can bring. 
 
-"I fight not for a utopian ideal, but each day I make a choice, against [[nihilism]] and towards justice."
+"I fight not for a utopian ideal, but each day I make a choice, against [[Nihilism]] and towards justice."
 
 # Highlights
 
@@ -85,7 +85,7 @@ There was no work for him, and so he had no food. “For one such as me, how is 
 "As a humanitarian, I can act from a feeling of shared vulnerability with the victims of preventable suffering. I have a responsibility to bear witness publicly to the plight of those I seek to assist and to insist on independent humanitarian action and respect for international humanitarian law."
 
 ---
-"I fight not for a utopian ideal, but each day I make a choice, against [[nihilism]] and towards justice."
+"I fight not for a utopian ideal, but each day I make a choice, against [[Nihilism]] and towards justice."
 
 ---
 “One can’t forget everything, however great one’s wish to do so: the plague was bound to leave traces, anyhow, in people’s hearts.” 

@@ -5,6 +5,11 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-xv5g: { nid: 1791751477853, hash: abks224n, sync: i2mg2fer }
+  q-y22m: { nid: 1791751477912, hash: vxepdici, sync: pfma7hkf }
+  q-rdf8: { nid: 1791751477975, hash: z265ekkb, sync: 3x597jit }
+  q-ijk8: { nid: 1791751478042, hash: 7qx4bk2j, sync: j4h9khe6 }
 ---
 # Foci
 ![[image-385.png]]
@@ -30,6 +35,7 @@ modified: 2025-10-28T12:46
 | [[Mycoplasma Pneumoniae]]                                                                                       | - Humaan, zoönose                                                          | - [[Respiratoire infecties]], griepaal beeld, bronchitis, ‘atypische [[pneumonie]]’, fulminante [[pneumonie]] (CAP IV)                                                                                                                                                                                                                       | - Intrinsiek weerstandig aan [[antibiotica]] die op celwand aangrijpen: betalactam, glycopeptiden,  <br>- Gevoelig voor macroliden, fluorochinolones, [[tetracyclines]]  <br>- Verworven resistentie? (o.a. macroliden)                                                                                                                         |
 | [[Chlamydia spp]]                                                                                               | - Humaan, zoönose                                                          | - [[Respiratoire infecties]], griepaal beeld, bronchitis, ‘atypische [[pneumonie]]’, fulminante [[pneumonie]] (CAP IV)                                                                                                                                                                                                                       | - Intrinsiek weerstandig aan [[antibiotica]] die op celwand aangrijpen: betalactam, glycopeptiden,  <br>- Gevoelig voor macroliden, fluorochinolones, [[tetracyclines]]  <br>- Verworven resistentie? (o.a. macroliden)                                                                                                                         |
 | [[Legionella pneumophila]]                                                                                      | - (lauw) water                                                             | - [[Respiratoire infecties]], griepaal beeld, bronchitis, ‘atypische [[pneumonie]]’, fulminante [[pneumonie]] (CAP IV)                                                                                                                                                                                                                       | - Intrinsiek weerstandig aan [[antibiotica]] die op celwand aangrijpen: betalactam, glycopeptiden,  <br>- Gevoelig voor macroliden, fluorochinolones, [[tetracyclines]]  <br>- Verworven resistentie? (o.a. macroliden)                                                                                                                         |
+^q-xv5g
 # Aeroob
 
 ### Gram-positief
@@ -37,6 +43,7 @@ modified: 2025-10-28T12:46
 ---
 
 ==Staphylococcus==
+^q-y22m
 
 [[S. Aureus (MSSA-MRSA)]]
 
@@ -45,6 +52,7 @@ modified: 2025-10-28T12:46
 ---
 
 ==Streptococcus==
+^q-rdf8
 
 [[S. Pneumoniae]]
 
@@ -61,6 +69,7 @@ modified: 2025-10-28T12:46
 ---
 
 ==Enterobacterales==
+^q-ijk8
 
 [[E. Coli]]
 

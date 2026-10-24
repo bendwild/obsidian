@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-yi9z: { nid: 1791751468588, hash: fpmriifu, sync: 69e8u4h4 }
 ---
 # Voorbereiding
 1. Kijk of je het juist product hebt en **check de vervaldatum**
@@ -36,6 +38,7 @@ modified: 2025-10-28T12:46
 13. Pak het infuus van de infuusstaander en hou het lager dan de vene
     1. Open de rolklem
     2. Als je bloed ziet verschijnen zit je zeker in de vene
+^q-yi9z
 
 # Inbrengen medicatie
 

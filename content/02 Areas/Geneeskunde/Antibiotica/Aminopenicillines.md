@@ -3,6 +3,10 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-bqjc: { hash: xgxi5dx6 }
+  q-tmrx: { hash: 2t89pfyp }
+  q-g9k2: { nid: 1791751482671, hash: vhdcxrjx, sync: kvk6k56b }
 ---
 ### Werkingsmechanisme
 
@@ -25,6 +29,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - **==→ toevoegen beta-lactamase inhibitor==**
 - ESBL, carbapenemase
     - **==→ cefalosporines, carbapenems==**
+^q-bqjc
 
   
 
@@ -36,6 +41,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==**→ andere aangrijpingspunten**==
 - enterokokken
     - ==**→ andere aangrijpingspunten**==
+^q-tmrx
 
   
 
@@ -60,6 +66,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==e. faecalis==
 - ==[[Neisseria Meningitidis]]==
 - ==anaeroob boven dδ (>Gram positief)==
+^q-g9k2
 
   
 

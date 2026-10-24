@@ -3,6 +3,9 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-rez6: { nid: 1791751481042, hash: xgxi5dx6, sync: vtk7ya64 }
+  q-p5ia: { nid: 1791751481106, hash: 2t89pfyp, sync: yvsngh3x }
 ---
 ### Werkingsmechanisme
 
@@ -25,6 +28,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - **==→ toevoegen beta-lactamase inhibitor==**
 - ESBL, carbapenemase
     - **==→ cefalosporines, carbapenems==**
+^q-rez6
 
   
 
@@ -36,6 +40,7 @@ Activiteit ter hoogte van **celwand** (peptidoglycanen) → binden ter hoogte va
     - ==**→ andere aangrijpingspunten**==
 - enterokokken
     - ==**→ andere aangrijpingspunten**==
+^q-p5ia
 
   
 

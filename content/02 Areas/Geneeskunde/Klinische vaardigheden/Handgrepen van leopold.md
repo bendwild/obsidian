@@ -5,6 +5,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-8pq8: { nid: 1791751469816, hash: w7x75wcn, sync: cupdhcvf }
 ---
 - **Voorbereiding**
 	- “Hallo, ik ben Karolien, ik ben vroedvrouw, ik ga even voelen aan je buik om te bepalen hoe de baby ligt en ik ga ook eens luisteren naar de harttonen van de baby.”
@@ -36,5 +38,6 @@ modified: 2025-10-28T12:46
     - Harttonen beluisteren aan rugzijde foetus
     - Normale frequentie
 	    - 110-160 slagen per minuut
+^q-8pq8
 
 ![[image-85.png]]

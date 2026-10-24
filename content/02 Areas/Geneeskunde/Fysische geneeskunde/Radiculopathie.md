@@ -11,7 +11,7 @@ modified: 2025-10-28T12:46
 ## Etiologie
 - [[hernia]]
 - stenose
-- infectie ([[herpes zoster]])
+- infectie ([[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]])
 
 ## Kliniek
 - klachten volgens dermatoom

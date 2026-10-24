@@ -73,7 +73,7 @@ modified: 2026-02-03T13:30
 ### Klinisch onderzoek
  - evaluatie van voorkomen
 	 - hirsutisme (te evalueren ahv *gemodificeerde F-G score*)
-	 - [[Acne]] & alopecia
+	 - [[Acne]] & [[alopecia]]
 	 - lengte, gewicht, BMI
 	 - uitwendige geslachtskenmerken
 - [[Gynaecologisch onderzoek]]

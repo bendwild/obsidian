@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-05-07T21:00
 modified: 2026-02-03T13:30
+flashcards:
+  q-desg: { nid: 1791751478524, hash: bb8v4emx, sync: thqj7yaz }
 ---
 Ask yourself the question: 
 - What is the **most common** diagnosis?
@@ -42,7 +44,7 @@ Ask yourself the question:
         - [[Meningitis]]
     - Buitencirkel
         - [[Otitis media]]
-        - [[Otitis externa]]
+        - [[content/02 Areas/Geneeskunde/NKO/Otitis externa]]
         - Trauma
     - Vragen
         - Pijn zeurend karakter (gerefereerde oorpijn tumor)
@@ -115,7 +117,7 @@ Ask yourself the question:
         - **[[GERD]]/oesofagitis**
         - Pleuritis
         - Slokdarmspasme
-        - **[[Herpes zoster]]**
+        - **[[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]]**
         - Hyperventilatie/paniekaanval
         - Tracheobronchtis
     - Anamnese
@@ -166,7 +168,7 @@ Ask yourself the question:
         
         V erwante klachten
         
-        - Blaasjes op de huid, rode huid ([[Herpes zoster]])
+        - Blaasjes op de huid, rode huid ([[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]])
         - Zweten, klamme handen (AMI)
         - Tintelingen rond mond of handen (AMI)
         - Hartkloppingen, oorsuizen, tintelingen (hyperventilatie)
@@ -1439,6 +1441,7 @@ Ask yourself the question:
                 Blijf de pillen slikken tot ze op zijn, niet tot uw klachten gedaan zijn
                 
                 Contact opnemen als uw klachten niet minderen na 2 dagen, of als u zieker begint te worden
+^q-desg
 # Master 2
 - [[Hoofdpijn]]
     - Binnencirkel

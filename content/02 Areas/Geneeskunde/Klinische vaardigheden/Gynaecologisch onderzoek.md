@@ -5,6 +5,9 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-sqp6: { nid: 1791751474404, hash: jav5bj9y, sync: hx8tm2se }
+  q-aiiz: { nid: 1791751474546, hash: a7q9uttm, sync: bfyni2yp }
 ---
 # Positionering
 1. Tafel voldoende omhoog
@@ -59,6 +62,7 @@ modified: 2025-10-28T12:46
         2. Niet volledig sluiten om klemming te vermijden
     3. Trek het speculum langzaam en traag terug
         1. In de richting van de vaginale as (hoek van 45°)
+^q-sqp6
 
 > [!ATTENTION] Laat het speculum niet los zitten in de vagina!
 
@@ -170,6 +174,7 @@ Het beste tijdstip voor een borstonderzoek uit te voeren is **1 week na het begi
         ![[Untitled 1 26.png|Untitled 1 26.png]]
  
         ![[Untitled 2 17.png|Untitled 2 17.png]]
+^q-aiiz
 
 > [!ATTENTION] Indien knobbel gevonden -> zo rapporteren in dossier
 > - grootte

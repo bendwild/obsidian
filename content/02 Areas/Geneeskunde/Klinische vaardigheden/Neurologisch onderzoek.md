@@ -5,6 +5,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-03-04T14:28
+flashcards:
+  q-utwz: { nid: 1791751467501, hash: bktikiar, sync: u9ydk77t }
 ---
 # Onderzoek van de hogere corticale functies
 
@@ -189,7 +191,7 @@ Pathologie:
 - vasculair
 - traumatisch
 - compressie
-- [[Herpes zoster]]
+- [[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]]
 
 ### Nervus abducens (IV)
 = verantwoordelijk voor
@@ -781,6 +783,7 @@ Pathologie:
         5. Beoordeel vervolgens evenwicht met gesloten ogen
         
         - Positief wanneer duidelijk onevenwicht optreedt met gesloten ogen of wanneer onevenwicht toeneemt bij sluiten van de ogen
+^q-utwz
 
 > [!important]  
 > Mss handig als je test v romberg in 1 flow doet samen met koorddansersgang  

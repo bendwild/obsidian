@@ -4,8 +4,12 @@ tags:
   - Klinisch-redeneren
 publish: true
 created: 2025-01-28T15:31
-modified: 2025-10-28T12:46
+modified: 2026-10-14T18:06:32+02:00
 ---
+
+> [!info] Praktisch
+> Vergeet niet patiënt bh te laten uitdoen, schoenen uit, metaal weg
+
 # Pathofysiologie
 ## Elektrische cascade
 ![[Hartritmestoornissen.png]]

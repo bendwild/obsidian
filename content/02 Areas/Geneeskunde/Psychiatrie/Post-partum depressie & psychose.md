@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-pv3t: { nid: 1791751461063, hash: s974ydcj, sync: 6z2sti8y }
 ---
 # Fenomenologie
 
@@ -16,6 +18,7 @@ modified: 2025-10-28T12:46
     → majeure depressieve episode met psychotische elementen
     
     → manische of gemengde episode bij bipolaire stoornis ==**(!! bij +/- 60% eerste manifestatie van een bipolaire stoornis !!) → neem dit mee in verdere opvolging!!**==
+^q-pv3t
     
       
     

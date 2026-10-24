@@ -3,6 +3,8 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-fvkw: { nid: 1791751481292, hash: cbe3q6ya, sync: 7tpze9qq }
 ---
 ### Werkingsmechanisme
 
@@ -25,6 +27,7 @@ modified: 2025-10-28T12:46
 - beta-lactamase
     - _enterobacterales,_ [[H. Influenza]]_,_ [[M. Catarhhalis]]
     - **==→ toevoegen beta-lactamase inhibitor==**
+^q-fvkw
 
   
 

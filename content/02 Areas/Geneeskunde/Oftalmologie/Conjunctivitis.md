@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-4873: { nid: 1791751461529, hash: sg57z3wz, sync: y4aisras }
 ---
 # Etiologie
 
@@ -19,7 +21,7 @@ modified: 2025-10-28T12:46
 | **Viraal = ‘pink eye’**            | - Diffuse roodheid conjunctiva, tranen  <br>- Gevoel v zand en [[jeuk]]  <br>- Verkoudheid, keelpijn, pre-aur klieren -> adenovirus                                                                                                                           |
 | **Bacterieel**                     | - Diffuse roodheid conjunctiva, tranen  <br>- Geen [[jeuk]]  <br>- ’s morgens dichtgeplakte ogen                                                                                                                                                              |
 | Herpes simplex                     | - vesiculaire huidlaesies  <br>- opgezette oogleden  <br>- tranen en irritatie  <br>- vaak blefaroconjunctivitis<br>- herpes keratitis met dendriet fluoresceine                                                                                              |
-| [[Herpes zoster]]                  | - Conjunctivitis bij ‘gordelroos’ huidafwijking in gelaat (CAVE [[herpes zoster]] ophtalmicus)                                                                                                                                                                |
+| [[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]]                  | - Conjunctivitis bij ‘gordelroos’ huidafwijking in gelaat (CAVE [[content/02 Areas/Geneeskunde/Dermatologie/Herpes zoster]] ophtalmicus)                                                                                                                                                                |
 | Gonokokken of Chlamydia            | - Bij pasgeboren baby’s of bij seksueel actieve pt  <br>- Snel ontstaan  <br>- Hevige pus en rood                                                                                                                                                             |
 | Molluscum contagiosum  <br>        | - Langdurig recidiverend beloop  <br>- Waterwrat op ooglid                                                                                                                                                                                                    |
 | **dd. Allergische conjunctivitis** | - [[Jeuk]]  <br>- Branderig oog, conjunctivale roodheid en zwelling  <br>- Ooglid [[oedeem]], tranen  <br>- Samen met allergische rhinitis: neusloop, [[jeuk]], congestie, niezen, hoesten, wheezen, jeukende keel, dyspnoe, moe, evt koorts, jeukende huid.. |
@@ -39,6 +41,7 @@ modified: 2025-10-28T12:46
 - ==Doe contactlenzen uit bij klachten en tijdens de behandeling!==  -> **vraag hier actief naar!**
 - afscheiding regelmatig verwijderen met wattenstaafje met water
 - zonnebril dragen om oogknijpen te beperken
+^q-4873
 
 ## Medicamenteus
 ### Niet-traumatish [[rood oog]] **zonder alarmsymptomen**

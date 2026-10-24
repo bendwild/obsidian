@@ -6,7 +6,7 @@ created: 2025-03-08T15:05
 modified: 2026-03-04T14:28
 ---
 = benigne massa in **middenoor/buitenoor**
-- meest agressieve en lastig te behandelen vorm van chronische recidiverende [[Otitis externa]]
+- meest agressieve en lastig te behandelen vorm van chronische recidiverende [[content/02 Areas/Geneeskunde/NKO/Otitis externa]]
 - kan gehoorverlies geven
 - [[Duizeligheid]]
 

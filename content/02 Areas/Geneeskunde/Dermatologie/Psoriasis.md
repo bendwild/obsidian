@@ -3,7 +3,7 @@ tags:
   - Dermatologie
 publish: true
 created: 2025-04-20T00:08
-modified: 2026-02-03T13:30
+modified: 2026-10-21T21:39:13+02:00
 ---
 = essentieel erythematosquameuze huidziekte
 
@@ -113,7 +113,7 @@ Bij twijfel:
 
 # Comorbiditeit
 -> psoriasis is een **complexe, chronische, multimorbide ziekte**
-- arthritis psoriasis (tot 30%, >>psoriasis vulgaris)
+- psoriasis arthritis (PsA) (tot 30%, >>psoriasis vulgaris)
 - [[IBD]]
 - uveïtis
 - metabool syndroom ([[Obesitas]], [[Diabetes mellitus]]...)

@@ -4,8 +4,14 @@ tags:
   - Neurologie
 publish: true
 created: 2025-03-13T21:22
-modified: 2025-10-28T12:46
+modified: 2026-10-21T21:51:26+02:00
+Created: 2026-10-09T11:40:26+02:00
 ---
+# Definitie
+- multi-orgaan inflammatoire ziekte
+	- 80-90% cutane ziekte
+	- 10-20% extra-cutane manifestaties
+
 # Etiologie
 - tekenbeet met Borrelia Burgdorferi
 

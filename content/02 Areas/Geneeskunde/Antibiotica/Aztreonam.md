@@ -3,6 +3,8 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-04-04T22:33
+flashcards:
+  q-6bnv: { hash: cbe3q6ya }
 ---
 ### Werkingsmechanisme
 
@@ -27,6 +29,7 @@ modified: 2026-04-04T22:33
 - beta-lactamase
     - _enterobacterales,_ [[H. Influenza]]_,_ [[M. Catarhhalis]]
     - **==→ toevoegen beta-lactamase inhibitor==**
+^q-6bnv
 
   
 

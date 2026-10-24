@@ -6,6 +6,8 @@ tags:
   - Papers
 created: 2026-04-12T17:35
 modified: 2026-04-02T18:53
+flashcards:
+  q-kiwp: { nid: 1791751431031, hash: frrk3rz9, sync: sn7cr7tg }
 ---
 > [!Cite]
 > 1
@@ -59,6 +61,7 @@ Kortz TB, Nyirenda J, Tembo D, _et al._ Distinct Biomarker Profiles Distinguish 
 
 Zotero PDF Link:  
 Related::  
+^q-kiwp
 
 ### Persistent Notes 
 %% begin notes %% 

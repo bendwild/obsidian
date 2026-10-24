@@ -49,7 +49,7 @@ modified: 2025-10-28T12:46
 - evt chirurgie
 
 ## Hirsutisme
--> abnormaal toegenomen mannelijk beharingspatroon bij vrouw, [[Acne]], androgene alopecia
+-> abnormaal toegenomen mannelijk beharingspatroon bij vrouw, [[Acne]], androgene [[alopecia]]
 - [[PCOS]]
 - onderliggende endocriene aandoening
 - idiopathisch

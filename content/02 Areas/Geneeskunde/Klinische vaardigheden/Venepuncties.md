@@ -4,6 +4,9 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-04-04T22:33
+flashcards:
+  q-54pk: { nid: 1791751461992, hash: gsr84fef, sync: xm4zkq4m }
+  q-rz7a: { nid: 1791751462086, hash: 4skif3ib, sync: mx4intvb }
 ---
 # Afnamevolgorde
 1. Hemoculturen
@@ -28,6 +31,7 @@ modified: 2026-04-04T22:33
     1. Fluoride en oxalaat **inhiberen de glycolytische pathways**
     2. Glucose en lactaat concentraties bepalen
         1. Glucose en lactaatconcentraties veranderen tijdens transport en bewaring in vitro
+^q-54pk
 
 ![[Venepuncties.png]]
 
@@ -66,6 +70,7 @@ modified: 2026-04-04T22:33
 22. Verwijder de naald DIRECT in de naaldcontainer (NIET RECAPPEN!)
 23. **2 minuten druk uitoefenen** (om hematoom te vermijden) op punctieplaats door patiënt met gestrekte arm
 24. Kleef pleister
+^q-rz7a
 
 ## Samengevat
 1. Handhygiëne

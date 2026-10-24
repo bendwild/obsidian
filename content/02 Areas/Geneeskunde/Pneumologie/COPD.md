@@ -4,6 +4,8 @@ tags:
 publish: true
 created: 2025-01-16T22:12
 modified: 2026-04-04T22:33
+flashcards:
+  q-ifyh: { nid: 1791751458283, hash: 6mr8zmgg, sync: 5fcwfjch }
 ---
 # Pathologie
 *= chronic obstructive pulmonary disease*
@@ -187,6 +189,7 @@ Door een abnormale ontstekingsreactie ontstaat bij COPD een vernauwing van de kl
 2. Deze rookdeeltjes zorgen dat uw longen altijd een beetje ontstoken zijn. De longbuisjes worden smaller (nauwer) en er komt meer slijm.
 3. Hierdoor komt er schade in de longbuisjes en longblaasjes. ==**Bij COPD gaat deze schade niet meer weg.**== Uw longen gaan hierdoor minder goed werken. De longblaasjes kunnen minder zuurstof opnemen in uw lichaam. U krijgt vaak last van hoesten, benauwdheid en slijm ophoesten.
 4. De vernauwing in uw longen is gedeeltelijk op te heffen met medicatie maar het is niet volledig reversibel (itt asthma bvb). Enkel rookstop zal op lange termijn uw longcapaciteit (1-seconde waarde) een beetje kunnen verbeteren.
+^q-ifyh
 
 ![[Untitled 107.png|Untitled 107.png]]
 

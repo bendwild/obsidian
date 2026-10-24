@@ -6,9 +6,12 @@ Year: '{{date | format("YYYY")}}'
 Authors: "{{authors}}"
 created: 2026-04-12T17:35
 modified: 2026-09-01T21:39:08+02:00
+flashcards:
+  q-b4ym: { nid: 1791751431153, hash: fnjmwiiw, sync: pvp5wav9 }
 ---
 Zotero PDF Link: {{pdfZoteroLink}} 
 Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
+^q-b4ym
 
 ### Persistent Notes 
 {% persist "notes" %}{% if isFirstImport %} 

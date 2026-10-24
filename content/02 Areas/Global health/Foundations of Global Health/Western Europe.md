@@ -3,6 +3,8 @@ tags:
 publish: false
 created: 2025-10-09T22:59
 modified: 2025-10-28T12:46
+flashcards:
+  q-j78c: { nid: 1791751444106, hash: ma2rchyy, sync: xvf28pb5 }
 ---
 ![[Pasted image 20251009230246.png]]
 
@@ -30,6 +32,7 @@ Monaco::Monaco
 Liechtenstein:::Vaduz
 Luxemburg:::Luxembourg 
 Belgium:::Brussels 
+^q-j78c
 
 - Country online quiz: [https://lizardpoint.com/geography/europe-western-quiz.php](https://lizardpoint.com/geography/europe-western-quiz.php)
 - Capital online quiz: [https://lizardpoint.com/geography/europe-caps-quiz.php?qid=4091](https://lizardpoint.com/geography/europe-caps-quiz.php?qid=4091)

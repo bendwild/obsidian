@@ -4,7 +4,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-04-27T17:22
-modified: 2025-10-28T12:46
+modified: 2026-10-21T20:40:19+02:00
 ---
 # Epidemiologie
 - in België 1000 nieuwe gevallen/j
@@ -53,3 +53,30 @@ modified: 2025-10-28T12:46
 		-> vooral naar **longen, hersenen en lever**
 	- **targeted therapie** (bv BRAF mutatie)
 	- **immunotherapie**
+
+
+# Preventie
+
+Data toont dat systematische populatiescreening voor melanoom weinig opbrengt
+-> **lesion-directed screening** of **1-vlek check** wel effectief 
+- 02 4776012
+- zonder verwijsbrief
+- verdacht, veranderd huidletsel
+- geen volledige controle
+
+Wat zijn de indicaties voor periodieke nevi controle en monitoring?
+- persoonlijke/familiale voorgeschiedenis van melanoom
+- meer dan 100 nevi
+- 5 of meer klinisch atypische nevi of hooggradig dysplastische nevi
+
+> [!INFO] Interessant: link tussen huidkanker en pancreaskanker
+
+# Technologie
+
+Betalende apps (bv skinvision)
+- ondermaatse sensitiviteit en specificiteit bij externe validatiestudies, ondanks deels terugbetaald door sommige mutualiteiten
+
+3D scans (spotwatch)
+- betrouwbaarder (wordt ook gecheckt door dermatoloog)
+- niet terugbetaald
+- geen lange-termijnsdata

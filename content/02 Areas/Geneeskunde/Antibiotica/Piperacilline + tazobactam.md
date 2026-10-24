@@ -3,6 +3,8 @@ tags: []
 publish: true
 created: 2025-01-16T22:12
 modified: 2025-10-28T12:46
+flashcards:
+  q-jqec: { hash: cbe3q6ya }
 ---
 ### Werkingsmechanisme
 
@@ -27,6 +29,7 @@ modified: 2025-10-28T12:46
 - beta-lactamase
     - _enterobacterales,_ [[H. Influenza]]_,_ [[M. Catarhhalis]]
     - **==→ toevoegen beta-lactamase inhibitor==**
+^q-jqec
 
   
 
