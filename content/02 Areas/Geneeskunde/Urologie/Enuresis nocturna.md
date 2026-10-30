@@ -53,7 +53,7 @@ Zindelijkheid
 ## Frequente co-morbiditeit
 - [[constipatie]] en faecale [[incontinentie]]
 - psychosociale en sociale stoornissen
-- [[ADHD]] & [[autisme]]
+- [[ADHD]] & [[ASS]]
 - mentale en motorische ontwikkelingsstoornissen
 - **bovenste luchtwegobstructie** (daling ADH spiegels)
 	- adenotonsillectomie bv kan resulteren in volledige resolutie enuresis
@@ -78,7 +78,7 @@ Zindelijkheid
 ## [[Labo]]
 - **urinesediment** (standaard)
 	- infectie, [[urolithiasis]], [[proteïnurie]], glucosurie
-- urinecultuur bij voorgeschiedenis van recidiverende [[UWI]]
+- urinecultuur bij voorgeschiedenis van recidiverende [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 - urinaire osmolaliteit en elektrolytenbepaling bij therapieresistente monosymptomatishe enuresis met duidelijke polyurie
 
 # Diagnose

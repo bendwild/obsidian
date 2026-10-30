@@ -12,7 +12,7 @@ modified: 2025-10-28T12:46
 | Definitie     | = rupture of membranes (ROM) **prior to the start of uterine contractions** ≥ 37 weeks of gestation | = PROM <37 weeks of gestation       |
 | Epidemiologie | 10% van alle zwangerschappen                                                                        | 25-30% van alle premature geboortes |
 # Risicofactoren
-- maternale [[UWI]]
+- maternale [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 - intra-amniotic infection
 - antepartum bloeding
 - laag BMI

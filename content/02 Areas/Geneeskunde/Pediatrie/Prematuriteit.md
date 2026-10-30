@@ -81,7 +81,7 @@ modified: 2026-04-04T22:33
 	- [[Epilepsie]]
 	- [[Cerebral palsy]]
 	- leerstoornissen
-- [[Autisme]]
+- [[ASS]]
 
 ## Necrotiserende enterocolitis
 ![[Prematuriteit.png]]

@@ -3,7 +3,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-10-28T12:46
+modified: 2026-10-24T11:36:03+02:00
 ---
 # Essentie
 Stoornis in de *verwerking en integratie* van informatie aanwezig vanaf de *vroege kinderleeftijd*, met beperkingen in *sociaal communicatief gedrag* en *beperkte repetitive gedragingen en interesses* die leiden tot *beperkingen in het functioneren.*
@@ -127,7 +127,7 @@ Tot op heden *geen biologische markers* voor ASS gevonden.
 ## Multidisciplinair team
 
 ### Artsen
-- klinisch-psychiatrisch onderzoek
+- klinisch-[[psychiatrisch onderzoek]]
 	- kindobservatie en/of interview
 - ontwikkelingsanamnese
 ### Psychologen

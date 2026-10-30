@@ -68,7 +68,7 @@ modified: 2025-10-28T12:46
 
 **Begin [[Icterus]] 2d-2w**
 - infectie
-	- [[Icterus]] is typisch teken van [[UWI]] bij neonaat
+	- [[Icterus]] is typisch teken van [[content/02 Areas/Geneeskunde/Urologie/UWI]] bij neonaat
 - [[Crigler-Najjar syndroom]] 
 	- deficiëntie/afwezigheid *glucuronyltransferase* (conjugatie-enzym)
 - galactosemie

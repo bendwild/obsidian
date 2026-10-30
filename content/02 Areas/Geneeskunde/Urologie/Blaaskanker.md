@@ -15,7 +15,7 @@ modified: 2025-10-28T12:46
 - hoge leeftijd
 - aromatische amines (verf- & rubberindustrie!, sigarettenrook)
 - schistosomiasis -> leidt tot plaveiselcelcarcinoom blaas
-- chronische [[UWI]]
+- chronische [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 
 > [!ATTENTION] Verf- of rubberfabriekarbeiders met pijnloze hematurie -> denk aan blaaskanker!
 

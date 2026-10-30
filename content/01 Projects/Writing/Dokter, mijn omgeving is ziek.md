@@ -2,7 +2,7 @@
 tags:
 publish:
 created: 2026-04-12T17:35
-modified: 2026-10-23T17:37:10+02:00
+modified: 2026-10-29T17:58:26+01:00
 ---
 Max 700 woorden
 
@@ -44,3 +44,4 @@ https://www.unep.org/en/news-and-stories/press-release/unep-world-set-cross-15de
 https://www.stockholmresilience.org/research/planetary-boundaries.html
 
 
+Human development and ‘prosperity’ (i.e. wealth, good health), _albeit_ unequal, has been at the expense of our natural environment. Through extractive and polluting activities (e.g. mining, burning fossil fuels), infrastructure (e.g. roads, buildings) and agricultural practices (e.g. fertilisers, pesticides), our planet is in crisis. The ‘safe operating space’ of six of the nine identified planetary boundaries (e.g. climate change, biodiversity, novel entities) has been breached,[5](https://asmepublications.onlinelibrary.wiley.com/doi/10.1111/medu.15363#medu15363-bib-0005) despite Principle 3 (‘The capacity of the earth to produce vital renewable resources must be maintained and, wherever practicable, restored or improved’) and Principle 4 of the 1972 Stockholm Declaration (‘Man has a special responsibility to safeguard and wisely manage the heritage of wildlife and its habitat …’)[6](https://asmepublications.onlinelibrary.wiley.com/doi/10.1111/medu.15363#medu15363-bib-0006) and despite the 1986 World Health Organisation's _Ottawa Health Promotion Charter_ (‘The inextricable links between people and their environment constitute the basis for a socioecological approach to health

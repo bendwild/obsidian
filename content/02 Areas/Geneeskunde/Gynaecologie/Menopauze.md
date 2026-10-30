@@ -157,7 +157,7 @@ Contra-indicaties
 > - warmte opwellingen
 > - vaginale klachten
 >
->Geen bewezen effect op urinaire [[incontinentie]], recidiverende [[UWI]], mentale veranderingen, geheugen- en concentratieproblemen, spier- en gewrichtspijn, of gewichtstoename
+>Geen bewezen effect op urinaire [[incontinentie]], recidiverende [[content/02 Areas/Geneeskunde/Urologie/UWI]], mentale veranderingen, geheugen- en concentratieproblemen, spier- en gewrichtspijn, of gewichtstoename
 
 > [!important] Behandeling zo kort mogelijk houden
 > - liefst minder dan 5j

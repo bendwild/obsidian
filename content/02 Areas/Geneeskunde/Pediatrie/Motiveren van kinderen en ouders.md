@@ -4,12 +4,15 @@ tags:
   - Communicatie
 publish: true
 created: 2026-04-12T17:35
-modified: 2026-10-24T11:16:45+02:00
+modified: 2026-10-24T11:42:25+02:00
 ---
 > [!IMPORTANT] Systeemaanpak, stel het gezin centraal
 > - gedrag begrijpen voor gedrag veranderen 
 > - psychologische veiligheid is een voorwaarde voor verandering
+> 	- supporteren
 > - het gezin is deel van de oplossing
+> 	- goede voorbeeld
+> 	- niet belonen met voeding
 
 1. Waar staat de persoon nu ([[Motivationele gespreksvoering]], [[Prochaska's model of behaviour change]])
 2. Wat hebben ze nu nodig (fase-specifieke interventie)

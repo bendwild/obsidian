@@ -17,7 +17,7 @@ modified: 2025-10-28T12:46
 - Visusklachten
 - Vermoeidheid
 - Pruritus vulvae op oudere leeftijd
-- Recidiverende [[UWI]] en balanitis
+- Recidiverende [[content/02 Areas/Geneeskunde/Urologie/UWI]] en balanitis
 - Mono-/polyneuropathie en neurogene pijn, sensibiliteitsstoornissen
 
 ## Progressie
@@ -38,7 +38,7 @@ Hyperglycemie
 - Retinopathie (katoenballen op fundoscopie)
 - [[Nefrotisch syndroom]] (arteriolen + glomerulus)
 - Verminderde neurogene sensatie
-- Autonome disfunctie (zweet, [[UWI]], balanitis, GI-stoornissen, seksuele stoornissen)
+- Autonome disfunctie (zweet, [[content/02 Areas/Geneeskunde/Urologie/UWI]], balanitis, GI-stoornissen, seksuele stoornissen)
 - Ulcera
 
 > [!DANGER]  Gevaarlijkste complicatie

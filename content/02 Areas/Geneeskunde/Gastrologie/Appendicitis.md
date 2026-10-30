@@ -50,7 +50,7 @@ Algemeen
 	- CRP (*heel hoge specificiteit!*)
 	- WBC
 - urine
-	- uitsluiten [[UWI]] eventueel
+	- uitsluiten [[content/02 Areas/Geneeskunde/Urologie/UWI]] eventueel
 	- **positief urinesediment sluit appendicitis niet uit**
 - HCG
 	- uitsluiten [[EUG]]

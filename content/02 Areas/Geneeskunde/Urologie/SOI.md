@@ -90,7 +90,7 @@ modified: 2026-02-03T14:30
 > - Syfilis, [[HIV]] en [[Hepatitis]] B kunnen na 6 weken met grote zekerheid uitgesloten worden
 > - Om zo goed als volledige zekerheid te krijgen kun je overwegen om het na 3 maanden nog eens te herhalen (vooral in kader van [[HIV]])
 
-> [!important] Urinaire SOA test -> ochtendstaal (=/= bij vermoeden [[UWI]])
+> [!important] Urinaire SOA test -> ochtendstaal (=/= bij vermoeden [[content/02 Areas/Geneeskunde/Urologie/UWI]])
 
 # Tools
 - [zanzu](https://www.zanzu.be/nl/taalkeuze) (seksuele gezondheid in 14 talen)

@@ -4,7 +4,7 @@ tags:
   - Pediatrie
 publish: true
 created: 2026-04-12T17:35
-modified: 2026-10-24T10:08:29+02:00
+modified: 2026-10-24T11:43:42+02:00
 ---
 1/5 kinderen overgewicht of [[obesitas]], stijgende evolutie
 
@@ -44,6 +44,7 @@ Evaluatie van gezondheidsrisico's gebaseerd op 4 M's (Edmonton Staging Scale)
 - **M** etabool ([[labo]])
 - **M** echanisch (orthopedisch, [[OSAS]]...)
 - **M** entaal (eetbuien, [[depressie]]...)
+	- vraag ook na [[ASS]], [[ADHD]]
 - **M** ilieu (context kind)
 
 Stadium is gebaseerd op item met hoogste score, hoger stadium heeft meer inttensieve begeleiding nodig
@@ -120,7 +121,16 @@ Stadium is gebaseerd op item met hoogste score, hoger stadium heeft meer inttens
 > - dus eig levenslange behandeling
 > - voor effectieve behandeling 26 contacturen nodig
 
-Je kan een PMOC bellen voor advies over een kind
+> [!INFO] Maak concrete afspraken (SMART)
+> - 1u bewegen
+> - ontbijten
+> - frisdranken en gezoete dranken minimaliseren
+> - gezonde tussendoortjes
+> - max 2x/w snackmomentje
+> - werk per maaltijdmoment voor concrete tools
+
+
+> [!info] PMOC's kunnen altijd gecontacteerd worden voor advies voor kinderen met overgewicht/[[obesitas]]
 
 # [[Obesitas]] management medication bij kinderen
 In Europa goedgekeurd

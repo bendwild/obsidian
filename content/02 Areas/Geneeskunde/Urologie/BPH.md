@@ -24,7 +24,7 @@ modified: 2025-10-28T12:46
 ## Diagnostiek
 - rectaal toucher
 - [[Labo]]
-	- [[UWI]] uitsluiten
+	- [[content/02 Areas/Geneeskunde/Urologie/UWI]] uitsluiten
 	- nierinsufficiëntie?
 	- PSA (-ratio)
 - TRUS

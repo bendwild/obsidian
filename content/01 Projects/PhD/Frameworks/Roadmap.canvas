@@ -59,14 +59,14 @@
 		{"id":"a9cf7c27e634f890","type":"text","text":"Scope too broad\n- focus on GP training?","x":3580,"y":-143,"width":250,"height":86},
 		{"id":"3d6f61a7e13f18cc","type":"text","text":"Way too much, adapt by: \n- focus on GP training\n- identify pro\n- implementation is not really a research question, drop CFIR\n- Intego is optional, depends on the types of gaps we identify and if they fit the dataset","x":3022,"y":247,"width":498,"height":499},
 		{"id":"f4705daa75269fb1","type":"text","text":"<center>Semi-structured interviews and focus group discussions (met LOK-groepen - coördinator?)</center>","x":1122,"y":293,"width":362,"height":55},
-		{"id":"554d209cca30dc17","x":832,"y":388,"width":290,"height":92,"type":"text","text":"Organisatorisch, afvalbeleid, energieverbruik, verwarmingsbeleid"},
-		{"id":"0839cedaa831ffc2","x":1443,"y":1143,"width":250,"height":60,"type":"text","text":"Wat is een successvol traject tot implementation, how do you make it "},
-		{"id":"ddb1e86094876d67","x":1057,"y":1182,"width":250,"height":60,"type":"text","text":"Wanneer denk je dat je een impact heb en met wat ben je tevreden?"},
-		{"id":"991b5d1cc8cd7b4d","x":1981,"y":1167,"width":250,"height":60,"type":"text","text":"Wat betekent dat: planetary health op huisartsenniveau"},
-		{"id":"3ce608d2fb023e1d","x":2247,"y":1157,"width":250,"height":60,"type":"text","text":""},
-		{"id":"0d7c39cced6c741b","x":336,"y":362,"width":250,"height":60,"type":"text","text":"Brede groep lesgevers bevragen? Hoe relevant? Waarom komt dit nu (niet) aan bod?"},
-		{"id":"ee200a9489489bd1","x":536,"y":351,"width":250,"height":60,"type":"text","text":"HA vs specialisatie / kliniek"},
-		{"id":"b810f61649d7c2a8","x":555,"y":461,"width":250,"height":55,"type":"text","text":"Studentenbevragingen mening onderzoek (brigitte schoemaker?)"}
+		{"id":"554d209cca30dc17","type":"text","text":"Organisatorisch, afvalbeleid, energieverbruik, verwarmingsbeleid","x":832,"y":388,"width":290,"height":92},
+		{"id":"0839cedaa831ffc2","type":"text","text":"Wat is een successvol traject tot implementation, how do you make it ","x":1443,"y":1143,"width":250,"height":137},
+		{"id":"ddb1e86094876d67","type":"text","text":"Wanneer denk je dat je een impact heb en met wat ben je tevreden?","x":1057,"y":1182,"width":250,"height":118},
+		{"id":"991b5d1cc8cd7b4d","type":"text","text":"Wat betekent dat: planetary health op huisartsenniveau","x":1981,"y":1167,"width":250,"height":113},
+		{"id":"3ce608d2fb023e1d","type":"text","text":"","x":2247,"y":1157,"width":250,"height":60},
+		{"id":"0d7c39cced6c741b","type":"text","text":"Brede groep lesgevers bevragen? Hoe relevant? Waarom komt dit nu (niet) aan bod?","x":336,"y":362,"width":250,"height":60},
+		{"id":"ee200a9489489bd1","type":"text","text":"HA vs specialisatie / kliniek","x":536,"y":351,"width":250,"height":60},
+		{"id":"b810f61649d7c2a8","type":"text","text":"Studentenbevragingen mening onderzoek (brigitte schoemaker?)","x":555,"y":461,"width":250,"height":55}
 	],
 	"edges":[
 		{"id":"fd7f259fb3a72234","fromNode":"8c653ee81d11e62a","fromSide":"right","toNode":"80b740245e55c4ce","toSide":"left"},

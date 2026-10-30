@@ -21,10 +21,10 @@ Reductie door bacteriële flavoproteïnes → multipele reactieve metabolieten �
 ![[Untitled 127.png|Untitled 127.png]]
 
 Empirische therapie
-- ongecompliceerde [[UWI]]
+- ongecompliceerde [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 
 Gerichte therapie
-- ongecompliceerde [[UWI]] veroorzaakt door
+- ongecompliceerde [[content/02 Areas/Geneeskunde/Urologie/UWI]] veroorzaakt door
     - enterobacterales
     - enterokokken
     - s. saprofyticus

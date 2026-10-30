@@ -9,7 +9,7 @@ modified: 2025-10-28T12:46
 = developmental coordination disorder 
 - motorische ontwikkelingsstoornis
 - beïnvloedt dagelijkse activiteiten, schoolprestaties & sociale partcipatie
-- vaak in combinatie met andere stoornissen zoals [[ADHD]], [[Autisme]] & dyslexie
+- vaak in combinatie met andere stoornissen zoals [[ADHD]], [[ASS]] & dyslexie
 
 # Kliniek
 ## Kenmerken

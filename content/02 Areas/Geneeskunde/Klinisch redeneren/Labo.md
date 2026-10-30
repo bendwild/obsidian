@@ -129,7 +129,7 @@ flashcards:
 | Cilinders          |                                                                          | = afgietsels van de niertubuli<br><br>*Fysiologisch:*<br>- hyaliene cilinders<br><br>*Pathologisch:*<br>- RBC-cilinder -> glomerulonefritis<br>- WBC-cilinder -> [[Pyelonefritis]], [[Acute tubulo-interstitiële nefritis]]<br>- korrelcilinder -> nierlijden                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
 | Epitheelcellen     |                                                                          | Plaveiselcelepitheelcellen:<br>- schilferen spontaan, normaal om terug te vinden in de urine<br><br>Transitionele epitheelcellen:<br>- **niet normaal** om terug te vinden in de urine<br>- wijst op prikkeling van het urotheel (door bv ontsteking)<br><br>Renale tubulaire epitheelcellen: <br>- niet-pluis, den**pathologie van de nier** |                                                                                                                                                                                                                                                                                                                                                                   |
 
-Stroomschema: [[UWI]]
+Stroomschema: [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 
 Samenvatting [[Acute nierinsufficiëntie]] - pre/postrenaal
 

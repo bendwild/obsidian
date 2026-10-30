@@ -12,7 +12,7 @@ modified: 2026-04-04T22:33
 
 ### Klinische beelden
 
-- [[UWI]]: cystitis, [[Pyelonefritis]], [[Prostatitis]]
+- [[content/02 Areas/Geneeskunde/Urologie/UWI]]: cystitis, [[Pyelonefritis]], [[Prostatitis]]
 - [[PID]]
 - Intra-abdominale infecties: cholecystitis, [[Diverticulitis]], …
 - Enterohemorragische E. coli

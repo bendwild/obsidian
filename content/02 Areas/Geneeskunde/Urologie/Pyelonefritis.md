@@ -10,7 +10,7 @@ modified: 2025-10-28T12:46
 -> pyelonefritis: ontsteking van zowel nierbekken en nierparenchym
 
 # Etiologie
-- opstijgende [[UWI]] vanuit blaas (cystitis)
+- opstijgende [[content/02 Areas/Geneeskunde/Urologie/UWI]] vanuit blaas (cystitis)
 - vesico-ureterale reflux
 - obstructie
 	- [[Urolithiasis]]
@@ -29,7 +29,7 @@ modified: 2025-10-28T12:46
 	- sediment
 	- cultuur + antibiogram
 	- alfa-1 microglobuline 
-		- zeer handig middel, is bij een opstijgende [[UWI]] altijd gestegen!
+		- zeer handig middel, is bij een opstijgende [[content/02 Areas/Geneeskunde/Urologie/UWI]] altijd gestegen!
 		- (stijg bij tubulaire schade, niet standaard)
 - [[labo]] (verhoogde inflammatieparameters)
 - echo 

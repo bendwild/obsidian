@@ -25,7 +25,7 @@ Ask yourself the question:
         - [[Endometriose]]
         - Menstruatiepijn
         - Buikgriep
-        - [[UWI]]
+        - [[content/02 Areas/Geneeskunde/Urologie/UWI]]
         - Cystitis
         - Niersteen
     - Vragen
@@ -35,7 +35,7 @@ Ask yourself the question:
         - Bewegingsdrang (koliek)
         - Klachten verminderen door voedsel (ulcus)
         - Buikpijn vlak of na maaltijd (angina abdominalis)
-        - Frequente pijnlijke mictie ([[UWI]])  
+        - Frequente pijnlijke mictie ([[content/02 Areas/Geneeskunde/Urologie/UWI]])  
 - Oorpijn
     - Binnencirkel
         - Tonsillitis
@@ -1314,7 +1314,7 @@ Ask yourself the question:
         
         - Hyperacuut: perforatie, [[Aneurysma]], koliek
         - Subacuut: appendicitis, [[Diverticulitis]], [[Pancreatitis]], pyelonephritis, gastro-enteritis, [[PID]], cystitis
-        - Chronisch of recidiverend: [[IBS]], obstipatie, inflammatoir darmlijden, [[Colorectaal carcinoom]], chronische [[UWI]], [[Endometriose]], myoom
+        - Chronisch of recidiverend: [[IBS]], obstipatie, inflammatoir darmlijden, [[Colorectaal carcinoom]], chronische [[content/02 Areas/Geneeskunde/Urologie/UWI]], [[Endometriose]], myoom
         - Maandelijkse recidieven: [[IBS]], Crohn, [[Endometriose]]
         
           

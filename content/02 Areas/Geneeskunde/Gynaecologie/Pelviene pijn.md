@@ -32,7 +32,7 @@ modified: 2025-10-28T12:46
 - [[Dysmenorroe]]
 - [[Endometriose]]/endometritis
 - Buikgriep
-- [[UWI]]
+- [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 - Niersteen
 - SOLK
 

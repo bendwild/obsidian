@@ -42,7 +42,7 @@ Symptomen
 
 Symptomen
 - littekenweefsel
-- recidiverende [[UWI]]
+- recidiverende [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 - chronische pijn
 - seksuele problemen
 

@@ -19,7 +19,7 @@ modified: 2025-10-28T12:46
 |                                                            | [[Pancreatitis]]                                         |
 |                                                            | [[Henoch-Schonlein]]                                     |
 |                                                            | Diabetische keto-acidose                                 |
-|                                                            | Urogenitaal<br>- niersteen<br>- [[UWI]]<br>- peritonitis |
+|                                                            | Urogenitaal<br>- niersteen<br>- [[content/02 Areas/Geneeskunde/Urologie/UWI]]<br>- peritonitis |
 |                                                            | [[Malabsorptie]]                                         |
 
 ## Symptomen

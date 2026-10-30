@@ -17,7 +17,7 @@ modified: 2026-10-21T21:39:13+02:00
 # Etiologie
 - infecties
 	- bacteriële infecties NKO regio
-	- recidiverende [[UWI]]
+	- recidiverende [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 	- COVID-19
 - medicatie
 	- **beta-blokkers!!**

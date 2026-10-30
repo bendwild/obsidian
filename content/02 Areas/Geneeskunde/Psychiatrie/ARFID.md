@@ -19,7 +19,7 @@ modified: 2025-10-28T12:46
 ## Risico-factoren
 - verstandelijke ontwikkelingsstoornis
 - [[ADHD]]
-- [[Autisme]]
+- [[ASS]]
 - [[Anxiety Disorders]]
 - "picky eating" in childhood
 
