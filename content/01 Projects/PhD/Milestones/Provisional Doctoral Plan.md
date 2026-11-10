@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-02T11:20:29+02:00
+modified: 2026-11-06T17:05:11+01:00
 ---
 
 > [!info] Instructions
@@ -55,3 +55,5 @@ Provide a concise description of the different phases of your PhD project, inclu
 - **If data have been collected before the start of your PhD, please mention this in your provisional doctoral plan as the committee has to approve that these data will be used for your project.**
 
 - **References** (= page 5)
+
+

@@ -1,13 +1,15 @@
 ---
-title: "AI WILL replace doctors, and here's why"
-source: "https://www.youtube.com/watch?v=LKpYZz8_pZw&t=135s"
+title: AI WILL replace doctors, and here's why
+source: https://www.youtube.com/watch?v=LKpYZz8_pZw&t=135s
 author:
   - "[[Medlife Crisis]]"
 published: 2026-10-16
 created: 2026-10-30
-description: "Doctors keep talking about whether AI will replace us but many also seem to be actively encouraging it, by practicing medicine in a way that will allow machines to seamlessly take our places. The lose"
+description: Doctors keep talking about whether AI will replace us but many also seem to be actively encouraging it, by practicing medicine in a way that will allow machines to seamlessly take our places. The lose
 tags:
-  - "clippings"
+  - clippings
+publish: true
+modified: 2026-11-05T19:24:49+01:00
 ---
 ![](https://www.youtube.com/watch?v=LKpYZz8_pZw)
 

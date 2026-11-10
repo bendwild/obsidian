@@ -3,12 +3,12 @@ tags:
   - Pediatrie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-10-28T12:46
+modified: 2026-11-10T10:44:58+01:00
 ---
 # Kinderen
 ## Standaard
 
-| **8 weken**                                                                                                                                                              | **12 weken**                                                    | **16 weken**                                 | **12 maand**                             | **15 maand**                         | **6 J**     | **9 J** | **12 J** | **14 J** |
+| <span class="ptb" style="background:#6D28D9">**8 weken**</span> | <span class="ptb" style="background:#6D28D9">**12 weken**</span> | <span class="ptb" style="background:#6D28D9">**16 weken**</span> | <span class="ptb" style="background:#6D28D9">**12 maand**</span> | <span class="ptb" style="background:#6D28D9">**15 maand**</span> | <span class="ptb" style="background:#6D28D9">**6 J**</span> | <span class="ptb" style="background:#6D28D9">**9 J**</span> | <span class="ptb" style="background:#6D28D9">**12 J**</span> | <span class="ptb" style="background:#6D28D9">**14 J**</span> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------- | ------------------------------------ | ----------- | ------- | -------- | -------- |
 | Hexavalent vaccin: difterie, tetanus, pertussis (kinkhoest), haemophilus influenza B, [[Hepatitis]] B, polio (IPV = geïnactiveerd polio vaccin)<br>Pneumokok<br>Rota (€) | Hexavalent vaccin<br>Pneumokok (**bij prematuren**)<br>Rota (€) | Hexavalent vaccin<br>Pneumokok<br>(rota (€)) | MBR (mazelen, bof, rubella)<br>Pneumokok | Hexavalent vaccin<br>Meningokok ACWY | DTPa<br>IPV | MBR     | HPV      | DTPa     |
 ![[Pasted image 20250103215315.png]]
@@ -33,13 +33,13 @@ Niet in basisvaccinatieschema -> meningokok B, [[hepatitis]] A, windpokken, infl
 Aan te raden -> **meningokok B**, niet terugbetaald tho
 
 # Volwassenen
-## Algemeen
+## Basispakket vaccinaties
 
-|                         | **Leeftijd**                            | **Frequentie**             |
-| ----------------------- | --------------------------------------- | -------------------------- |
-| **Tetanus en difterie** | vanaf 24j                               | 1x/10j                     |
-| **Griep**               | vanaf 65j                               | 1x/j                       |
-| **Mazelen**             | 70 - 85j<br>(als nog niet gevaccineerd) | basisvaccinatie:  <br>0-1M |
+| <span class="ptb" style="background:#6D28D9"></span> | <span class="ptb" style="background:#6D28D9">**Leeftijd**</span> | <span class="ptb" style="background:#6D28D9">**Frequentie**</span> |
+| ---------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Tetanus en difterie**                              | vanaf 24j                                                        | 1x/10j                                                             |
+| **Griep**                                            | vanaf 65j                                                        | 1x/j                                                               |
+| **Mazelen**                                          | 70 - 85j<br>(als nog niet gevaccineerd)                          | basisvaccinatie:  <br>0-1M                                         |
 ### Griep
 Vaccin tegen de 2 meest voorkomende influenza A-stammen + 2 circulerende B-stammen
 
@@ -50,15 +50,15 @@ o   >9j: 1 vaccin is voldoende
 
 Enkel bij: 
 
-|             | **Risico-groepen**                                                                                                                                                                                                                                                                                    |
+| <span class="ptb" style="background:#6D28D9"></span> | <span class="ptb" style="background:#6D28D9">**Risico-groepen**</span> |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Categorie A | Groep 1: risico op complicaties (ZS, chronische DD bij pt >6m, >65J, instelling, 6ma-18J met langdurig aspirine)<br><br>Groep 2: werkzaam in GZ-sector<br><br>Groep 3: cocoonvaccinatie bij<br>- Risicopt uit groep 1  <br>- Kinderen <6m zonder RF waarvan de moeder GEEN vaccin kreeg tijdens de ZS |
 | Categorie B | 50-65J                                                                                                                                                                                                                                                                                                |
 | Categorie C | Rest van bevolking                                                                                                                                                                                                                                                                                    |
 ### COVID
-**Kinderen die risico lopen en moeten worden gevaccineerd tegen COVID-19 >6m
+**Kinderen die risico lopen  moeten worden gevaccineerd tegen COVID-19 >6m
 
-| Risicogroep                 | Aanpak                                                                                                                                   |
+| <span class="ptb" style="background:#6D28D9">Risicogroep</span> | <span class="ptb" style="background:#6D28D9">Aanpak</span> |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Immuungecompromitteerde pt  | - Immuunosuppressieve behandeling<br>- Auto-immuunziekten<br>- Behandeling van hemato-onco aandoeningen<br>- Primaire immuundeficienties |
 | Ernstige chronische ziekten | Van nieren, GIT, CV, ademhaling, neurologie                                                                                              |
@@ -66,7 +66,29 @@ Enkel bij:
 
 => Covid19 en seizoensgriepvaccinatie w bij voorkeur samen aangeboden uit operationele overwegingen. Het is veilig en doeltreffend.
 
+### RSV
+Vanaf 75 jaar
+- 1x (voorlopig nog geen herhalingen)
+- 190 euro (geen terugbetaling)
+
+### Pneumokokken
+65 - 85 jaar
+- PCV-20 (Prevenar20)
+	- 1x (voorlopig nog geen herhalingen)
+	- 68 euro (geen terugbetaling)
+- Alternatief: PPV-23 (Pneumovax-23)
+	- 1x (voorlopig nog geen herhalingen)
+	- 34 euro (geen terugbetaling)
+
+### Zona
+Vanaf 60j
+- 2 dosissen op 0 & 2M (voorlopig geen herhalingen)
+- 330€ (geen terugbetaling)
+
 ## Specifieke situaties
+
+## Vaccins bij gezonde senioren
+
 ## [[Zwangerschap]]
 - griep (ongeacht welk trimester)
 - kinkhoest (w24-w32)
@@ -82,3 +104,16 @@ Enkel bij:
 - tegen influenza bij kinderen vanaf 6 maanden en volwassenen met ernstig [[astma]]
 - tegen pneumokokken bij volwassenen vanaf 50 jaar
 - tegen COVID-19
+
+## Asplenie
+- griep vaccin
+- menigococcen vaccin 
+- pneumococcen vaccin
+
+> [!INFO] Source
+> [NHS Splenic Dysfunction](https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2016/02/clarification-menb-menacwy-vacc-asplenic-splenic-dysfunction.pdf)
+
+## Post-infarct
+Bijzondere risicogroep
+- Griepvaccin na AMI (binnen 2 maand)
+- Goed bewijs van effect (sterfte NNV 33, major cardiovasculair event NNV 50)

@@ -5,7 +5,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-02-14T17:09
-modified: 2025-10-28T12:46
+modified: 2026-11-10T14:10:18+01:00
 ---
 # Afbouw
 1. EDUCATIE
@@ -34,10 +34,11 @@ Waarom?
 
 Maak onderscheid tussen onttrekkingsverschijnselen vs herval:
 
-| Onttrekkingsverschijnselen                                                                                     | Herval                                                          |
+| <span class="ptb" style="background:#6D28D9">Onttrekkingsverschijnselen</span> | <span class="ptb" style="background:#6D28D9">Herval</span> |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | - **Kortwerkend** (bv. alprazolam): binnen 2–3 dagen  <br>- **Langwerkend** (bv. diazepam): binnen 7–10 dagen  | Na weken tot maanden                                            |
 | - Rebound-angst/slapeloosheid  <br>- Tremor, zweten  <br>- Hallucinaties (ernstige gevallen)  <br>- Convulsies | - Chronische angst  <br>- Paniekaanvallen  <br>- Slaapproblemen |
 
 
-
+> [!INFO] Indien nodig voorschrijven: 
+> Alprazolam 1 van de meest kortwerkende benzo's

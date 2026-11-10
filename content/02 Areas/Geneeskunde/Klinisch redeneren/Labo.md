@@ -5,9 +5,12 @@ tags:
   - Huisarts
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-03T14:10
+modified: 2026-11-10T10:48:48+01:00
 flashcards:
-  q-cw8m: { nid: 1791751477305, hash: 2q2rmtup, sync: seng6aj6 }
+  q-cw8m:
+    nid: 1791751477305
+    hash: 2q2rmtup
+    sync: seng6aj6
 ---
 # Hematologie
 #Hematologie 
@@ -132,6 +135,11 @@ flashcards:
 Stroomschema: [[content/02 Areas/Geneeskunde/Urologie/UWI]]
 
 Samenvatting [[Acute nierinsufficiëntie]] - pre/postrenaal
+
+
+> [!ATTENTION] Albuminurie meten!!
+> Via een ochtendurine
+
 
 # Elektrolyten & Mineralen
 

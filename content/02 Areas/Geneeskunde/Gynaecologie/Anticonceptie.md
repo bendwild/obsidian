@@ -126,7 +126,7 @@ Opties:
 > -> ovulatie met 5d uitstellen aangezien levensduur spermacellen +/- 5d is
 
 > [!important] 
-> Best SOI uitsluiten bij noodspiraal
+> Best [[SOI]] uitsluiten bij noodspiraal
 
 ## [[Obesitas]] 
 •    Geen AC pleister (minder betrouwbaar)      

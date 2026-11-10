@@ -5,7 +5,7 @@ tags:
   - Cancer
 publish: true
 created: 2025-03-12T13:26
-modified: 2026-04-23T10:39
+modified: 2026-11-10T13:57:43+01:00
 ---
 # Epidemiologie
 - gemiddelde diagnose -> **54j**
@@ -92,7 +92,7 @@ Kinderwens -> fertiliteitssparende behandeling
 - ev gekoppeld met neo-adjuvante chemotherapie
 
 [[Metastasen]] & recidieven -> chemotherapie
-# Preventie
+# [[Preventie]]
 ## [[Vaccinaties]]
 -> 9-valent HPV-vaccin op 12j
 - CAVE nieuwkomers
@@ -107,3 +107,5 @@ Cytologie van het uitstrijkje
 	- hooggradige intra-epitheliale laesie (HSIL) -> colposcopie
 	- aspecifieke afwijking with unknown significance (ASCUS) -> extra HPV test -> indien hoog-risico HPV aanwezig -> colposcopie
 
+
+![[Pasted image 20261110135732.png]]![[Pasted image 20261110135758.png]]

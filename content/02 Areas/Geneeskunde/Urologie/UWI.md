@@ -4,7 +4,7 @@ tags:
   - Gynaecologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2026-02-03T13:30
+modified: 2026-11-10T14:22:11+01:00
 ---
 # Wat is een UWI?
 
@@ -80,7 +80,7 @@ Recidiverend? Pijn in rug of onderbuik? aanwijzingen voor [[SOI's]]? recent onde
 	- met ev uitgesteld voorschrift
 
 -> bij **verhoogd risico op gecompliceerd verloop** ([[zwangerschap]], bij mannen, [[diabetes mellitus]],  immunocompromitatie, anatomische afwijkingen aan nieren en urinewegen, neurologische blaasstoornissen, verblijfscatheter)
-- kortdurende AB-kuur van 3-5d
+- kortdurende AB-kuur van 3-5d (**7d bij diabetes**)
 	-> klachten zullen sneller verdwijnen + minder kans op recidieven
 	- Nitrofurantoïne (eerste keus, echter toenemende resistentie)
 		- CAVE [[Zwangerschap]] (niet tijdens laatste weken -> risico op hemolytische [[anemie]])

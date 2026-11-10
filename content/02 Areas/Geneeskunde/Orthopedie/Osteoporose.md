@@ -5,7 +5,7 @@ tags:
   - Rheumatologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-10-28T12:46
+modified: 2026-11-10T13:19:15+01:00
 ---
 # Etiologie
 ## Primaire osteoporose
@@ -16,8 +16,8 @@ modified: 2025-10-28T12:46
 
 # Secundaire osteoporose
 
-| Endocrinopathie                                                                                               | Medicatie                                                                                                                         | GI-aandoeningen                                                                                                                                                     | Inflammatoire ziekten                                                               | Beenmerg aandoeningen                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span class="ptb" style="background:#6D28D9">Endocrinopathie</span>                                               | <span class="ptb" style="background:#6D28D9">Medicatie</span>                                                                     | <span class="ptb" style="background:#6D28D9">GI-aandoeningen</span>                                                                                                 | <span class="ptb" style="background:#6D28D9">Inflammatoire ziekten</span>            | <span class="ptb" style="background:#6D28D9">Beenmerg aandoeningen</span>                                                                     |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | - [[Hypogonadisme]]<br>- hyperthyroidisme<br>- hypercalciurie<br>- hyperparathyroidisme<br>- [[Cushing syndroom]] | - overinname glucocorticoïden ([[Cushing syndroom]])<br>- aromatase/GnRH antagonisten<br>- overinname schildklierhormoon<br>- ... | - [[IBD]]<br>- coeliakie<br>- gastrectomie / intestinale bypass<br>- primaire biliaire cirrose<br>- pancreas insufficiëntie<br>- [[Malabsorptie]] / [[Malnutritie]] | - [[Rheumatoïde arthritis]]<br>- [[Spondyloarthritis]]<br>- [[Systeemziekten]] (SLE) | - [[Multipel myeloom]]<br>- skeletmetastasen<br>- hemolytische [[Anemie]] / hemoglobinopathiën<br>- myelo- & lymfoproliferatieve aandoeningen |
 
 ## Risicofactoren (voor heupfractuur)
