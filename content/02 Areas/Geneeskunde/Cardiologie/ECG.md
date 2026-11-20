@@ -4,7 +4,7 @@ tags:
   - Klinisch-redeneren
 publish: true
 created: 2025-01-28T15:31
-modified: 2026-10-14T18:06:32+02:00
+modified: 2026-11-16T12:30:43+01:00
 ---
 
 > [!info] Praktisch
@@ -120,7 +120,7 @@ Largest Column: standard
 
 |            | Sinusbradycardie                                                                                                                       | Sinustachycardie       | Sinus arrest                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Mechanisme |                                                                                                                                        |                        | = intermittent uitvallen impulsvorming in sinusknoop                                                           |
+| Mechanisme |                                                                                                                                        |                        | <span class="ptb" data-f="= intermittent uitvallen impulsvorming in sinusknoop">#NAME?</span>                  |
 | ECG        | - <50 bpm<br>- sinusaal (elke P-top gevolgd door QRS)<br>- indien te traag -> **escape ritme** met AV-dissociatie (=/= totaal AV-blok) | - >100 bpm             | - sinusaal tot arrest<br>- met of zonder escape ritme<br>- pauze is geen exact veelvoud van basaal PP-interval |
 | Voorbeeld  | ![[image-236.png]]                                                                                                                     | ![[image-234.png]]<br> | ![[image-237.png]]                                                                                             |
 

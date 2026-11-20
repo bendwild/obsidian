@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"d6241979f37dc80a","type":"file","file":"content/01 Projects/PhD/Frameworks/Co-design and implementation of a practice-embedded planetary health educational intervention for GP training.md","x":2240,"y":591,"width":400,"height":136},
 		{"id":"b7babf03490a8065","type":"text","text":"## <center>**RESEARCH QUESTION**</center>","x":-540,"y":-280,"width":506,"height":68},
 		{"id":"2a37387d1e6ad336","type":"text","text":"<center>How can planetary health education be designed, implemented and evaluated within GP training in Flanders to equip GPs with the knowledge and competencies needed to address and mitigate climate- and environment-related health risks and to provide environmentally responsive, sustainable and equitable primary care?\n</center>","x":-540,"y":-167,"width":506,"height":1106},
 		{"id":"77bd5d019eef535f","type":"text","text":"## <center>**SUB-QUESTIONS**</center>","x":35,"y":-280,"width":506,"height":68},
@@ -29,7 +30,6 @@
 		{"id":"bff5f0f228d58ecf","type":"text","text":"<center> Which planetary-health competencies are relevant to contemporary general practice and how can educational interventions addressing these competencies be co-designed and implemented within existing Flemish GP training structures</center>","x":35,"y":448,"width":506,"height":329},
 		{"id":"ea3d6d1babc1822a","type":"text","text":"Did knowledge/competence change?","x":1609,"y":839,"width":250,"height":68},
 		{"id":"24c1c0e409c1e237","type":"text","text":"Did clinical behaviour change?","x":1609,"y":956,"width":250,"height":68},
-		{"id":"2a8eef5511c1108a","type":"text","text":"Barriers/faciliators","x":1609,"y":1062,"width":250,"height":68},
 		{"id":"8eceac3a9fad0171","type":"text","text":"Why (not)?","x":2017,"y":907,"width":106,"height":68},
 		{"id":"90ab8b2f47c7d388","type":"text","text":"Qualitative","x":841,"y":1071,"width":188,"height":68},
 		{"id":"78fe05bb4ec48dd1","type":"text","text":"Quantitative","x":841,"y":848,"width":188,"height":130},
@@ -52,8 +52,6 @@
 		{"id":"cb1b05c8611c1f46","type":"text","text":"Paper 2: Preparedness of Flemish GP trainees for planetary-health challenges: a mixed-methods competency needs assessment","x":2240,"y":122,"width":400,"height":136},
 		{"id":"94a2120f778e7895","type":"text","text":"Paper 1 : Planetary health competencies for general practice: a scoping review and curriculum mapping study","x":2240,"y":-125,"width":400,"height":136},
 		{"id":"a515d8b9e8d69b57","type":"text","text":"## YEAR 2-3","x":2760,"y":122,"width":250,"height":225,"color":"1"},
-		{"id":"25f2e29dbd5ffdb4","type":"text","text":"Paper 3: Using routinely collected primary-care data to identify planetary-health educational priorities: development of a data-informed prioritisation approach","x":2240,"y":412,"width":400,"height":136},
-		{"id":"7a5f84cc13238473","type":"text","text":"Paper 4: Co-design and implementation of a practice-embedded planetary-health educational intervention for GP training","x":2240,"y":591,"width":400,"height":136},
 		{"id":"ee4798f439a52aab","type":"text","text":"## <center>**POTENTIAL BIAS/PITFALLS**</center>","x":3415,"y":-345,"width":506,"height":60},
 		{"id":"18f4120c3fc1d9ea","type":"text","text":"## <center>**STRENGTHS**</center>","x":3120,"y":-258,"width":506,"height":60},
 		{"id":"a9cf7c27e634f890","type":"text","text":"Scope too broad\n- focus on GP training?","x":3580,"y":-143,"width":250,"height":86},
@@ -62,11 +60,15 @@
 		{"id":"554d209cca30dc17","type":"text","text":"Organisatorisch, afvalbeleid, energieverbruik, verwarmingsbeleid","x":832,"y":388,"width":290,"height":92},
 		{"id":"0839cedaa831ffc2","type":"text","text":"Wat is een successvol traject tot implementation, how do you make it ","x":1443,"y":1143,"width":250,"height":137},
 		{"id":"ddb1e86094876d67","type":"text","text":"Wanneer denk je dat je een impact heb en met wat ben je tevreden?","x":1057,"y":1182,"width":250,"height":118},
-		{"id":"991b5d1cc8cd7b4d","type":"text","text":"Wat betekent dat: planetary health op huisartsenniveau","x":1981,"y":1167,"width":250,"height":113},
 		{"id":"3ce608d2fb023e1d","type":"text","text":"","x":2247,"y":1157,"width":250,"height":60},
 		{"id":"0d7c39cced6c741b","type":"text","text":"Brede groep lesgevers bevragen? Hoe relevant? Waarom komt dit nu (niet) aan bod?","x":336,"y":362,"width":250,"height":60},
 		{"id":"ee200a9489489bd1","type":"text","text":"HA vs specialisatie / kliniek","x":536,"y":351,"width":250,"height":60},
-		{"id":"b810f61649d7c2a8","type":"text","text":"Studentenbevragingen mening onderzoek (brigitte schoemaker?)","x":555,"y":461,"width":250,"height":55}
+		{"id":"b810f61649d7c2a8","type":"text","text":"Studentenbevragingen mening onderzoek (brigitte schoemaker?)","x":555,"y":461,"width":250,"height":55},
+		{"id":"991b5d1cc8cd7b4d","type":"text","text":"Wat betekent dat: planetary health op huisartsenniveau","x":1945,"y":1241,"width":250,"height":113},
+		{"id":"b0496af994f04fe4","x":1592,"y":1305,"width":250,"height":60,"type":"text","text":"Hoe brengen we dit best in de opleiding? "},
+		{"id":"bcbf5800cd16c065","x":1706,"y":1418,"width":250,"height":60,"type":"text","text":"What counts as evidence? "},
+		{"id":"2a8eef5511c1108a","type":"text","text":"Barriers/faciliators","x":1609,"y":1071,"width":250,"height":68},
+		{"id":"25f2e29dbd5ffdb4","type":"text","text":"Paper 3: Using routinely collected primary-care data to identify planetary-health educational priorities: development of a data-informed prioritisation approach","x":2240,"y":412,"width":400,"height":136}
 	],
 	"edges":[
 		{"id":"fd7f259fb3a72234","fromNode":"8c653ee81d11e62a","fromSide":"right","toNode":"80b740245e55c4ce","toSide":"left"},
@@ -120,7 +122,7 @@
 		{"id":"569c9471f1b30d92","fromNode":"5257bbb789b46e13","fromSide":"right","toNode":"94a2120f778e7895","toSide":"left"},
 		{"id":"70e821d88a8a2d11","fromNode":"5257bbb789b46e13","fromSide":"right","toNode":"cb1b05c8611c1f46","toSide":"left"},
 		{"id":"4f11757761e205d7","fromNode":"5b6c5cae47e6335e","fromSide":"right","toNode":"25f2e29dbd5ffdb4","toSide":"left"},
-		{"id":"de056021c15a2d8d","fromNode":"1690155fb314a05b","fromSide":"right","toNode":"7a5f84cc13238473","toSide":"left"},
+		{"id":"de056021c15a2d8d","fromNode":"1690155fb314a05b","fromSide":"right","toNode":"d6241979f37dc80a","toSide":"left"},
 		{"id":"bdc69b16fb661f85","fromNode":"8eceac3a9fad0171","fromSide":"right","toNode":"e1f9b6dfd17c17c1","toSide":"left"},
 		{"id":"3b603c7f1cf20c21","fromNode":"8eceac3a9fad0171","fromSide":"right","toNode":"304decf0d3e70bf7","toSide":"left"}
 	]
